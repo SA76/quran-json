@@ -1,0 +1,586 @@
+{
+  "meta": {
+    "source": "Quran.com API v4",
+    "base_url": "https://api.quran.com/api/v4",
+    "downloaded_at": "2025-12-09T04:54:12.461Z",
+    "translation_ids": {
+      "indonesian": 33,
+      "english": 20
+    }
+  },
+  "surah": {
+    "id": 114,
+    "name_simple": "An-Nas",
+    "name_complex": "An-Nās",
+    "name_arabic": "الناس",
+    "translated_name": {
+      "language_name": "english",
+      "name": "Mankind"
+    },
+    "revelation_place": "makkah",
+    "revelation_order": 21,
+    "bismillah_pre": true,
+    "verses_count": 6,
+    "pages": [
+      604,
+      604
+    ]
+  },
+  "ayahs": [
+    {
+      "id": 6231,
+      "verse_number": 1,
+      "verse_key": "114:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 558,
+      "page_number": 604,
+      "sajdah_number": null,
+      "text_arabic_simple": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+      "text_arabic_uthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "text_arabic_tajweed": "قُلْ أَعُوذُ بِرَبِّ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>١</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "قُلْ",
+            "audio_url": "wbw/114_001_001.mp3",
+            "translation": {
+              "text": "Say",
+              "language": "en"
+            },
+            "transliteration": "qul"
+          },
+          {
+            "position": 2,
+            "text_code": "أَعُوذُ",
+            "audio_url": "wbw/114_001_002.mp3",
+            "translation": {
+              "text": "I seek refuge",
+              "language": "en"
+            },
+            "transliteration": "aʿūdhu"
+          },
+          {
+            "position": 3,
+            "text_code": "بِرَبِّ",
+            "audio_url": "wbw/114_001_003.mp3",
+            "translation": {
+              "text": "in (the) Lord",
+              "language": "en"
+            },
+            "transliteration": "birabbi"
+          },
+          {
+            "position": 4,
+            "text_code": "ٱلنَّاسِ",
+            "audio_url": "wbw/114_001_004.mp3",
+            "translation": {
+              "text": "(of) mankind",
+              "language": "en"
+            },
+            "transliteration": "l-nāsi"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "قُلْ",
+            "audio_url": "wbw/114_001_001.mp3",
+            "translation": {
+              "text": "katakanlah",
+              "language": "id"
+            },
+            "transliteration": "qul"
+          },
+          {
+            "position": 2,
+            "text_code": "أَعُوذُ",
+            "audio_url": "wbw/114_001_002.mp3",
+            "translation": {
+              "text": "aku berlindung",
+              "language": "id"
+            },
+            "transliteration": "aʿūdhu"
+          },
+          {
+            "position": 3,
+            "text_code": "بِرَبِّ",
+            "audio_url": "wbw/114_001_003.mp3",
+            "translation": {
+              "text": "Tuhannya",
+              "language": "id"
+            },
+            "transliteration": "birabbi"
+          },
+          {
+            "position": 4,
+            "text_code": "ٱلنَّاسِ",
+            "audio_url": "wbw/114_001_004.mp3",
+            "translation": {
+              "text": "manusia",
+              "language": "id"
+            },
+            "transliteration": "l-nāsi"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Say, \"I seek refuge in the Lord of mankind,",
+        "id": "Katakanlah, \"Aku berlindung kepada Tuhannya manusia,"
+      }
+    },
+    {
+      "id": 6232,
+      "verse_number": 2,
+      "verse_key": "114:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 558,
+      "page_number": 604,
+      "sajdah_number": null,
+      "text_arabic_simple": "مَلِكِ النَّاسِ",
+      "text_arabic_uthmani": "مَلِكِ ٱلنَّاسِ",
+      "text_arabic_tajweed": "مَلِكِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>٢</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "مَلِكِ",
+            "audio_url": "wbw/114_002_001.mp3",
+            "translation": {
+              "text": "(The) King",
+              "language": "en"
+            },
+            "transliteration": "maliki"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلنَّاسِ",
+            "audio_url": "wbw/114_002_002.mp3",
+            "translation": {
+              "text": "(of) mankind",
+              "language": "en"
+            },
+            "transliteration": "l-nāsi"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "مَلِكِ",
+            "audio_url": "wbw/114_002_001.mp3",
+            "translation": {
+              "text": "Rajanya",
+              "language": "id"
+            },
+            "transliteration": "maliki"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلنَّاسِ",
+            "audio_url": "wbw/114_002_002.mp3",
+            "translation": {
+              "text": "manusia",
+              "language": "id"
+            },
+            "transliteration": "l-nāsi"
+          }
+        ]
+      },
+      "translations": {
+        "en": "The Sovereign of mankind,",
+        "id": "Raja manusia,"
+      }
+    },
+    {
+      "id": 6233,
+      "verse_number": 3,
+      "verse_key": "114:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 558,
+      "page_number": 604,
+      "sajdah_number": null,
+      "text_arabic_simple": "إِلَٰهِ النَّاسِ",
+      "text_arabic_uthmani": "إِلَـٰهِ ٱلنَّاسِ",
+      "text_arabic_tajweed": "إِلَ<tajweed class=madda_normal>ـٰ</tajweed>هِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>٣</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "إِلَـٰهِ",
+            "audio_url": "wbw/114_003_001.mp3",
+            "translation": {
+              "text": "(The) God",
+              "language": "en"
+            },
+            "transliteration": "ilāhi"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلنَّاسِ",
+            "audio_url": "wbw/114_003_002.mp3",
+            "translation": {
+              "text": "(of) mankind",
+              "language": "en"
+            },
+            "transliteration": "l-nāsi"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "إِلَـٰهِ",
+            "audio_url": "wbw/114_003_001.mp3",
+            "translation": {
+              "text": "Tuhannya",
+              "language": "id"
+            },
+            "transliteration": "ilāhi"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلنَّاسِ",
+            "audio_url": "wbw/114_003_002.mp3",
+            "translation": {
+              "text": "manusia",
+              "language": "id"
+            },
+            "transliteration": "l-nāsi"
+          }
+        ]
+      },
+      "translations": {
+        "en": "The God of mankind,",
+        "id": "sembahan manusia,"
+      }
+    },
+    {
+      "id": 6234,
+      "verse_number": 4,
+      "verse_key": "114:4",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 558,
+      "page_number": 604,
+      "sajdah_number": null,
+      "text_arabic_simple": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+      "text_arabic_uthmani": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "text_arabic_tajweed": "مِ<tajweed class=ikhafa>ن ش</tajweed>َرِّ <tajweed class=ham_wasl>ٱ</tajweed>لْوَسْوَاسِ <tajweed class=ham_wasl>ٱ</tajweed>لْخَ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>٤</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "مِن",
+            "audio_url": "wbw/114_004_001.mp3",
+            "translation": {
+              "text": "From",
+              "language": "en"
+            },
+            "transliteration": "min"
+          },
+          {
+            "position": 2,
+            "text_code": "شَرِّ",
+            "audio_url": "wbw/114_004_002.mp3",
+            "translation": {
+              "text": "(the) evil",
+              "language": "en"
+            },
+            "transliteration": "sharri"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلْوَسْوَاسِ",
+            "audio_url": "wbw/114_004_003.mp3",
+            "translation": {
+              "text": "(of) the whisperer",
+              "language": "en"
+            },
+            "transliteration": "l-waswāsi"
+          },
+          {
+            "position": 4,
+            "text_code": "ٱلْخَنَّاسِ",
+            "audio_url": "wbw/114_004_004.mp3",
+            "translation": {
+              "text": "the one who withdraws",
+              "language": "en"
+            },
+            "transliteration": "l-khanāsi"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "مِن",
+            "audio_url": "wbw/114_004_001.mp3",
+            "translation": {
+              "text": "dari",
+              "language": "id"
+            },
+            "transliteration": "min"
+          },
+          {
+            "position": 2,
+            "text_code": "شَرِّ",
+            "audio_url": "wbw/114_004_002.mp3",
+            "translation": {
+              "text": "kejahatan",
+              "language": "id"
+            },
+            "transliteration": "sharri"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلْوَسْوَاسِ",
+            "audio_url": "wbw/114_004_003.mp3",
+            "translation": {
+              "text": "bisikkan",
+              "language": "id"
+            },
+            "transliteration": "l-waswāsi"
+          },
+          {
+            "position": 4,
+            "text_code": "ٱلْخَنَّاسِ",
+            "audio_url": "wbw/114_004_004.mp3",
+            "translation": {
+              "text": "menunggu-nunggu/bersembunyi",
+              "language": "id"
+            },
+            "transliteration": "l-khanāsi"
+          }
+        ]
+      },
+      "translations": {
+        "en": "From the evil of the retreating whisperer<sup foot_note=197832>1</sup> -",
+        "id": "dari kejahatan (bisikan) setan yang bersembunyi,"
+      }
+    },
+    {
+      "id": 6235,
+      "verse_number": 5,
+      "verse_key": "114:5",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 558,
+      "page_number": 604,
+      "sajdah_number": null,
+      "text_arabic_simple": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+      "text_arabic_uthmani": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "text_arabic_tajweed": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>٥</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "ٱلَّذِى",
+            "audio_url": "wbw/114_005_001.mp3",
+            "translation": {
+              "text": "The one who",
+              "language": "en"
+            },
+            "transliteration": "alladhī"
+          },
+          {
+            "position": 2,
+            "text_code": "يُوَسْوِسُ",
+            "audio_url": "wbw/114_005_002.mp3",
+            "translation": {
+              "text": "whispers",
+              "language": "en"
+            },
+            "transliteration": "yuwaswisu"
+          },
+          {
+            "position": 3,
+            "text_code": "فِى",
+            "audio_url": "wbw/114_005_003.mp3",
+            "translation": {
+              "text": "in",
+              "language": "en"
+            },
+            "transliteration": "fī"
+          },
+          {
+            "position": 4,
+            "text_code": "صُدُورِ",
+            "audio_url": "wbw/114_005_004.mp3",
+            "translation": {
+              "text": "(the) breasts",
+              "language": "en"
+            },
+            "transliteration": "ṣudūri"
+          },
+          {
+            "position": 5,
+            "text_code": "ٱلنَّاسِ",
+            "audio_url": "wbw/114_005_005.mp3",
+            "translation": {
+              "text": "(of) mankind",
+              "language": "en"
+            },
+            "transliteration": "l-nāsi"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "ٱلَّذِى",
+            "audio_url": "wbw/114_005_001.mp3",
+            "translation": {
+              "text": "yang",
+              "language": "id"
+            },
+            "transliteration": "alladhī"
+          },
+          {
+            "position": 2,
+            "text_code": "يُوَسْوِسُ",
+            "audio_url": "wbw/114_005_002.mp3",
+            "translation": {
+              "text": "membisik-bisikan",
+              "language": "id"
+            },
+            "transliteration": "yuwaswisu"
+          },
+          {
+            "position": 3,
+            "text_code": "فِى",
+            "audio_url": "wbw/114_005_003.mp3",
+            "translation": {
+              "text": "dalam",
+              "language": "id"
+            },
+            "transliteration": "fī"
+          },
+          {
+            "position": 4,
+            "text_code": "صُدُورِ",
+            "audio_url": "wbw/114_005_004.mp3",
+            "translation": {
+              "text": "dada",
+              "language": "id"
+            },
+            "transliteration": "ṣudūri"
+          },
+          {
+            "position": 5,
+            "text_code": "ٱلنَّاسِ",
+            "audio_url": "wbw/114_005_005.mp3",
+            "translation": {
+              "text": "manusia",
+              "language": "id"
+            },
+            "transliteration": "l-nāsi"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Who whispers [evil] into the breasts of mankind -",
+        "id": "yang membisikkan (kejahatan) ke dalam dada manusia,"
+      }
+    },
+    {
+      "id": 6236,
+      "verse_number": 6,
+      "verse_key": "114:6",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 558,
+      "page_number": 604,
+      "sajdah_number": null,
+      "text_arabic_simple": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+      "text_arabic_uthmani": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "text_arabic_tajweed": "مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْجِ<tajweed class=ghunnah>نّ</tajweed>َةِ وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>٦</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "مِنَ",
+            "audio_url": "wbw/114_006_001.mp3",
+            "translation": {
+              "text": "From",
+              "language": "en"
+            },
+            "transliteration": "mina"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلْجِنَّةِ",
+            "audio_url": "wbw/114_006_002.mp3",
+            "translation": {
+              "text": "the jinn",
+              "language": "en"
+            },
+            "transliteration": "l-jinati"
+          },
+          {
+            "position": 3,
+            "text_code": "وَٱلنَّاسِ",
+            "audio_url": "wbw/114_006_003.mp3",
+            "translation": {
+              "text": "and men",
+              "language": "en"
+            },
+            "transliteration": "wal-nāsi"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "مِنَ",
+            "audio_url": "wbw/114_006_001.mp3",
+            "translation": {
+              "text": "dari",
+              "language": "id"
+            },
+            "transliteration": "mina"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلْجِنَّةِ",
+            "audio_url": "wbw/114_006_002.mp3",
+            "translation": {
+              "text": "jin",
+              "language": "id"
+            },
+            "transliteration": "l-jinati"
+          },
+          {
+            "position": 3,
+            "text_code": "وَٱلنَّاسِ",
+            "audio_url": "wbw/114_006_003.mp3",
+            "translation": {
+              "text": "dan manusia",
+              "language": "id"
+            },
+            "transliteration": "wal-nāsi"
+          }
+        ]
+      },
+      "translations": {
+        "en": "From among the jinn and mankind\".<sup foot_note=197833>1</sup>",
+        "id": "dari (golongan) jin dan manusia.\""
+      }
+    }
+  ],
+  "stats": {
+    "total_ayahs": 6,
+    "total_words_en": 20,
+    "total_words_id": 20
+  }
+}

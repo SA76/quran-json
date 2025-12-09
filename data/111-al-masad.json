@@ -1,0 +1,621 @@
+{
+  "meta": {
+    "source": "Quran.com API v4",
+    "base_url": "https://api.quran.com/api/v4",
+    "downloaded_at": "2025-12-09T04:54:04.641Z",
+    "translation_ids": {
+      "indonesian": 33,
+      "english": 20
+    }
+  },
+  "surah": {
+    "id": 111,
+    "name_simple": "Al-Masad",
+    "name_complex": "Al-Masad",
+    "name_arabic": "المسد",
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Palm Fiber"
+    },
+    "revelation_place": "makkah",
+    "revelation_order": 6,
+    "bismillah_pre": true,
+    "verses_count": 5,
+    "pages": [
+      603,
+      603
+    ]
+  },
+  "ayahs": [
+    {
+      "id": 6217,
+      "verse_number": 1,
+      "verse_key": "111:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 555,
+      "page_number": 603,
+      "sajdah_number": null,
+      "text_arabic_simple": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+      "text_arabic_uthmani": " تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+      "text_arabic_tajweed": "تَبَّتْ يَد<tajweed class=madda_obligatory>َآ</tajweed> أَبِى لَهَ<tajweed class=idgham_ghunnah>بٍ و</tajweed>َتَ<tajweed class=qalaqah>ب</tajweed>َّ <span class=end>١</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "تَبَّتْ",
+            "audio_url": "wbw/111_001_001.mp3",
+            "translation": {
+              "text": "Perish",
+              "language": "en"
+            },
+            "transliteration": "tabbat"
+          },
+          {
+            "position": 2,
+            "text_code": "يَدَآ",
+            "audio_url": "wbw/111_001_002.mp3",
+            "translation": {
+              "text": "(the) hands",
+              "language": "en"
+            },
+            "transliteration": "yadā"
+          },
+          {
+            "position": 3,
+            "text_code": "أَبِى",
+            "audio_url": "wbw/111_001_003.mp3",
+            "translation": {
+              "text": "(of) Abu",
+              "language": "en"
+            },
+            "transliteration": "abī"
+          },
+          {
+            "position": 4,
+            "text_code": "لَهَبٍۢ",
+            "audio_url": "wbw/111_001_004.mp3",
+            "translation": {
+              "text": "Lahab",
+              "language": "en"
+            },
+            "transliteration": "lahabin"
+          },
+          {
+            "position": 5,
+            "text_code": "وَتَبَّ",
+            "audio_url": "wbw/111_001_005.mp3",
+            "translation": {
+              "text": "and perish he",
+              "language": "en"
+            },
+            "transliteration": "watabba"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "تَبَّتْ",
+            "audio_url": "wbw/111_001_001.mp3",
+            "translation": {
+              "text": "binasalah",
+              "language": "id"
+            },
+            "transliteration": "tabbat"
+          },
+          {
+            "position": 2,
+            "text_code": "يَدَآ",
+            "audio_url": "wbw/111_001_002.mp3",
+            "translation": {
+              "text": "kedua tangan",
+              "language": "id"
+            },
+            "transliteration": "yadā"
+          },
+          {
+            "position": 3,
+            "text_code": "أَبِى",
+            "audio_url": "wbw/111_001_003.mp3",
+            "translation": {
+              "text": "Abu",
+              "language": "id"
+            },
+            "transliteration": "abī"
+          },
+          {
+            "position": 4,
+            "text_code": "لَهَبٍۢ",
+            "audio_url": "wbw/111_001_004.mp3",
+            "translation": {
+              "text": "Lahab",
+              "language": "id"
+            },
+            "transliteration": "lahabin"
+          },
+          {
+            "position": 5,
+            "text_code": "وَتَبَّ",
+            "audio_url": "wbw/111_001_005.mp3",
+            "translation": {
+              "text": "sebenar-benar binasa",
+              "language": "id"
+            },
+            "transliteration": "watabba"
+          }
+        ]
+      },
+      "translations": {
+        "en": "May the hands of Abū Lahab be ruined, and ruined is he.<sup foot_note=197827>1</sup>",
+        "id": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia!<sup foot_note=135881>1</sup>"
+      }
+    },
+    {
+      "id": 6218,
+      "verse_number": 2,
+      "verse_key": "111:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 555,
+      "page_number": 603,
+      "sajdah_number": null,
+      "text_arabic_simple": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
+      "text_arabic_uthmani": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "text_arabic_tajweed": "م<tajweed class=madda_obligatory>َآ</tajweed> أَغْنَىٰ عَنْهُ مَالُهُ<tajweed class=madda_normal>ۥ</tajweed> وَمَا كَسَ<tajweed class=qalaqah>ب</tajweed>َ <span class=end>٢</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "مَآ",
+            "audio_url": "wbw/111_002_001.mp3",
+            "translation": {
+              "text": "Not",
+              "language": "en"
+            },
+            "transliteration": "mā"
+          },
+          {
+            "position": 2,
+            "text_code": "أَغْنَىٰ",
+            "audio_url": "wbw/111_002_002.mp3",
+            "translation": {
+              "text": "(will) avail",
+              "language": "en"
+            },
+            "transliteration": "aghnā"
+          },
+          {
+            "position": 3,
+            "text_code": "عَنْهُ",
+            "audio_url": "wbw/111_002_003.mp3",
+            "translation": {
+              "text": "him",
+              "language": "en"
+            },
+            "transliteration": "ʿanhu"
+          },
+          {
+            "position": 4,
+            "text_code": "مَالُهُۥ",
+            "audio_url": "wbw/111_002_004.mp3",
+            "translation": {
+              "text": "his wealth",
+              "language": "en"
+            },
+            "transliteration": "māluhu"
+          },
+          {
+            "position": 5,
+            "text_code": "وَمَا",
+            "audio_url": "wbw/111_002_005.mp3",
+            "translation": {
+              "text": "and what",
+              "language": "en"
+            },
+            "transliteration": "wamā"
+          },
+          {
+            "position": 6,
+            "text_code": "كَسَبَ",
+            "audio_url": "wbw/111_002_006.mp3",
+            "translation": {
+              "text": "he earned",
+              "language": "en"
+            },
+            "transliteration": "kasaba"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "مَآ",
+            "audio_url": "wbw/111_002_001.mp3",
+            "translation": {
+              "text": "tidak",
+              "language": "id"
+            },
+            "transliteration": "mā"
+          },
+          {
+            "position": 2,
+            "text_code": "أَغْنَىٰ",
+            "audio_url": "wbw/111_002_002.mp3",
+            "translation": {
+              "text": "berguna",
+              "language": "id"
+            },
+            "transliteration": "aghnā"
+          },
+          {
+            "position": 3,
+            "text_code": "عَنْهُ",
+            "audio_url": "wbw/111_002_003.mp3",
+            "translation": {
+              "text": "dari padanya/kepadanya",
+              "language": "id"
+            },
+            "transliteration": "ʿanhu"
+          },
+          {
+            "position": 4,
+            "text_code": "مَالُهُۥ",
+            "audio_url": "wbw/111_002_004.mp3",
+            "translation": {
+              "text": "hartanya",
+              "language": "id"
+            },
+            "transliteration": "māluhu"
+          },
+          {
+            "position": 5,
+            "text_code": "وَمَا",
+            "audio_url": "wbw/111_002_005.mp3",
+            "translation": {
+              "text": "dan apa",
+              "language": "id"
+            },
+            "transliteration": "wamā"
+          },
+          {
+            "position": 6,
+            "text_code": "كَسَبَ",
+            "audio_url": "wbw/111_002_006.mp3",
+            "translation": {
+              "text": "yang ia usahakan",
+              "language": "id"
+            },
+            "transliteration": "kasaba"
+          }
+        ]
+      },
+      "translations": {
+        "en": "His wealth will not avail him or that which he gained.",
+        "id": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan."
+      }
+    },
+    {
+      "id": 6219,
+      "verse_number": 3,
+      "verse_key": "111:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 555,
+      "page_number": 603,
+      "sajdah_number": null,
+      "text_arabic_simple": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "text_arabic_uthmani": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "text_arabic_tajweed": "سَيَصْلَىٰ نَا<tajweed class=ikhafa>رًا ذ</tajweed>َاتَ لَهَ<tajweed class=qalaqah>ب</tajweed>ٍ <span class=end>٣</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "سَيَصْلَىٰ",
+            "audio_url": "wbw/111_003_001.mp3",
+            "translation": {
+              "text": "He will be burnt",
+              "language": "en"
+            },
+            "transliteration": "sayaṣlā"
+          },
+          {
+            "position": 2,
+            "text_code": "نَارًۭا",
+            "audio_url": "wbw/111_003_002.mp3",
+            "translation": {
+              "text": "(in) a Fire",
+              "language": "en"
+            },
+            "transliteration": "nāran"
+          },
+          {
+            "position": 3,
+            "text_code": "ذَاتَ",
+            "audio_url": "wbw/111_003_003.mp3",
+            "translation": {
+              "text": "of",
+              "language": "en"
+            },
+            "transliteration": "dhāta"
+          },
+          {
+            "position": 4,
+            "text_code": "لَهَبٍۢ",
+            "audio_url": "wbw/111_003_004.mp3",
+            "translation": {
+              "text": "Blazing Flames",
+              "language": "en"
+            },
+            "transliteration": "lahabin"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "سَيَصْلَىٰ",
+            "audio_url": "wbw/111_003_001.mp3",
+            "translation": {
+              "text": "kelak ia akan masuk",
+              "language": "id"
+            },
+            "transliteration": "sayaṣlā"
+          },
+          {
+            "position": 2,
+            "text_code": "نَارًۭا",
+            "audio_url": "wbw/111_003_002.mp3",
+            "translation": {
+              "text": "api",
+              "language": "id"
+            },
+            "transliteration": "nāran"
+          },
+          {
+            "position": 3,
+            "text_code": "ذَاتَ",
+            "audio_url": "wbw/111_003_003.mp3",
+            "translation": {
+              "text": "mempunyai",
+              "language": "id"
+            },
+            "transliteration": "dhāta"
+          },
+          {
+            "position": 4,
+            "text_code": "لَهَبٍۢ",
+            "audio_url": "wbw/111_003_004.mp3",
+            "translation": {
+              "text": "begejolak",
+              "language": "id"
+            },
+            "transliteration": "lahabin"
+          }
+        ]
+      },
+      "translations": {
+        "en": "He will [enter to] burn in a Fire of [blazing] flame",
+        "id": "Kelak dia akan masuk ke dalam api yang bergejolak (neraka)."
+      }
+    },
+    {
+      "id": 6220,
+      "verse_number": 4,
+      "verse_key": "111:4",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 555,
+      "page_number": 603,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+      "text_arabic_uthmani": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "text_arabic_tajweed": "وَ<tajweed class=ham_wasl>ٱ</tajweed>مْرَأَتُهُ<tajweed class=madda_normal>ۥ</tajweed> حَ<tajweed class=ghunnah>مّ</tajweed>َالَةَ <tajweed class=ham_wasl>ٱ</tajweed>لْحَطَ<tajweed class=qalaqah>ب</tajweed>ِ <span class=end>٤</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَٱمْرَأَتُهُۥ",
+            "audio_url": "wbw/111_004_001.mp3",
+            "translation": {
+              "text": "And his wife",
+              "language": "en"
+            },
+            "transliteration": "wa-im'ra-atuhu"
+          },
+          {
+            "position": 2,
+            "text_code": "حَمَّالَةَ",
+            "audio_url": "wbw/111_004_002.mp3",
+            "translation": {
+              "text": "(the) carrier",
+              "language": "en"
+            },
+            "transliteration": "ḥammālata"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلْحَطَبِ",
+            "audio_url": "wbw/111_004_003.mp3",
+            "translation": {
+              "text": "(of) firewood",
+              "language": "en"
+            },
+            "transliteration": "l-ḥaṭabi"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَٱمْرَأَتُهُۥ",
+            "audio_url": "wbw/111_004_001.mp3",
+            "translation": {
+              "text": "dan istrinya",
+              "language": "id"
+            },
+            "transliteration": "wa-im'ra-atuhu"
+          },
+          {
+            "position": 2,
+            "text_code": "حَمَّالَةَ",
+            "audio_url": "wbw/111_004_002.mp3",
+            "translation": {
+              "text": "pembawa",
+              "language": "id"
+            },
+            "transliteration": "ḥammālata"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلْحَطَبِ",
+            "audio_url": "wbw/111_004_003.mp3",
+            "translation": {
+              "text": "kayu bakar",
+              "language": "id"
+            },
+            "transliteration": "l-ḥaṭabi"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And his wife [as well] - the carrier of firewood.<sup foot_note=197828>1</sup>",
+        "id": "Dan (begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah)."
+      }
+    },
+    {
+      "id": 6221,
+      "verse_number": 5,
+      "verse_key": "111:5",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 555,
+      "page_number": 603,
+      "sajdah_number": null,
+      "text_arabic_simple": "فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ",
+      "text_arabic_uthmani": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+      "text_arabic_tajweed": "فِى جِيدِهَا حَ<tajweed class=qalaqah>بْ</tajweed><tajweed class=idgham_ghunnah>لٌ م</tajweed>ّ<tajweed class=idgham_ghunnah>ِن م</tajweed>َّسَ<tajweed class=qalaqah>د</tajweed>ِۭ <span class=end>٥</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "فِى",
+            "audio_url": "wbw/111_005_001.mp3",
+            "translation": {
+              "text": "In",
+              "language": "en"
+            },
+            "transliteration": "fī"
+          },
+          {
+            "position": 2,
+            "text_code": "جِيدِهَا",
+            "audio_url": "wbw/111_005_002.mp3",
+            "translation": {
+              "text": "her neck",
+              "language": "en"
+            },
+            "transliteration": "jīdihā"
+          },
+          {
+            "position": 3,
+            "text_code": "حَبْلٌۭ",
+            "audio_url": "wbw/111_005_003.mp3",
+            "translation": {
+              "text": "(will be) a rope",
+              "language": "en"
+            },
+            "transliteration": "ḥablun"
+          },
+          {
+            "position": 4,
+            "text_code": "مِّن",
+            "audio_url": "wbw/111_005_004.mp3",
+            "translation": {
+              "text": "of",
+              "language": "en"
+            },
+            "transliteration": "min"
+          },
+          {
+            "position": 5,
+            "text_code": "مَّسَدٍۭ",
+            "audio_url": "wbw/111_005_005.mp3",
+            "translation": {
+              "text": "palm-fiber",
+              "language": "en"
+            },
+            "transliteration": "masadin"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "فِى",
+            "audio_url": "wbw/111_005_001.mp3",
+            "translation": {
+              "text": "pada",
+              "language": "id"
+            },
+            "transliteration": "fī"
+          },
+          {
+            "position": 2,
+            "text_code": "جِيدِهَا",
+            "audio_url": "wbw/111_005_002.mp3",
+            "translation": {
+              "text": "lehernya",
+              "language": "id"
+            },
+            "transliteration": "jīdihā"
+          },
+          {
+            "position": 3,
+            "text_code": "حَبْلٌۭ",
+            "audio_url": "wbw/111_005_003.mp3",
+            "translation": {
+              "text": "tali",
+              "language": "id"
+            },
+            "transliteration": "ḥablun"
+          },
+          {
+            "position": 4,
+            "text_code": "مِّن",
+            "audio_url": "wbw/111_005_004.mp3",
+            "translation": {
+              "text": "dari",
+              "language": "id"
+            },
+            "transliteration": "min"
+          },
+          {
+            "position": 5,
+            "text_code": "مَّسَدٍۭ",
+            "audio_url": "wbw/111_005_005.mp3",
+            "translation": {
+              "text": "sabut",
+              "language": "id"
+            },
+            "transliteration": "masadin"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Around her neck is a rope of [twisted] fiber.",
+        "id": "Di lehernya ada tali dari sabut yang dipintal."
+      }
+    }
+  ],
+  "stats": {
+    "total_ayahs": 5,
+    "total_words_en": 23,
+    "total_words_id": 23
+  }
+}

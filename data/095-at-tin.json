@@ -1,0 +1,916 @@
+{
+  "meta": {
+    "source": "Quran.com API v4",
+    "base_url": "https://api.quran.com/api/v4",
+    "downloaded_at": "2025-12-09T04:53:21.940Z",
+    "translation_ids": {
+      "indonesian": 33,
+      "english": 20
+    }
+  },
+  "surah": {
+    "id": 95,
+    "name_simple": "At-Tin",
+    "name_complex": "At-Tīn",
+    "name_arabic": "التين",
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Fig"
+    },
+    "revelation_place": "makkah",
+    "revelation_order": 28,
+    "bismillah_pre": true,
+    "verses_count": 8,
+    "pages": [
+      597,
+      597
+    ]
+  },
+  "ayahs": [
+    {
+      "id": 6099,
+      "verse_number": 1,
+      "verse_key": "95:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 539,
+      "page_number": 597,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَالتِّينِ وَالزَّيْتُونِ",
+      "text_arabic_uthmani": "وَٱلتِّينِ وَٱلزَّيْتُونِ",
+      "text_arabic_tajweed": "وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>تِّينِ وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>زَّيْت<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَٱلتِّينِ",
+            "audio_url": "wbw/095_001_001.mp3",
+            "translation": {
+              "text": "By the fig",
+              "language": "en"
+            },
+            "transliteration": "wal-tīni"
+          },
+          {
+            "position": 2,
+            "text_code": "وَٱلزَّيْتُونِ",
+            "audio_url": "wbw/095_001_002.mp3",
+            "translation": {
+              "text": "and the olive",
+              "language": "en"
+            },
+            "transliteration": "wal-zaytūni"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَٱلتِّينِ",
+            "audio_url": "wbw/095_001_001.mp3",
+            "translation": {
+              "text": "demi tin",
+              "language": "id"
+            },
+            "transliteration": "wal-tīni"
+          },
+          {
+            "position": 2,
+            "text_code": "وَٱلزَّيْتُونِ",
+            "audio_url": "wbw/095_001_002.mp3",
+            "translation": {
+              "text": "dan zaitun",
+              "language": "id"
+            },
+            "transliteration": "wal-zaytūni"
+          }
+        ]
+      },
+      "translations": {
+        "en": "By the fig and the olive<sup foot_note=197782>1</sup>",
+        "id": "Demi (buah) Tin dan (buah) Zaitun,<sup foot_note=135867>1</sup>"
+      }
+    },
+    {
+      "id": 6100,
+      "verse_number": 2,
+      "verse_key": "95:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 539,
+      "page_number": 597,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَطُورِ سِينِينَ",
+      "text_arabic_uthmani": "وَطُورِ سِينِينَ",
+      "text_arabic_tajweed": "وَطُورِ سِين<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَطُورِ",
+            "audio_url": "wbw/095_002_001.mp3",
+            "translation": {
+              "text": "And (the) Mount",
+              "language": "en"
+            },
+            "transliteration": "waṭūri"
+          },
+          {
+            "position": 2,
+            "text_code": "سِينِينَ",
+            "audio_url": "wbw/095_002_002.mp3",
+            "translation": {
+              "text": "Sinai",
+              "language": "en"
+            },
+            "transliteration": "sīnīna"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَطُورِ",
+            "audio_url": "wbw/095_002_001.mp3",
+            "translation": {
+              "text": "dan bukit",
+              "language": "id"
+            },
+            "transliteration": "waṭūri"
+          },
+          {
+            "position": 2,
+            "text_code": "سِينِينَ",
+            "audio_url": "wbw/095_002_002.mp3",
+            "translation": {
+              "text": "Sinai",
+              "language": "id"
+            },
+            "transliteration": "sīnīna"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And [by] Mount Sinai",
+        "id": "demi gunung Sinai, <sup foot_note=135868>1</sup>"
+      }
+    },
+    {
+      "id": 6101,
+      "verse_number": 3,
+      "verse_key": "95:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 539,
+      "page_number": 597,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَهَٰذَا الْبَلَدِ الْأَمِينِ",
+      "text_arabic_uthmani": "وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+      "text_arabic_tajweed": "وَهَ<tajweed class=madda_normal>ـٰ</tajweed>ذَا <tajweed class=ham_wasl>ٱ</tajweed>لْبَلَدِ <tajweed class=ham_wasl>ٱ</tajweed>لْأَم<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٣</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَهَـٰذَا",
+            "audio_url": "wbw/095_003_001.mp3",
+            "translation": {
+              "text": "And this",
+              "language": "en"
+            },
+            "transliteration": "wahādhā"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلْبَلَدِ",
+            "audio_url": "wbw/095_003_002.mp3",
+            "translation": {
+              "text": "[the] city",
+              "language": "en"
+            },
+            "transliteration": "l-baladi"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلْأَمِينِ",
+            "audio_url": "wbw/095_003_003.mp3",
+            "translation": {
+              "text": "[the] secure",
+              "language": "en"
+            },
+            "transliteration": "l-amīni"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَهَـٰذَا",
+            "audio_url": "wbw/095_003_001.mp3",
+            "translation": {
+              "text": "dan ini",
+              "language": "id"
+            },
+            "transliteration": "wahādhā"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلْبَلَدِ",
+            "audio_url": "wbw/095_003_002.mp3",
+            "translation": {
+              "text": "negri",
+              "language": "id"
+            },
+            "transliteration": "l-baladi"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلْأَمِينِ",
+            "audio_url": "wbw/095_003_003.mp3",
+            "translation": {
+              "text": "aman",
+              "language": "id"
+            },
+            "transliteration": "l-amīni"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And [by] this secure city [i.e., Makkah],",
+        "id": "dan demi negeri (Mekkah) yang aman ini."
+      }
+    },
+    {
+      "id": 6102,
+      "verse_number": 4,
+      "verse_key": "95:4",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 539,
+      "page_number": 597,
+      "sajdah_number": null,
+      "text_arabic_simple": "لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
+      "text_arabic_uthmani": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ",
+      "text_arabic_tajweed": "لَقَ<tajweed class=qalaqah>دْ</tajweed> خَلَ<tajweed class=qalaqah>قْ</tajweed>نَا <tajweed class=ham_wasl>ٱ</tajweed>لْإِ<tajweed class=ikhafa>نس</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>نَ ف<tajweed class=madda_obligatory>ِىٓ</tajweed> أَحْسَنِ تَ<tajweed class=qalaqah>قْ</tajweed>و<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>٤</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "لَقَدْ",
+            "audio_url": "wbw/095_004_001.mp3",
+            "translation": {
+              "text": "Indeed",
+              "language": "en"
+            },
+            "transliteration": "laqad"
+          },
+          {
+            "position": 2,
+            "text_code": "خَلَقْنَا",
+            "audio_url": "wbw/095_004_002.mp3",
+            "translation": {
+              "text": "We created",
+              "language": "en"
+            },
+            "transliteration": "khalaqnā"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلْإِنسَـٰنَ",
+            "audio_url": "wbw/095_004_003.mp3",
+            "translation": {
+              "text": "man",
+              "language": "en"
+            },
+            "transliteration": "l-insāna"
+          },
+          {
+            "position": 4,
+            "text_code": "فِىٓ",
+            "audio_url": "wbw/095_004_004.mp3",
+            "translation": {
+              "text": "in",
+              "language": "en"
+            },
+            "transliteration": "fī"
+          },
+          {
+            "position": 5,
+            "text_code": "أَحْسَنِ",
+            "audio_url": "wbw/095_004_005.mp3",
+            "translation": {
+              "text": "(the) best",
+              "language": "en"
+            },
+            "transliteration": "aḥsani"
+          },
+          {
+            "position": 6,
+            "text_code": "تَقْوِيمٍۢ",
+            "audio_url": "wbw/095_004_006.mp3",
+            "translation": {
+              "text": "mould",
+              "language": "en"
+            },
+            "transliteration": "taqwīmin"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "لَقَدْ",
+            "audio_url": "wbw/095_004_001.mp3",
+            "translation": {
+              "text": "sesungguhnya",
+              "language": "id"
+            },
+            "transliteration": "laqad"
+          },
+          {
+            "position": 2,
+            "text_code": "خَلَقْنَا",
+            "audio_url": "wbw/095_004_002.mp3",
+            "translation": {
+              "text": "Kami telah menciptakan",
+              "language": "id"
+            },
+            "transliteration": "khalaqnā"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلْإِنسَـٰنَ",
+            "audio_url": "wbw/095_004_003.mp3",
+            "translation": {
+              "text": "manusia",
+              "language": "id"
+            },
+            "transliteration": "l-insāna"
+          },
+          {
+            "position": 4,
+            "text_code": "فِىٓ",
+            "audio_url": "wbw/095_004_004.mp3",
+            "translation": {
+              "text": "dalam",
+              "language": "id"
+            },
+            "transliteration": "fī"
+          },
+          {
+            "position": 5,
+            "text_code": "أَحْسَنِ",
+            "audio_url": "wbw/095_004_005.mp3",
+            "translation": {
+              "text": "sebaik-baik",
+              "language": "id"
+            },
+            "transliteration": "aḥsani"
+          },
+          {
+            "position": 6,
+            "text_code": "تَقْوِيمٍۢ",
+            "audio_url": "wbw/095_004_006.mp3",
+            "translation": {
+              "text": "bentuk",
+              "language": "id"
+            },
+            "transliteration": "taqwīmin"
+          }
+        ]
+      },
+      "translations": {
+        "en": "We have certainly created man in the best of stature;<sup foot_note=197783>1</sup>",
+        "id": "Sungguh, Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya,"
+      }
+    },
+    {
+      "id": 6103,
+      "verse_number": 5,
+      "verse_key": "95:5",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 539,
+      "page_number": 597,
+      "sajdah_number": null,
+      "text_arabic_simple": "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ",
+      "text_arabic_uthmani": "ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ",
+      "text_arabic_tajweed": "ثُ<tajweed class=ghunnah>مّ</tajweed>َ رَدَ<tajweed class=qalaqah>دْ</tajweed>نَ<tajweed class=madda_normal>ـٰ</tajweed>هُ أَسْفَلَ سَ<tajweed class=madda_normal>ـٰ</tajweed>فِل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٥</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "ثُمَّ",
+            "audio_url": "wbw/095_005_001.mp3",
+            "translation": {
+              "text": "Then",
+              "language": "en"
+            },
+            "transliteration": "thumma"
+          },
+          {
+            "position": 2,
+            "text_code": "رَدَدْنَـٰهُ",
+            "audio_url": "wbw/095_005_002.mp3",
+            "translation": {
+              "text": "We returned him",
+              "language": "en"
+            },
+            "transliteration": "radadnāhu"
+          },
+          {
+            "position": 3,
+            "text_code": "أَسْفَلَ",
+            "audio_url": "wbw/095_005_003.mp3",
+            "translation": {
+              "text": "(to the) lowest",
+              "language": "en"
+            },
+            "transliteration": "asfala"
+          },
+          {
+            "position": 4,
+            "text_code": "سَـٰفِلِينَ",
+            "audio_url": "wbw/095_005_004.mp3",
+            "translation": {
+              "text": "(of the) low",
+              "language": "en"
+            },
+            "transliteration": "sāfilīna"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "ثُمَّ",
+            "audio_url": "wbw/095_005_001.mp3",
+            "translation": {
+              "text": "kemudian",
+              "language": "id"
+            },
+            "transliteration": "thumma"
+          },
+          {
+            "position": 2,
+            "text_code": "رَدَدْنَـٰهُ",
+            "audio_url": "wbw/095_005_002.mp3",
+            "translation": {
+              "text": "Kami kembalikan",
+              "language": "id"
+            },
+            "transliteration": "radadnāhu"
+          },
+          {
+            "position": 3,
+            "text_code": "أَسْفَلَ",
+            "audio_url": "wbw/095_005_003.mp3",
+            "translation": {
+              "text": "lebih rendah/paling rendah",
+              "language": "id"
+            },
+            "transliteration": "asfala"
+          },
+          {
+            "position": 4,
+            "text_code": "سَـٰفِلِينَ",
+            "audio_url": "wbw/095_005_004.mp3",
+            "translation": {
+              "text": "tempat yang rendah",
+              "language": "id"
+            },
+            "transliteration": "sāfilīna"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Then We return him to the lowest of the low,<sup foot_note=197784>1</sup>",
+        "id": "kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya,"
+      }
+    },
+    {
+      "id": 6104,
+      "verse_number": 6,
+      "verse_key": "95:6",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 539,
+      "page_number": 597,
+      "sajdah_number": null,
+      "text_arabic_simple": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "text_arabic_uthmani": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "text_arabic_tajweed": "إِلَّا <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ ءَامَنُو<tajweed class=slnt>اْ</tajweed> وَعَمِلُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّ<tajweed class=madda_normal>ـٰ</tajweed>لِحَ<tajweed class=madda_normal>ـٰ</tajweed>تِ فَلَهُمْ أَ<tajweed class=qalaqah>جْ</tajweed>رٌ غَيْرُ مَمْن<tajweed class=madda_permissible>ُو</tajweed>نٍ <span class=end>٦</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "إِلَّا",
+            "audio_url": "wbw/095_006_001.mp3",
+            "translation": {
+              "text": "Except",
+              "language": "en"
+            },
+            "transliteration": "illā"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلَّذِينَ",
+            "audio_url": "wbw/095_006_002.mp3",
+            "translation": {
+              "text": "those who",
+              "language": "en"
+            },
+            "transliteration": "alladhīna"
+          },
+          {
+            "position": 3,
+            "text_code": "ءَامَنُوا۟",
+            "audio_url": "wbw/095_006_003.mp3",
+            "translation": {
+              "text": "believe",
+              "language": "en"
+            },
+            "transliteration": "āmanū"
+          },
+          {
+            "position": 4,
+            "text_code": "وَعَمِلُوا۟",
+            "audio_url": "wbw/095_006_004.mp3",
+            "translation": {
+              "text": "and do",
+              "language": "en"
+            },
+            "transliteration": "waʿamilū"
+          },
+          {
+            "position": 5,
+            "text_code": "ٱلصَّـٰلِحَـٰتِ",
+            "audio_url": "wbw/095_006_005.mp3",
+            "translation": {
+              "text": "righteous deeds",
+              "language": "en"
+            },
+            "transliteration": "l-ṣāliḥāti"
+          },
+          {
+            "position": 6,
+            "text_code": "فَلَهُمْ",
+            "audio_url": "wbw/095_006_006.mp3",
+            "translation": {
+              "text": "then for them",
+              "language": "en"
+            },
+            "transliteration": "falahum"
+          },
+          {
+            "position": 7,
+            "text_code": "أَجْرٌ",
+            "audio_url": "wbw/095_006_007.mp3",
+            "translation": {
+              "text": "(is a) reward",
+              "language": "en"
+            },
+            "transliteration": "ajrun"
+          },
+          {
+            "position": 8,
+            "text_code": "غَيْرُ",
+            "audio_url": "wbw/095_006_008.mp3",
+            "translation": {
+              "text": "never",
+              "language": "en"
+            },
+            "transliteration": "ghayru"
+          },
+          {
+            "position": 9,
+            "text_code": "مَمْنُونٍۢ",
+            "audio_url": "wbw/095_006_009.mp3",
+            "translation": {
+              "text": "ending",
+              "language": "en"
+            },
+            "transliteration": "mamnūnin"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "إِلَّا",
+            "audio_url": "wbw/095_006_001.mp3",
+            "translation": {
+              "text": "kecuali",
+              "language": "id"
+            },
+            "transliteration": "illā"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلَّذِينَ",
+            "audio_url": "wbw/095_006_002.mp3",
+            "translation": {
+              "text": "orang-orang yang",
+              "language": "id"
+            },
+            "transliteration": "alladhīna"
+          },
+          {
+            "position": 3,
+            "text_code": "ءَامَنُوا۟",
+            "audio_url": "wbw/095_006_003.mp3",
+            "translation": {
+              "text": "beriman",
+              "language": "id"
+            },
+            "transliteration": "āmanū"
+          },
+          {
+            "position": 4,
+            "text_code": "وَعَمِلُوا۟",
+            "audio_url": "wbw/095_006_004.mp3",
+            "translation": {
+              "text": "dan mereka berbuat/beramal",
+              "language": "id"
+            },
+            "transliteration": "waʿamilū"
+          },
+          {
+            "position": 5,
+            "text_code": "ٱلصَّـٰلِحَـٰتِ",
+            "audio_url": "wbw/095_006_005.mp3",
+            "translation": {
+              "text": "kebajikan/saleh",
+              "language": "id"
+            },
+            "transliteration": "l-ṣāliḥāti"
+          },
+          {
+            "position": 6,
+            "text_code": "فَلَهُمْ",
+            "audio_url": "wbw/095_006_006.mp3",
+            "translation": {
+              "text": "maka bagi mereka",
+              "language": "id"
+            },
+            "transliteration": "falahum"
+          },
+          {
+            "position": 7,
+            "text_code": "أَجْرٌ",
+            "audio_url": "wbw/095_006_007.mp3",
+            "translation": {
+              "text": "pahala",
+              "language": "id"
+            },
+            "transliteration": "ajrun"
+          },
+          {
+            "position": 8,
+            "text_code": "غَيْرُ",
+            "audio_url": "wbw/095_006_008.mp3",
+            "translation": {
+              "text": "bukan/tidak",
+              "language": "id"
+            },
+            "transliteration": "ghayru"
+          },
+          {
+            "position": 9,
+            "text_code": "مَمْنُونٍۢ",
+            "audio_url": "wbw/095_006_009.mp3",
+            "translation": {
+              "text": "terputus",
+              "language": "id"
+            },
+            "transliteration": "mamnūnin"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Except for those who believe and do righteous deeds, for they will have a reward uninterrupted.",
+        "id": "kecuali orang-orang yang beriman dan mengerjakan kebajikan; maka mereka akan mendapat pahala yang tidak ada putus-putusnya."
+      }
+    },
+    {
+      "id": 6105,
+      "verse_number": 7,
+      "verse_key": "95:7",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 539,
+      "page_number": 597,
+      "sajdah_number": null,
+      "text_arabic_simple": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
+      "text_arabic_uthmani": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+      "text_arabic_tajweed": "فَمَا يُكَذِّبُكَ بَعْدُ بِ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>دّ<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٧</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "فَمَا",
+            "audio_url": "wbw/095_007_001.mp3",
+            "translation": {
+              "text": "Then what",
+              "language": "en"
+            },
+            "transliteration": "famā"
+          },
+          {
+            "position": 2,
+            "text_code": "يُكَذِّبُكَ",
+            "audio_url": "wbw/095_007_002.mp3",
+            "translation": {
+              "text": "causes you to deny",
+              "language": "en"
+            },
+            "transliteration": "yukadhibuka"
+          },
+          {
+            "position": 3,
+            "text_code": "بَعْدُ",
+            "audio_url": "wbw/095_007_003.mp3",
+            "translation": {
+              "text": "after (this)",
+              "language": "en"
+            },
+            "transliteration": "baʿdu"
+          },
+          {
+            "position": 4,
+            "text_code": "بِٱلدِّينِ",
+            "audio_url": "wbw/095_007_004.mp3",
+            "translation": {
+              "text": "the judgment",
+              "language": "en"
+            },
+            "transliteration": "bil-dīni"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "فَمَا",
+            "audio_url": "wbw/095_007_001.mp3",
+            "translation": {
+              "text": "maka apakah",
+              "language": "id"
+            },
+            "transliteration": "famā"
+          },
+          {
+            "position": 2,
+            "text_code": "يُكَذِّبُكَ",
+            "audio_url": "wbw/095_007_002.mp3",
+            "translation": {
+              "text": "mendustakanmu",
+              "language": "id"
+            },
+            "transliteration": "yukadhibuka"
+          },
+          {
+            "position": 3,
+            "text_code": "بَعْدُ",
+            "audio_url": "wbw/095_007_003.mp3",
+            "translation": {
+              "text": "sesudah",
+              "language": "id"
+            },
+            "transliteration": "baʿdu"
+          },
+          {
+            "position": 4,
+            "text_code": "بِٱلدِّينِ",
+            "audio_url": "wbw/095_007_004.mp3",
+            "translation": {
+              "text": "hari pembalasan/agama",
+              "language": "id"
+            },
+            "transliteration": "bil-dīni"
+          }
+        ]
+      },
+      "translations": {
+        "en": "So what yet causes you to deny the Recompense?<sup foot_note=197785>1</sup>",
+        "id": "Maka apa yang menyebabkan (mereka) mendustakanmu (tentang) hari pembalasan setelah (adanya keterangan-keterangan) itu?"
+      }
+    },
+    {
+      "id": 6106,
+      "verse_number": 8,
+      "verse_key": "95:8",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 539,
+      "page_number": 597,
+      "sajdah_number": null,
+      "text_arabic_simple": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ",
+      "text_arabic_uthmani": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+      "text_arabic_tajweed": "أَلَيْسَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ بِأَحْكَمِ <tajweed class=ham_wasl>ٱ</tajweed>لْحَ<tajweed class=madda_normal>ـٰ</tajweed>كِم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٨</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "أَلَيْسَ",
+            "audio_url": "wbw/095_008_001.mp3",
+            "translation": {
+              "text": "Is not",
+              "language": "en"
+            },
+            "transliteration": "alaysa"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱللَّهُ",
+            "audio_url": "wbw/095_008_002.mp3",
+            "translation": {
+              "text": "Allah",
+              "language": "en"
+            },
+            "transliteration": "l-lahu"
+          },
+          {
+            "position": 3,
+            "text_code": "بِأَحْكَمِ",
+            "audio_url": "wbw/095_008_003.mp3",
+            "translation": {
+              "text": "(the) Most Just",
+              "language": "en"
+            },
+            "transliteration": "bi-aḥkami"
+          },
+          {
+            "position": 4,
+            "text_code": "ٱلْحَـٰكِمِينَ",
+            "audio_url": "wbw/095_008_004.mp3",
+            "translation": {
+              "text": "(of) the Judges",
+              "language": "en"
+            },
+            "transliteration": "l-ḥākimīna"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "أَلَيْسَ",
+            "audio_url": "wbw/095_008_001.mp3",
+            "translation": {
+              "text": "bukankah",
+              "language": "id"
+            },
+            "transliteration": "alaysa"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱللَّهُ",
+            "audio_url": "wbw/095_008_002.mp3",
+            "translation": {
+              "text": "Allah",
+              "language": "id"
+            },
+            "transliteration": "l-lahu"
+          },
+          {
+            "position": 3,
+            "text_code": "بِأَحْكَمِ",
+            "audio_url": "wbw/095_008_003.mp3",
+            "translation": {
+              "text": "lebih bijaksana/seadil-adilnya",
+              "language": "id"
+            },
+            "transliteration": "bi-aḥkami"
+          },
+          {
+            "position": 4,
+            "text_code": "ٱلْحَـٰكِمِينَ",
+            "audio_url": "wbw/095_008_004.mp3",
+            "translation": {
+              "text": "para hakim",
+              "language": "id"
+            },
+            "transliteration": "l-ḥākimīna"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Is not Allāh the most just of judges?",
+        "id": "Bukankah Allah Hakim yang paling adil?"
+      }
+    }
+  ],
+  "stats": {
+    "total_ayahs": 8,
+    "total_words_en": 34,
+    "total_words_id": 34
+  }
+}

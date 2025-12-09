@@ -1,0 +1,761 @@
+{
+  "meta": {
+    "source": "Quran.com API v4",
+    "base_url": "https://api.quran.com/api/v4",
+    "downloaded_at": "2025-12-09T04:53:28.869Z",
+    "translation_ids": {
+      "indonesian": 33,
+      "english": 20
+    }
+  },
+  "surah": {
+    "id": 97,
+    "name_simple": "Al-Qadr",
+    "name_complex": "Al-Qadr",
+    "name_arabic": "القدر",
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Power"
+    },
+    "revelation_place": "makkah",
+    "revelation_order": 25,
+    "bismillah_pre": true,
+    "verses_count": 5,
+    "pages": [
+      598,
+      598
+    ]
+  },
+  "ayahs": [
+    {
+      "id": 6126,
+      "verse_number": 1,
+      "verse_key": "97:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 541,
+      "page_number": 598,
+      "sajdah_number": null,
+      "text_arabic_simple": "إِنَّا أَنزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ",
+      "text_arabic_uthmani": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "text_arabic_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نز</tajweed>َلْنَ<tajweed class=madda_normal>ـٰ</tajweed>هُ فِى لَيْلَةِ <tajweed class=ham_wasl>ٱ</tajweed>لْقَ<tajweed class=qalaqah>دْ</tajweed>رِ <span class=end>١</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "إِنَّآ",
+            "audio_url": "wbw/097_001_001.mp3",
+            "translation": {
+              "text": "Indeed, We",
+              "language": "en"
+            },
+            "transliteration": "innā"
+          },
+          {
+            "position": 2,
+            "text_code": "أَنزَلْنَـٰهُ",
+            "audio_url": "wbw/097_001_002.mp3",
+            "translation": {
+              "text": "revealed it",
+              "language": "en"
+            },
+            "transliteration": "anzalnāhu"
+          },
+          {
+            "position": 3,
+            "text_code": "فِى",
+            "audio_url": "wbw/097_001_003.mp3",
+            "translation": {
+              "text": "in",
+              "language": "en"
+            },
+            "transliteration": "fī"
+          },
+          {
+            "position": 4,
+            "text_code": "لَيْلَةِ",
+            "audio_url": "wbw/097_001_004.mp3",
+            "translation": {
+              "text": "(the) Night",
+              "language": "en"
+            },
+            "transliteration": "laylati"
+          },
+          {
+            "position": 5,
+            "text_code": "ٱلْقَدْرِ",
+            "audio_url": "wbw/097_001_005.mp3",
+            "translation": {
+              "text": "(of) Power",
+              "language": "en"
+            },
+            "transliteration": "l-qadri"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "إِنَّآ",
+            "audio_url": "wbw/097_001_001.mp3",
+            "translation": {
+              "text": "sesungguhnya",
+              "language": "id"
+            },
+            "transliteration": "innā"
+          },
+          {
+            "position": 2,
+            "text_code": "أَنزَلْنَـٰهُ",
+            "audio_url": "wbw/097_001_002.mp3",
+            "translation": {
+              "text": "Kami telah menurunkannya",
+              "language": "id"
+            },
+            "transliteration": "anzalnāhu"
+          },
+          {
+            "position": 3,
+            "text_code": "فِى",
+            "audio_url": "wbw/097_001_003.mp3",
+            "translation": {
+              "text": "pada",
+              "language": "id"
+            },
+            "transliteration": "fī"
+          },
+          {
+            "position": 4,
+            "text_code": "لَيْلَةِ",
+            "audio_url": "wbw/097_001_004.mp3",
+            "translation": {
+              "text": "malam",
+              "language": "id"
+            },
+            "transliteration": "laylati"
+          },
+          {
+            "position": 5,
+            "text_code": "ٱلْقَدْرِ",
+            "audio_url": "wbw/097_001_005.mp3",
+            "translation": {
+              "text": "kemuliaan",
+              "language": "id"
+            },
+            "transliteration": "l-qadri"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Indeed, We sent it [i.e., the Qur’ān] down during the Night of Decree.",
+        "id": "Sesungguhnya Kami telah menurunkannya (Alquran) pada malam qadar.<sup foot_note=135870>1</sup>"
+      }
+    },
+    {
+      "id": 6127,
+      "verse_number": 2,
+      "verse_key": "97:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 541,
+      "page_number": 598,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ",
+      "text_arabic_uthmani": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "text_arabic_tajweed": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=qalaqah>دْ</tajweed>رَ<tajweed class=madda_normal>ٮٰ</tajweed>كَ مَا لَيْلَةُ <tajweed class=ham_wasl>ٱ</tajweed>لْقَ<tajweed class=qalaqah>دْ</tajweed>رِ <span class=end>٢</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَمَآ",
+            "audio_url": "wbw/097_002_001.mp3",
+            "translation": {
+              "text": "And what",
+              "language": "en"
+            },
+            "transliteration": "wamā"
+          },
+          {
+            "position": 2,
+            "text_code": "أَدْرَىٰكَ",
+            "audio_url": "wbw/097_002_002.mp3",
+            "translation": {
+              "text": "can make you know",
+              "language": "en"
+            },
+            "transliteration": "adrāka"
+          },
+          {
+            "position": 3,
+            "text_code": "مَا",
+            "audio_url": "wbw/097_002_003.mp3",
+            "translation": {
+              "text": "what",
+              "language": "en"
+            },
+            "transliteration": "mā"
+          },
+          {
+            "position": 4,
+            "text_code": "لَيْلَةُ",
+            "audio_url": "wbw/097_002_004.mp3",
+            "translation": {
+              "text": "(the) Night",
+              "language": "en"
+            },
+            "transliteration": "laylatu"
+          },
+          {
+            "position": 5,
+            "text_code": "ٱلْقَدْرِ",
+            "audio_url": "wbw/097_002_005.mp3",
+            "translation": {
+              "text": "(of) Power (is)",
+              "language": "en"
+            },
+            "transliteration": "l-qadri"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَمَآ",
+            "audio_url": "wbw/097_002_001.mp3",
+            "translation": {
+              "text": "dan apakah",
+              "language": "id"
+            },
+            "transliteration": "wamā"
+          },
+          {
+            "position": 2,
+            "text_code": "أَدْرَىٰكَ",
+            "audio_url": "wbw/097_002_002.mp3",
+            "translation": {
+              "text": "kamu tahu",
+              "language": "id"
+            },
+            "transliteration": "adrāka"
+          },
+          {
+            "position": 3,
+            "text_code": "مَا",
+            "audio_url": "wbw/097_002_003.mp3",
+            "translation": {
+              "text": "apa",
+              "language": "id"
+            },
+            "transliteration": "mā"
+          },
+          {
+            "position": 4,
+            "text_code": "لَيْلَةُ",
+            "audio_url": "wbw/097_002_004.mp3",
+            "translation": {
+              "text": "malam",
+              "language": "id"
+            },
+            "transliteration": "laylatu"
+          },
+          {
+            "position": 5,
+            "text_code": "ٱلْقَدْرِ",
+            "audio_url": "wbw/097_002_005.mp3",
+            "translation": {
+              "text": "kemuliaan",
+              "language": "id"
+            },
+            "transliteration": "l-qadri"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And what can make you know what is the Night of Decree?",
+        "id": "Dan tahukah kamu apakah malam kemuliaan itu?"
+      }
+    },
+    {
+      "id": 6128,
+      "verse_number": 3,
+      "verse_key": "97:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 541,
+      "page_number": 598,
+      "sajdah_number": null,
+      "text_arabic_simple": "لَيْلَةُ الْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+      "text_arabic_uthmani": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+      "text_arabic_tajweed": "لَيْلَةُ <tajweed class=ham_wasl>ٱ</tajweed>لْقَ<tajweed class=qalaqah>دْ</tajweed>رِ خَيْ<tajweed class=idgham_ghunnah>رٌ م</tajweed>ِّنْ أَلْفِ شَهْرٍ <span class=end>٣</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "لَيْلَةُ",
+            "audio_url": "wbw/097_003_001.mp3",
+            "translation": {
+              "text": "(The) Night",
+              "language": "en"
+            },
+            "transliteration": "laylatu"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلْقَدْرِ",
+            "audio_url": "wbw/097_003_002.mp3",
+            "translation": {
+              "text": "(of) Power",
+              "language": "en"
+            },
+            "transliteration": "l-qadri"
+          },
+          {
+            "position": 3,
+            "text_code": "خَيْرٌۭ",
+            "audio_url": "wbw/097_003_003.mp3",
+            "translation": {
+              "text": "(is) better",
+              "language": "en"
+            },
+            "transliteration": "khayrun"
+          },
+          {
+            "position": 4,
+            "text_code": "مِّنْ",
+            "audio_url": "wbw/097_003_004.mp3",
+            "translation": {
+              "text": "than",
+              "language": "en"
+            },
+            "transliteration": "min"
+          },
+          {
+            "position": 5,
+            "text_code": "أَلْفِ",
+            "audio_url": "wbw/097_003_005.mp3",
+            "translation": {
+              "text": "a thousand",
+              "language": "en"
+            },
+            "transliteration": "alfi"
+          },
+          {
+            "position": 6,
+            "text_code": "شَهْرٍۢ",
+            "audio_url": "wbw/097_003_006.mp3",
+            "translation": {
+              "text": "month(s)",
+              "language": "en"
+            },
+            "transliteration": "shahrin"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "لَيْلَةُ",
+            "audio_url": "wbw/097_003_001.mp3",
+            "translation": {
+              "text": "malam",
+              "language": "id"
+            },
+            "transliteration": "laylatu"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلْقَدْرِ",
+            "audio_url": "wbw/097_003_002.mp3",
+            "translation": {
+              "text": "kemuliaan",
+              "language": "id"
+            },
+            "transliteration": "l-qadri"
+          },
+          {
+            "position": 3,
+            "text_code": "خَيْرٌۭ",
+            "audio_url": "wbw/097_003_003.mp3",
+            "translation": {
+              "text": "lebih baik",
+              "language": "id"
+            },
+            "transliteration": "khayrun"
+          },
+          {
+            "position": 4,
+            "text_code": "مِّنْ",
+            "audio_url": "wbw/097_003_004.mp3",
+            "translation": {
+              "text": "dari",
+              "language": "id"
+            },
+            "transliteration": "min"
+          },
+          {
+            "position": 5,
+            "text_code": "أَلْفِ",
+            "audio_url": "wbw/097_003_005.mp3",
+            "translation": {
+              "text": "seribu",
+              "language": "id"
+            },
+            "transliteration": "alfi"
+          },
+          {
+            "position": 6,
+            "text_code": "شَهْرٍۢ",
+            "audio_url": "wbw/097_003_006.mp3",
+            "translation": {
+              "text": "bulan",
+              "language": "id"
+            },
+            "transliteration": "shahrin"
+          }
+        ]
+      },
+      "translations": {
+        "en": "The Night of Decree is better than a thousand months.",
+        "id": "Malam kemuliaan itu lebih baik daripada seribu bulan."
+      }
+    },
+    {
+      "id": 6129,
+      "verse_number": 4,
+      "verse_key": "97:4",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 541,
+      "page_number": 598,
+      "sajdah_number": null,
+      "text_arabic_simple": "تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+      "text_arabic_uthmani": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+      "text_arabic_tajweed": "تَنَزَّلُ <tajweed class=ham_wasl>ٱ</tajweed>لْمَلَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>ئِكَةُ وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رُّوحُ فِيهَا بِإِذْنِ رَبِّه<tajweed class=idgham_shafawi>ِم م</tajweed>ِّ<tajweed class=ikhafa>ن ك</tajweed>ُلِّ أَمْرٍ <span class=end>٤</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "تَنَزَّلُ",
+            "audio_url": "wbw/097_004_001.mp3",
+            "translation": {
+              "text": "Descend",
+              "language": "en"
+            },
+            "transliteration": "tanazzalu"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلْمَلَـٰٓئِكَةُ",
+            "audio_url": "wbw/097_004_002.mp3",
+            "translation": {
+              "text": "the Angels",
+              "language": "en"
+            },
+            "transliteration": "l-malāikatu"
+          },
+          {
+            "position": 3,
+            "text_code": "وَٱلرُّوحُ",
+            "audio_url": "wbw/097_004_003.mp3",
+            "translation": {
+              "text": "and the Spirit",
+              "language": "en"
+            },
+            "transliteration": "wal-rūḥu"
+          },
+          {
+            "position": 4,
+            "text_code": "فِيهَا",
+            "audio_url": "wbw/097_004_004.mp3",
+            "translation": {
+              "text": "therein",
+              "language": "en"
+            },
+            "transliteration": "fīhā"
+          },
+          {
+            "position": 5,
+            "text_code": "بِإِذْنِ",
+            "audio_url": "wbw/097_004_005.mp3",
+            "translation": {
+              "text": "by (the) permission",
+              "language": "en"
+            },
+            "transliteration": "bi-idh'ni"
+          },
+          {
+            "position": 6,
+            "text_code": "رَبِّهِم",
+            "audio_url": "wbw/097_004_006.mp3",
+            "translation": {
+              "text": "(of) their Lord",
+              "language": "en"
+            },
+            "transliteration": "rabbihim"
+          },
+          {
+            "position": 7,
+            "text_code": "مِّن",
+            "audio_url": "wbw/097_004_007.mp3",
+            "translation": {
+              "text": "for",
+              "language": "en"
+            },
+            "transliteration": "min"
+          },
+          {
+            "position": 8,
+            "text_code": "كُلِّ",
+            "audio_url": "wbw/097_004_008.mp3",
+            "translation": {
+              "text": "every",
+              "language": "en"
+            },
+            "transliteration": "kulli"
+          },
+          {
+            "position": 9,
+            "text_code": "أَمْرٍۢ",
+            "audio_url": "wbw/097_004_009.mp3",
+            "translation": {
+              "text": "affair",
+              "language": "en"
+            },
+            "transliteration": "amrin"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "تَنَزَّلُ",
+            "audio_url": "wbw/097_004_001.mp3",
+            "translation": {
+              "text": "turun",
+              "language": "id"
+            },
+            "transliteration": "tanazzalu"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلْمَلَـٰٓئِكَةُ",
+            "audio_url": "wbw/097_004_002.mp3",
+            "translation": {
+              "text": "para malaikat",
+              "language": "id"
+            },
+            "transliteration": "l-malāikatu"
+          },
+          {
+            "position": 3,
+            "text_code": "وَٱلرُّوحُ",
+            "audio_url": "wbw/097_004_003.mp3",
+            "translation": {
+              "text": "dan Roh/Jibril",
+              "language": "id"
+            },
+            "transliteration": "wal-rūḥu"
+          },
+          {
+            "position": 4,
+            "text_code": "فِيهَا",
+            "audio_url": "wbw/097_004_004.mp3",
+            "translation": {
+              "text": "padanya/pada malam",
+              "language": "id"
+            },
+            "transliteration": "fīhā"
+          },
+          {
+            "position": 5,
+            "text_code": "بِإِذْنِ",
+            "audio_url": "wbw/097_004_005.mp3",
+            "translation": {
+              "text": "dengan izin",
+              "language": "id"
+            },
+            "transliteration": "bi-idh'ni"
+          },
+          {
+            "position": 6,
+            "text_code": "رَبِّهِم",
+            "audio_url": "wbw/097_004_006.mp3",
+            "translation": {
+              "text": "Tuhannya",
+              "language": "id"
+            },
+            "transliteration": "rabbihim"
+          },
+          {
+            "position": 7,
+            "text_code": "مِّن",
+            "audio_url": "wbw/097_004_007.mp3",
+            "translation": {
+              "text": "dari",
+              "language": "id"
+            },
+            "transliteration": "min"
+          },
+          {
+            "position": 8,
+            "text_code": "كُلِّ",
+            "audio_url": "wbw/097_004_008.mp3",
+            "translation": {
+              "text": "segala",
+              "language": "id"
+            },
+            "transliteration": "kulli"
+          },
+          {
+            "position": 9,
+            "text_code": "أَمْرٍۢ",
+            "audio_url": "wbw/097_004_009.mp3",
+            "translation": {
+              "text": "urusan",
+              "language": "id"
+            },
+            "transliteration": "amrin"
+          }
+        ]
+      },
+      "translations": {
+        "en": "The angels and the Spirit [i.e., Gabriel] descend therein by permission of their Lord for every matter.<sup foot_note=197788>1</sup>",
+        "id": "Pada malam itu turun para malaikat dan Ruh (Jibril) dengan izin Tuhannya untuk mengatur semua urusan."
+      }
+    },
+    {
+      "id": 6130,
+      "verse_number": 5,
+      "verse_key": "97:5",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 541,
+      "page_number": 598,
+      "sajdah_number": null,
+      "text_arabic_simple": "سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ",
+      "text_arabic_uthmani": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+      "text_arabic_tajweed": "سَلَ<tajweed class=madda_normal>ـٰ</tajweed>مٌ هِىَ حَتَّىٰ مَ<tajweed class=qalaqah>طْ</tajweed>لَعِ <tajweed class=ham_wasl>ٱ</tajweed>لْفَ<tajweed class=qalaqah>جْ</tajweed>رِ <span class=end>٥</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "سَلَـٰمٌ",
+            "audio_url": "wbw/097_005_001.mp3",
+            "translation": {
+              "text": "Peace",
+              "language": "en"
+            },
+            "transliteration": "salāmun"
+          },
+          {
+            "position": 2,
+            "text_code": "هِىَ",
+            "audio_url": "wbw/097_005_002.mp3",
+            "translation": {
+              "text": "it (is)",
+              "language": "en"
+            },
+            "transliteration": "hiya"
+          },
+          {
+            "position": 3,
+            "text_code": "حَتَّىٰ",
+            "audio_url": "wbw/097_005_003.mp3",
+            "translation": {
+              "text": "until",
+              "language": "en"
+            },
+            "transliteration": "ḥattā"
+          },
+          {
+            "position": 4,
+            "text_code": "مَطْلَعِ",
+            "audio_url": "wbw/097_005_004.mp3",
+            "translation": {
+              "text": "(the) emergence",
+              "language": "en"
+            },
+            "transliteration": "maṭlaʿi"
+          },
+          {
+            "position": 5,
+            "text_code": "ٱلْفَجْرِ",
+            "audio_url": "wbw/097_005_005.mp3",
+            "translation": {
+              "text": "(of) the dawn",
+              "language": "en"
+            },
+            "transliteration": "l-fajri"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "سَلَـٰمٌ",
+            "audio_url": "wbw/097_005_001.mp3",
+            "translation": {
+              "text": "sejahtera",
+              "language": "id"
+            },
+            "transliteration": "salāmun"
+          },
+          {
+            "position": 2,
+            "text_code": "هِىَ",
+            "audio_url": "wbw/097_005_002.mp3",
+            "translation": {
+              "text": "ia/malam itu",
+              "language": "id"
+            },
+            "transliteration": "hiya"
+          },
+          {
+            "position": 3,
+            "text_code": "حَتَّىٰ",
+            "audio_url": "wbw/097_005_003.mp3",
+            "translation": {
+              "text": "hingga",
+              "language": "id"
+            },
+            "transliteration": "ḥattā"
+          },
+          {
+            "position": 4,
+            "text_code": "مَطْلَعِ",
+            "audio_url": "wbw/097_005_004.mp3",
+            "translation": {
+              "text": "terbit",
+              "language": "id"
+            },
+            "transliteration": "maṭlaʿi"
+          },
+          {
+            "position": 5,
+            "text_code": "ٱلْفَجْرِ",
+            "audio_url": "wbw/097_005_005.mp3",
+            "translation": {
+              "text": "fajar",
+              "language": "id"
+            },
+            "transliteration": "l-fajri"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Peace it is<sup foot_note=197789>1</sup> until the emergence of dawn.",
+        "id": "Sejahteralah (malam itu) sampai terbit fajar."
+      }
+    }
+  ],
+  "stats": {
+    "total_ayahs": 5,
+    "total_words_en": 30,
+    "total_words_id": 30
+  }
+}

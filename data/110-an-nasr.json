@@ -1,0 +1,491 @@
+{
+  "meta": {
+    "source": "Quran.com API v4",
+    "base_url": "https://api.quran.com/api/v4",
+    "downloaded_at": "2025-12-09T04:54:01.996Z",
+    "translation_ids": {
+      "indonesian": 33,
+      "english": 20
+    }
+  },
+  "surah": {
+    "id": 110,
+    "name_simple": "An-Nasr",
+    "name_complex": "An-Naşr",
+    "name_arabic": "النصر",
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Divine Support"
+    },
+    "revelation_place": "madinah",
+    "revelation_order": 114,
+    "bismillah_pre": true,
+    "verses_count": 3,
+    "pages": [
+      603,
+      603
+    ]
+  },
+  "ayahs": [
+    {
+      "id": 6214,
+      "verse_number": 1,
+      "verse_key": "110:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 554,
+      "page_number": 603,
+      "sajdah_number": null,
+      "text_arabic_simple": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+      "text_arabic_uthmani": " إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+      "text_arabic_tajweed": "إِذَا ج<tajweed class=madda_obligatory>َا</tajweed>ٓءَ نَصْرُ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ وَ<tajweed class=ham_wasl>ٱ</tajweed>لْفَتْحُ <span class=end>١</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "إِذَا",
+            "audio_url": "wbw/110_001_001.mp3",
+            "translation": {
+              "text": "When",
+              "language": "en"
+            },
+            "transliteration": "idhā"
+          },
+          {
+            "position": 2,
+            "text_code": "جَآءَ",
+            "audio_url": "wbw/110_001_002.mp3",
+            "translation": {
+              "text": "comes",
+              "language": "en"
+            },
+            "transliteration": "jāa"
+          },
+          {
+            "position": 3,
+            "text_code": "نَصْرُ",
+            "audio_url": "wbw/110_001_003.mp3",
+            "translation": {
+              "text": "(the) Help",
+              "language": "en"
+            },
+            "transliteration": "naṣru"
+          },
+          {
+            "position": 4,
+            "text_code": "ٱللَّهِ",
+            "audio_url": "wbw/110_001_004.mp3",
+            "translation": {
+              "text": "(of) Allah",
+              "language": "en"
+            },
+            "transliteration": "l-lahi"
+          },
+          {
+            "position": 5,
+            "text_code": "وَٱلْفَتْحُ",
+            "audio_url": "wbw/110_001_005.mp3",
+            "translation": {
+              "text": "and the Victory",
+              "language": "en"
+            },
+            "transliteration": "wal-fatḥu"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "إِذَا",
+            "audio_url": "wbw/110_001_001.mp3",
+            "translation": {
+              "text": "apabila",
+              "language": "id"
+            },
+            "transliteration": "idhā"
+          },
+          {
+            "position": 2,
+            "text_code": "جَآءَ",
+            "audio_url": "wbw/110_001_002.mp3",
+            "translation": {
+              "text": "datang",
+              "language": "id"
+            },
+            "transliteration": "jāa"
+          },
+          {
+            "position": 3,
+            "text_code": "نَصْرُ",
+            "audio_url": "wbw/110_001_003.mp3",
+            "translation": {
+              "text": "pertolongan",
+              "language": "id"
+            },
+            "transliteration": "naṣru"
+          },
+          {
+            "position": 4,
+            "text_code": "ٱللَّهِ",
+            "audio_url": "wbw/110_001_004.mp3",
+            "translation": {
+              "text": "Allah",
+              "language": "id"
+            },
+            "transliteration": "l-lahi"
+          },
+          {
+            "position": 5,
+            "text_code": "وَٱلْفَتْحُ",
+            "audio_url": "wbw/110_001_005.mp3",
+            "translation": {
+              "text": "dan kemenangan",
+              "language": "id"
+            },
+            "transliteration": "wal-fatḥu"
+          }
+        ]
+      },
+      "translations": {
+        "en": "When the victory of Allāh has come and the conquest,<sup foot_note=197825>1</sup>",
+        "id": "Apabila telah datang pertolongan Allah dan kemenangan,"
+      }
+    },
+    {
+      "id": 6215,
+      "verse_number": 2,
+      "verse_key": "110:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 554,
+      "page_number": 603,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+      "text_arabic_uthmani": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+      "text_arabic_tajweed": "وَرَأَيْتَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َاسَ يَ<tajweed class=qalaqah>دْ</tajweed>خُلُونَ فِى دِينِ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ أَفْوَاجًا <span class=end>٢</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَرَأَيْتَ",
+            "audio_url": "wbw/110_002_001.mp3",
+            "translation": {
+              "text": "And you see",
+              "language": "en"
+            },
+            "transliteration": "wara-ayta"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلنَّاسَ",
+            "audio_url": "wbw/110_002_002.mp3",
+            "translation": {
+              "text": "the people",
+              "language": "en"
+            },
+            "transliteration": "l-nāsa"
+          },
+          {
+            "position": 3,
+            "text_code": "يَدْخُلُونَ",
+            "audio_url": "wbw/110_002_003.mp3",
+            "translation": {
+              "text": "entering",
+              "language": "en"
+            },
+            "transliteration": "yadkhulūna"
+          },
+          {
+            "position": 4,
+            "text_code": "فِى",
+            "audio_url": "wbw/110_002_004.mp3",
+            "translation": {
+              "text": "into",
+              "language": "en"
+            },
+            "transliteration": "fī"
+          },
+          {
+            "position": 5,
+            "text_code": "دِينِ",
+            "audio_url": "wbw/110_002_005.mp3",
+            "translation": {
+              "text": "(the) religion",
+              "language": "en"
+            },
+            "transliteration": "dīni"
+          },
+          {
+            "position": 6,
+            "text_code": "ٱللَّهِ",
+            "audio_url": "wbw/110_002_006.mp3",
+            "translation": {
+              "text": "(of) Allah",
+              "language": "en"
+            },
+            "transliteration": "l-lahi"
+          },
+          {
+            "position": 7,
+            "text_code": "أَفْوَاجًۭا",
+            "audio_url": "wbw/110_002_007.mp3",
+            "translation": {
+              "text": "(in) multitudes",
+              "language": "en"
+            },
+            "transliteration": "afwājan"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَرَأَيْتَ",
+            "audio_url": "wbw/110_002_001.mp3",
+            "translation": {
+              "text": "dan kamu lihat",
+              "language": "id"
+            },
+            "transliteration": "wara-ayta"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلنَّاسَ",
+            "audio_url": "wbw/110_002_002.mp3",
+            "translation": {
+              "text": "manusia",
+              "language": "id"
+            },
+            "transliteration": "l-nāsa"
+          },
+          {
+            "position": 3,
+            "text_code": "يَدْخُلُونَ",
+            "audio_url": "wbw/110_002_003.mp3",
+            "translation": {
+              "text": "masuk",
+              "language": "id"
+            },
+            "transliteration": "yadkhulūna"
+          },
+          {
+            "position": 4,
+            "text_code": "فِى",
+            "audio_url": "wbw/110_002_004.mp3",
+            "translation": {
+              "text": "kedalam",
+              "language": "id"
+            },
+            "transliteration": "fī"
+          },
+          {
+            "position": 5,
+            "text_code": "دِينِ",
+            "audio_url": "wbw/110_002_005.mp3",
+            "translation": {
+              "text": "agama",
+              "language": "id"
+            },
+            "transliteration": "dīni"
+          },
+          {
+            "position": 6,
+            "text_code": "ٱللَّهِ",
+            "audio_url": "wbw/110_002_006.mp3",
+            "translation": {
+              "text": "Allah",
+              "language": "id"
+            },
+            "transliteration": "l-lahi"
+          },
+          {
+            "position": 7,
+            "text_code": "أَفْوَاجًۭا",
+            "audio_url": "wbw/110_002_007.mp3",
+            "translation": {
+              "text": "berbondong-bondong",
+              "language": "id"
+            },
+            "transliteration": "afwājan"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And you see the people entering into the religion of Allāh in multitudes,",
+        "id": "dan engkau melihat manusia berbondong-bondong masuk agama Allah."
+      }
+    },
+    {
+      "id": 6216,
+      "verse_number": 3,
+      "verse_key": "110:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 554,
+      "page_number": 603,
+      "sajdah_number": null,
+      "text_arabic_simple": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+      "text_arabic_uthmani": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+      "text_arabic_tajweed": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَ<tajweed class=ham_wasl>ٱ</tajweed>سْتَغْفِرْهُ‌ۚ إِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> كَانَ تَوَّابَۢا <span class=end>٣</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "فَسَبِّحْ",
+            "audio_url": "wbw/110_003_001.mp3",
+            "translation": {
+              "text": "Then glorify",
+              "language": "en"
+            },
+            "transliteration": "fasabbiḥ"
+          },
+          {
+            "position": 2,
+            "text_code": "بِحَمْدِ",
+            "audio_url": "wbw/110_003_002.mp3",
+            "translation": {
+              "text": "with (the) praises",
+              "language": "en"
+            },
+            "transliteration": "biḥamdi"
+          },
+          {
+            "position": 3,
+            "text_code": "رَبِّكَ",
+            "audio_url": "wbw/110_003_003.mp3",
+            "translation": {
+              "text": "(of) your Lord",
+              "language": "en"
+            },
+            "transliteration": "rabbika"
+          },
+          {
+            "position": 4,
+            "text_code": "وَٱسْتَغْفِرْهُ ۚ",
+            "audio_url": "wbw/110_003_004.mp3",
+            "translation": {
+              "text": "and ask His forgiveness",
+              "language": "en"
+            },
+            "transliteration": "wa-is'taghfir'hu"
+          },
+          {
+            "position": 5,
+            "text_code": "إِنَّهُۥ",
+            "audio_url": "wbw/110_003_006.mp3",
+            "translation": {
+              "text": "Indeed, He",
+              "language": "en"
+            },
+            "transliteration": "innahu"
+          },
+          {
+            "position": 6,
+            "text_code": "كَانَ",
+            "audio_url": "wbw/110_003_007.mp3",
+            "translation": {
+              "text": "is",
+              "language": "en"
+            },
+            "transliteration": "kāna"
+          },
+          {
+            "position": 7,
+            "text_code": "تَوَّابًۢا",
+            "audio_url": "wbw/110_003_008.mp3",
+            "translation": {
+              "text": "Oft-Returning",
+              "language": "en"
+            },
+            "transliteration": "tawwāban"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "فَسَبِّحْ",
+            "audio_url": "wbw/110_003_001.mp3",
+            "translation": {
+              "text": "maka bertasbihlah",
+              "language": "id"
+            },
+            "transliteration": "fasabbiḥ"
+          },
+          {
+            "position": 2,
+            "text_code": "بِحَمْدِ",
+            "audio_url": "wbw/110_003_002.mp3",
+            "translation": {
+              "text": "dengan memuji",
+              "language": "id"
+            },
+            "transliteration": "biḥamdi"
+          },
+          {
+            "position": 3,
+            "text_code": "رَبِّكَ",
+            "audio_url": "wbw/110_003_003.mp3",
+            "translation": {
+              "text": "Tuhanmu",
+              "language": "id"
+            },
+            "transliteration": "rabbika"
+          },
+          {
+            "position": 4,
+            "text_code": "وَٱسْتَغْفِرْهُ ۚ",
+            "audio_url": "wbw/110_003_004.mp3",
+            "translation": {
+              "text": "dan mohonlah ampun",
+              "language": "id"
+            },
+            "transliteration": "wa-is'taghfir'hu"
+          },
+          {
+            "position": 5,
+            "text_code": "إِنَّهُۥ",
+            "audio_url": "wbw/110_003_006.mp3",
+            "translation": {
+              "text": "sesungguhnya Dia",
+              "language": "id"
+            },
+            "transliteration": "innahu"
+          },
+          {
+            "position": 6,
+            "text_code": "كَانَ",
+            "audio_url": "wbw/110_003_007.mp3",
+            "translation": {
+              "text": "adalah Dia",
+              "language": "id"
+            },
+            "transliteration": "kāna"
+          },
+          {
+            "position": 7,
+            "text_code": "تَوَّابًۢا",
+            "audio_url": "wbw/110_003_008.mp3",
+            "translation": {
+              "text": "Maha Penerima Taubat",
+              "language": "id"
+            },
+            "transliteration": "tawwāban"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of Repentance.<sup foot_note=197826>1</sup>",
+        "id": "maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat."
+      }
+    }
+  ],
+  "stats": {
+    "total_ayahs": 3,
+    "total_words_en": 19,
+    "total_words_id": 19
+  }
+}

@@ -1,0 +1,4 @@
+# Quran JSON Data
+node_modules/
+.DS_Store
+*.log

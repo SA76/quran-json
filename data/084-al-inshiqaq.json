@@ -1,0 +1,2801 @@
+{
+  "meta": {
+    "source": "Quran.com API v4",
+    "base_url": "https://api.quran.com/api/v4",
+    "downloaded_at": "2025-12-09T04:52:51.872Z",
+    "translation_ids": {
+      "indonesian": 33,
+      "english": 20
+    }
+  },
+  "surah": {
+    "id": 84,
+    "name_simple": "Al-Inshiqaq",
+    "name_complex": "Al-'Inshiqāq",
+    "name_arabic": "الإنشقاق",
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Sundering"
+    },
+    "revelation_place": "makkah",
+    "revelation_order": 83,
+    "bismillah_pre": true,
+    "verses_count": 25,
+    "pages": [
+      589,
+      589
+    ]
+  },
+  "ayahs": [
+    {
+      "id": 5885,
+      "verse_number": 1,
+      "verse_key": "84:1",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "إِذَا السَّمَاءُ انشَقَّتْ",
+      "text_arabic_uthmani": " إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ",
+      "text_arabic_tajweed": "إِذَا <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّم<tajweed class=madda_obligatory>َا</tajweed>ٓءُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=ikhafa>نش</tajweed>َقَّتْ <span class=end>١</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "إِذَا",
+            "audio_url": "wbw/084_001_001.mp3",
+            "translation": {
+              "text": "When",
+              "language": "en"
+            },
+            "transliteration": "idhā"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلسَّمَآءُ",
+            "audio_url": "wbw/084_001_002.mp3",
+            "translation": {
+              "text": "the sky",
+              "language": "en"
+            },
+            "transliteration": "l-samāu"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱنشَقَّتْ",
+            "audio_url": "wbw/084_001_003.mp3",
+            "translation": {
+              "text": "is split asunder",
+              "language": "en"
+            },
+            "transliteration": "inshaqqat"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "إِذَا",
+            "audio_url": "wbw/084_001_001.mp3",
+            "translation": {
+              "text": "apabila",
+              "language": "id"
+            },
+            "transliteration": "idhā"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلسَّمَآءُ",
+            "audio_url": "wbw/084_001_002.mp3",
+            "translation": {
+              "text": "langit",
+              "language": "id"
+            },
+            "transliteration": "l-samāu"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱنشَقَّتْ",
+            "audio_url": "wbw/084_001_003.mp3",
+            "translation": {
+              "text": "terbelah",
+              "language": "id"
+            },
+            "transliteration": "inshaqqat"
+          }
+        ]
+      },
+      "translations": {
+        "en": "When the sky has split [open]",
+        "id": "Apabila langit terbelah,"
+      }
+    },
+    {
+      "id": 5886,
+      "verse_number": 2,
+      "verse_key": "84:2",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "text_arabic_uthmani": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "text_arabic_tajweed": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ <span class=end>٢</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَأَذِنَتْ",
+            "audio_url": "wbw/084_002_001.mp3",
+            "translation": {
+              "text": "And has listened",
+              "language": "en"
+            },
+            "transliteration": "wa-adhinat"
+          },
+          {
+            "position": 2,
+            "text_code": "لِرَبِّهَا",
+            "audio_url": "wbw/084_002_002.mp3",
+            "translation": {
+              "text": "to its Lord",
+              "language": "en"
+            },
+            "transliteration": "lirabbihā"
+          },
+          {
+            "position": 3,
+            "text_code": "وَحُقَّتْ",
+            "audio_url": "wbw/084_002_003.mp3",
+            "translation": {
+              "text": "and was obligated",
+              "language": "en"
+            },
+            "transliteration": "waḥuqqat"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَأَذِنَتْ",
+            "audio_url": "wbw/084_002_001.mp3",
+            "translation": {
+              "text": "dan ia patuh",
+              "language": "id"
+            },
+            "transliteration": "wa-adhinat"
+          },
+          {
+            "position": 2,
+            "text_code": "لِرَبِّهَا",
+            "audio_url": "wbw/084_002_002.mp3",
+            "translation": {
+              "text": "kepada Tuhannya",
+              "language": "id"
+            },
+            "transliteration": "lirabbihā"
+          },
+          {
+            "position": 3,
+            "text_code": "وَحُقَّتْ",
+            "audio_url": "wbw/084_002_003.mp3",
+            "translation": {
+              "text": "dan ia semestinya",
+              "language": "id"
+            },
+            "transliteration": "waḥuqqat"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And has listened [i.e., responded]<sup foot_note=197734>1</sup> to its Lord and was obligated [to do so]",
+        "id": "dan patuh kepada Tuhannya, dan sudah semestinya patuh,"
+      }
+    },
+    {
+      "id": 5887,
+      "verse_number": 3,
+      "verse_key": "84:3",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَإِذَا الْأَرْضُ مُدَّتْ",
+      "text_arabic_uthmani": "وَإِذَا ٱلْأَرْضُ مُدَّتْ",
+      "text_arabic_tajweed": "وَإِذَا <tajweed class=ham_wasl>ٱ</tajweed>لْأَرْضُ مُدَّتْ <span class=end>٣</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَإِذَا",
+            "audio_url": "wbw/084_003_001.mp3",
+            "translation": {
+              "text": "And when",
+              "language": "en"
+            },
+            "transliteration": "wa-idhā"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلْأَرْضُ",
+            "audio_url": "wbw/084_003_002.mp3",
+            "translation": {
+              "text": "the earth",
+              "language": "en"
+            },
+            "transliteration": "l-arḍu"
+          },
+          {
+            "position": 3,
+            "text_code": "مُدَّتْ",
+            "audio_url": "wbw/084_003_003.mp3",
+            "translation": {
+              "text": "is spread",
+              "language": "en"
+            },
+            "transliteration": "muddat"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَإِذَا",
+            "audio_url": "wbw/084_003_001.mp3",
+            "translation": {
+              "text": "dan apabila",
+              "language": "id"
+            },
+            "transliteration": "wa-idhā"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلْأَرْضُ",
+            "audio_url": "wbw/084_003_002.mp3",
+            "translation": {
+              "text": "bumi",
+              "language": "id"
+            },
+            "transliteration": "l-arḍu"
+          },
+          {
+            "position": 3,
+            "text_code": "مُدَّتْ",
+            "audio_url": "wbw/084_003_003.mp3",
+            "translation": {
+              "text": "dipanjangkan/diratakan",
+              "language": "id"
+            },
+            "transliteration": "muddat"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And when the earth has been extended<sup foot_note=197735>1</sup>",
+        "id": "dan apabila bumi diratakan,"
+      }
+    },
+    {
+      "id": 5888,
+      "verse_number": 4,
+      "verse_key": "84:4",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+      "text_arabic_uthmani": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+      "text_arabic_tajweed": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ <span class=end>٤</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَأَلْقَتْ",
+            "audio_url": "wbw/084_004_001.mp3",
+            "translation": {
+              "text": "And has cast out",
+              "language": "en"
+            },
+            "transliteration": "wa-alqat"
+          },
+          {
+            "position": 2,
+            "text_code": "مَا",
+            "audio_url": "wbw/084_004_002.mp3",
+            "translation": {
+              "text": "what",
+              "language": "en"
+            },
+            "transliteration": "mā"
+          },
+          {
+            "position": 3,
+            "text_code": "فِيهَا",
+            "audio_url": "wbw/084_004_003.mp3",
+            "translation": {
+              "text": "(is) in it",
+              "language": "en"
+            },
+            "transliteration": "fīhā"
+          },
+          {
+            "position": 4,
+            "text_code": "وَتَخَلَّتْ",
+            "audio_url": "wbw/084_004_004.mp3",
+            "translation": {
+              "text": "and becomes empty",
+              "language": "en"
+            },
+            "transliteration": "watakhallat"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَأَلْقَتْ",
+            "audio_url": "wbw/084_004_001.mp3",
+            "translation": {
+              "text": "dan ia melemparkan",
+              "language": "id"
+            },
+            "transliteration": "wa-alqat"
+          },
+          {
+            "position": 2,
+            "text_code": "مَا",
+            "audio_url": "wbw/084_004_002.mp3",
+            "translation": {
+              "text": "apa",
+              "language": "id"
+            },
+            "transliteration": "mā"
+          },
+          {
+            "position": 3,
+            "text_code": "فِيهَا",
+            "audio_url": "wbw/084_004_003.mp3",
+            "translation": {
+              "text": "di dalamnya",
+              "language": "id"
+            },
+            "transliteration": "fīhā"
+          },
+          {
+            "position": 4,
+            "text_code": "وَتَخَلَّتْ",
+            "audio_url": "wbw/084_004_004.mp3",
+            "translation": {
+              "text": "dan ia menjadi sunyi/kosong",
+              "language": "id"
+            },
+            "transliteration": "watakhallat"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And has cast out that within it<sup foot_note=197736>1</sup> and relinquished [it].",
+        "id": "dan memuntahkan apa yang ada di dalamnya dan menjadi kosong,"
+      }
+    },
+    {
+      "id": 5889,
+      "verse_number": 5,
+      "verse_key": "84:5",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "text_arabic_uthmani": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "text_arabic_tajweed": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ <span class=end>٥</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَأَذِنَتْ",
+            "audio_url": "wbw/084_005_001.mp3",
+            "translation": {
+              "text": "And has listened",
+              "language": "en"
+            },
+            "transliteration": "wa-adhinat"
+          },
+          {
+            "position": 2,
+            "text_code": "لِرَبِّهَا",
+            "audio_url": "wbw/084_005_002.mp3",
+            "translation": {
+              "text": "to its Lord",
+              "language": "en"
+            },
+            "transliteration": "lirabbihā"
+          },
+          {
+            "position": 3,
+            "text_code": "وَحُقَّتْ",
+            "audio_url": "wbw/084_005_003.mp3",
+            "translation": {
+              "text": "and was obligated",
+              "language": "en"
+            },
+            "transliteration": "waḥuqqat"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَأَذِنَتْ",
+            "audio_url": "wbw/084_005_001.mp3",
+            "translation": {
+              "text": "dan ia patuh",
+              "language": "id"
+            },
+            "transliteration": "wa-adhinat"
+          },
+          {
+            "position": 2,
+            "text_code": "لِرَبِّهَا",
+            "audio_url": "wbw/084_005_002.mp3",
+            "translation": {
+              "text": "kepada Tuhannya",
+              "language": "id"
+            },
+            "transliteration": "lirabbihā"
+          },
+          {
+            "position": 3,
+            "text_code": "وَحُقَّتْ",
+            "audio_url": "wbw/084_005_003.mp3",
+            "translation": {
+              "text": "dan ia semestinya",
+              "language": "id"
+            },
+            "transliteration": "waḥuqqat"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And has listened [i.e., responded] to its Lord and was obligated [to do so] -",
+        "id": "dan patuh kepada Tuhannya, dan sudah semestinya patuh."
+      }
+    },
+    {
+      "id": 5890,
+      "verse_number": 6,
+      "verse_key": "84:6",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "يَا أَيُّهَا الْإِنسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ",
+      "text_arabic_uthmani": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَـٰقِيهِ",
+      "text_arabic_tajweed": "يَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>أَيُّهَا <tajweed class=ham_wasl>ٱ</tajweed>لْإِ<tajweed class=ikhafa>نس</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>نُ إِ<tajweed class=ghunnah>نّ</tajweed>َكَ كَادِحٌ إِلَىٰ رَبِّكَ كَ<tajweed class=qalaqah>دْ</tajweed><tajweed class=ikhafa>حًا ف</tajweed>َمُلَ<tajweed class=madda_normal>ـٰ</tajweed>ق<tajweed class=madda_permissible>ِي</tajweed>هِ <span class=end>٦</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "يَـٰٓأَيُّهَا",
+            "audio_url": "wbw/084_006_001.mp3",
+            "translation": {
+              "text": "O",
+              "language": "en"
+            },
+            "transliteration": "yāayyuhā"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلْإِنسَـٰنُ",
+            "audio_url": "wbw/084_006_002.mp3",
+            "translation": {
+              "text": "mankind",
+              "language": "en"
+            },
+            "transliteration": "l-insānu"
+          },
+          {
+            "position": 3,
+            "text_code": "إِنَّكَ",
+            "audio_url": "wbw/084_006_003.mp3",
+            "translation": {
+              "text": "Indeed, you",
+              "language": "en"
+            },
+            "transliteration": "innaka"
+          },
+          {
+            "position": 4,
+            "text_code": "كَادِحٌ",
+            "audio_url": "wbw/084_006_004.mp3",
+            "translation": {
+              "text": "(are) laboring",
+              "language": "en"
+            },
+            "transliteration": "kādiḥun"
+          },
+          {
+            "position": 5,
+            "text_code": "إِلَىٰ",
+            "audio_url": "wbw/084_006_005.mp3",
+            "translation": {
+              "text": "to",
+              "language": "en"
+            },
+            "transliteration": "ilā"
+          },
+          {
+            "position": 6,
+            "text_code": "رَبِّكَ",
+            "audio_url": "wbw/084_006_006.mp3",
+            "translation": {
+              "text": "your Lord",
+              "language": "en"
+            },
+            "transliteration": "rabbika"
+          },
+          {
+            "position": 7,
+            "text_code": "كَدْحًۭا",
+            "audio_url": "wbw/084_006_007.mp3",
+            "translation": {
+              "text": "(with) exertion",
+              "language": "en"
+            },
+            "transliteration": "kadḥan"
+          },
+          {
+            "position": 8,
+            "text_code": "فَمُلَـٰقِيهِ",
+            "audio_url": "wbw/084_006_008.mp3",
+            "translation": {
+              "text": "and you (will) meet Him",
+              "language": "en"
+            },
+            "transliteration": "famulāqīhi"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "يَـٰٓأَيُّهَا",
+            "audio_url": "wbw/084_006_001.mp3",
+            "translation": {
+              "text": "wahai",
+              "language": "id"
+            },
+            "transliteration": "yāayyuhā"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلْإِنسَـٰنُ",
+            "audio_url": "wbw/084_006_002.mp3",
+            "translation": {
+              "text": "manusia",
+              "language": "id"
+            },
+            "transliteration": "l-insānu"
+          },
+          {
+            "position": 3,
+            "text_code": "إِنَّكَ",
+            "audio_url": "wbw/084_006_003.mp3",
+            "translation": {
+              "text": "sesungguhnya kamu",
+              "language": "id"
+            },
+            "transliteration": "innaka"
+          },
+          {
+            "position": 4,
+            "text_code": "كَادِحٌ",
+            "audio_url": "wbw/084_006_004.mp3",
+            "translation": {
+              "text": "bekerja keras",
+              "language": "id"
+            },
+            "transliteration": "kādiḥun"
+          },
+          {
+            "position": 5,
+            "text_code": "إِلَىٰ",
+            "audio_url": "wbw/084_006_005.mp3",
+            "translation": {
+              "text": "kepada",
+              "language": "id"
+            },
+            "transliteration": "ilā"
+          },
+          {
+            "position": 6,
+            "text_code": "رَبِّكَ",
+            "audio_url": "wbw/084_006_006.mp3",
+            "translation": {
+              "text": "Tuhanmu",
+              "language": "id"
+            },
+            "transliteration": "rabbika"
+          },
+          {
+            "position": 7,
+            "text_code": "كَدْحًۭا",
+            "audio_url": "wbw/084_006_007.mp3",
+            "translation": {
+              "text": "sungguh-sungguh kerja keras",
+              "language": "id"
+            },
+            "transliteration": "kadḥan"
+          },
+          {
+            "position": 8,
+            "text_code": "فَمُلَـٰقِيهِ",
+            "audio_url": "wbw/084_006_008.mp3",
+            "translation": {
+              "text": "maka menemuinya",
+              "language": "id"
+            },
+            "transliteration": "famulāqīhi"
+          }
+        ]
+      },
+      "translations": {
+        "en": "O mankind, indeed you are laboring toward your Lord with [great] exertion<sup foot_note=197738>1</sup> and will meet it.<sup foot_note=197737>2</sup>",
+        "id": "Wahai manusia! Sesungguhnya kamu telah bekerja keras menuju Tuhanmu, maka kamu akan menemui-Nya.<sup foot_note=135854>1</sup>"
+      }
+    },
+    {
+      "id": 5891,
+      "verse_number": 7,
+      "verse_key": "84:7",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ",
+      "text_arabic_uthmani": "فَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِيَمِينِهِۦ",
+      "text_arabic_tajweed": "فَأَ<tajweed class=ghunnah>مّ</tajweed>َا مَنْ أُوتِىَ كِتَ<tajweed class=madda_normal>ـٰ</tajweed>بَهُ<tajweed class=madda_normal>ۥ</tajweed> بِيَمِينِهِۦ <span class=end>٧</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "فَأَمَّا",
+            "audio_url": "wbw/084_007_001.mp3",
+            "translation": {
+              "text": "Then as for",
+              "language": "en"
+            },
+            "transliteration": "fa-ammā"
+          },
+          {
+            "position": 2,
+            "text_code": "مَنْ",
+            "audio_url": "wbw/084_007_002.mp3",
+            "translation": {
+              "text": "(him) who",
+              "language": "en"
+            },
+            "transliteration": "man"
+          },
+          {
+            "position": 3,
+            "text_code": "أُوتِىَ",
+            "audio_url": "wbw/084_007_003.mp3",
+            "translation": {
+              "text": "is given",
+              "language": "en"
+            },
+            "transliteration": "ūtiya"
+          },
+          {
+            "position": 4,
+            "text_code": "كِتَـٰبَهُۥ",
+            "audio_url": "wbw/084_007_004.mp3",
+            "translation": {
+              "text": "his record",
+              "language": "en"
+            },
+            "transliteration": "kitābahu"
+          },
+          {
+            "position": 5,
+            "text_code": "بِيَمِينِهِۦ",
+            "audio_url": "wbw/084_007_005.mp3",
+            "translation": {
+              "text": "in his right (hand)",
+              "language": "en"
+            },
+            "transliteration": "biyamīnihi"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "فَأَمَّا",
+            "audio_url": "wbw/084_007_001.mp3",
+            "translation": {
+              "text": "maka adapun",
+              "language": "id"
+            },
+            "transliteration": "fa-ammā"
+          },
+          {
+            "position": 2,
+            "text_code": "مَنْ",
+            "audio_url": "wbw/084_007_002.mp3",
+            "translation": {
+              "text": "siapa",
+              "language": "id"
+            },
+            "transliteration": "man"
+          },
+          {
+            "position": 3,
+            "text_code": "أُوتِىَ",
+            "audio_url": "wbw/084_007_003.mp3",
+            "translation": {
+              "text": "diberikan",
+              "language": "id"
+            },
+            "transliteration": "ūtiya"
+          },
+          {
+            "position": 4,
+            "text_code": "كِتَـٰبَهُۥ",
+            "audio_url": "wbw/084_007_004.mp3",
+            "translation": {
+              "text": "kitabnya/catatannya",
+              "language": "id"
+            },
+            "transliteration": "kitābahu"
+          },
+          {
+            "position": 5,
+            "text_code": "بِيَمِينِهِۦ",
+            "audio_url": "wbw/084_007_005.mp3",
+            "translation": {
+              "text": "sebelah kanannya",
+              "language": "id"
+            },
+            "transliteration": "biyamīnihi"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Then as for he who is given his record in his right hand,",
+        "id": "Maka adapun orang yang catatanya diberikan dari sebelah kanannya,"
+      }
+    },
+    {
+      "id": 5892,
+      "verse_number": 8,
+      "verse_key": "84:8",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+      "text_arabic_uthmani": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+      "text_arabic_tajweed": "فَسَوْفَ يُحَاسَبُ حِسَا<tajweed class=idgham_ghunnah>بًا ي</tajweed>َسِيرًا <span class=end>٨</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "فَسَوْفَ",
+            "audio_url": "wbw/084_008_001.mp3",
+            "translation": {
+              "text": "Then soon",
+              "language": "en"
+            },
+            "transliteration": "fasawfa"
+          },
+          {
+            "position": 2,
+            "text_code": "يُحَاسَبُ",
+            "audio_url": "wbw/084_008_002.mp3",
+            "translation": {
+              "text": "his account will be taken",
+              "language": "en"
+            },
+            "transliteration": "yuḥāsabu"
+          },
+          {
+            "position": 3,
+            "text_code": "حِسَابًۭا",
+            "audio_url": "wbw/084_008_003.mp3",
+            "translation": {
+              "text": "an account",
+              "language": "en"
+            },
+            "transliteration": "ḥisāban"
+          },
+          {
+            "position": 4,
+            "text_code": "يَسِيرًۭا",
+            "audio_url": "wbw/084_008_004.mp3",
+            "translation": {
+              "text": "easy",
+              "language": "en"
+            },
+            "transliteration": "yasīran"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "فَسَوْفَ",
+            "audio_url": "wbw/084_008_001.mp3",
+            "translation": {
+              "text": "maka nanti",
+              "language": "id"
+            },
+            "transliteration": "fasawfa"
+          },
+          {
+            "position": 2,
+            "text_code": "يُحَاسَبُ",
+            "audio_url": "wbw/084_008_002.mp3",
+            "translation": {
+              "text": "dia dihisap/diperiksa",
+              "language": "id"
+            },
+            "transliteration": "yuḥāsabu"
+          },
+          {
+            "position": 3,
+            "text_code": "حِسَابًۭا",
+            "audio_url": "wbw/084_008_003.mp3",
+            "translation": {
+              "text": "perhitungan/pemeriksaan",
+              "language": "id"
+            },
+            "transliteration": "ḥisāban"
+          },
+          {
+            "position": 4,
+            "text_code": "يَسِيرًۭا",
+            "audio_url": "wbw/084_008_004.mp3",
+            "translation": {
+              "text": "mudah",
+              "language": "id"
+            },
+            "transliteration": "yasīran"
+          }
+        ]
+      },
+      "translations": {
+        "en": "He will be judged with an easy account",
+        "id": "maka dia akan diperiksa dengan pemeriksaan yang mudah,"
+      }
+    },
+    {
+      "id": 5893,
+      "verse_number": 9,
+      "verse_key": "84:9",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَيَنقَلِبُ إِلَىٰ أَهْلِهِ مَسْرُورًا",
+      "text_arabic_uthmani": "وَيَنقَلِبُ إِلَىٰٓ أَهْلِهِۦ مَسْرُورًا",
+      "text_arabic_tajweed": "وَيَ<tajweed class=ikhafa>نق</tajweed>َلِبُ إِلَ<tajweed class=madda_obligatory>ىٰٓ</tajweed> أَهْلِه<tajweed class=madda_normal>ِۦ</tajweed> مَسْرُورًا <span class=end>٩</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَيَنقَلِبُ",
+            "audio_url": "wbw/084_009_001.mp3",
+            "translation": {
+              "text": "And he will return",
+              "language": "en"
+            },
+            "transliteration": "wayanqalibu"
+          },
+          {
+            "position": 2,
+            "text_code": "إِلَىٰٓ",
+            "audio_url": "wbw/084_009_002.mp3",
+            "translation": {
+              "text": "to",
+              "language": "en"
+            },
+            "transliteration": "ilā"
+          },
+          {
+            "position": 3,
+            "text_code": "أَهْلِهِۦ",
+            "audio_url": "wbw/084_009_003.mp3",
+            "translation": {
+              "text": "his people",
+              "language": "en"
+            },
+            "transliteration": "ahlihi"
+          },
+          {
+            "position": 4,
+            "text_code": "مَسْرُورًۭا",
+            "audio_url": "wbw/084_009_004.mp3",
+            "translation": {
+              "text": "happily",
+              "language": "en"
+            },
+            "transliteration": "masrūran"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَيَنقَلِبُ",
+            "audio_url": "wbw/084_009_001.mp3",
+            "translation": {
+              "text": "dan dia akan dikembalikan",
+              "language": "id"
+            },
+            "transliteration": "wayanqalibu"
+          },
+          {
+            "position": 2,
+            "text_code": "إِلَىٰٓ",
+            "audio_url": "wbw/084_009_002.mp3",
+            "translation": {
+              "text": "kepada",
+              "language": "id"
+            },
+            "transliteration": "ilā"
+          },
+          {
+            "position": 3,
+            "text_code": "أَهْلِهِۦ",
+            "audio_url": "wbw/084_009_003.mp3",
+            "translation": {
+              "text": "keluarganya",
+              "language": "id"
+            },
+            "transliteration": "ahlihi"
+          },
+          {
+            "position": 4,
+            "text_code": "مَسْرُورًۭا",
+            "audio_url": "wbw/084_009_004.mp3",
+            "translation": {
+              "text": "dengan gembira",
+              "language": "id"
+            },
+            "transliteration": "masrūran"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And return to his people in happiness.",
+        "id": "dan dia akan kembali kepada keluarganya (yang sama-sama beriman) dengan gembira."
+      }
+    },
+    {
+      "id": 5894,
+      "verse_number": 10,
+      "verse_key": "84:10",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ",
+      "text_arabic_uthmani": "وَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ وَرَآءَ ظَهْرِهِۦ",
+      "text_arabic_tajweed": "وَأَ<tajweed class=ghunnah>مّ</tajweed>َا مَنْ أُوتِىَ كِتَ<tajweed class=madda_normal>ـٰ</tajweed>بَهُ<tajweed class=madda_normal>ۥ</tajweed> وَر<tajweed class=madda_obligatory>َا</tajweed>ٓءَ ظَهْرِهِۦ <span class=end>١٠</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَأَمَّا",
+            "audio_url": "wbw/084_010_001.mp3",
+            "translation": {
+              "text": "But as for",
+              "language": "en"
+            },
+            "transliteration": "wa-ammā"
+          },
+          {
+            "position": 2,
+            "text_code": "مَنْ",
+            "audio_url": "wbw/084_010_002.mp3",
+            "translation": {
+              "text": "(him) who",
+              "language": "en"
+            },
+            "transliteration": "man"
+          },
+          {
+            "position": 3,
+            "text_code": "أُوتِىَ",
+            "audio_url": "wbw/084_010_003.mp3",
+            "translation": {
+              "text": "is given",
+              "language": "en"
+            },
+            "transliteration": "ūtiya"
+          },
+          {
+            "position": 4,
+            "text_code": "كِتَـٰبَهُۥ",
+            "audio_url": "wbw/084_010_004.mp3",
+            "translation": {
+              "text": "his record",
+              "language": "en"
+            },
+            "transliteration": "kitābahu"
+          },
+          {
+            "position": 5,
+            "text_code": "وَرَآءَ",
+            "audio_url": "wbw/084_010_005.mp3",
+            "translation": {
+              "text": "behind",
+              "language": "en"
+            },
+            "transliteration": "warāa"
+          },
+          {
+            "position": 6,
+            "text_code": "ظَهْرِهِۦ",
+            "audio_url": "wbw/084_010_006.mp3",
+            "translation": {
+              "text": "his back",
+              "language": "en"
+            },
+            "transliteration": "ẓahrihi"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَأَمَّا",
+            "audio_url": "wbw/084_010_001.mp3",
+            "translation": {
+              "text": "dan adapun",
+              "language": "id"
+            },
+            "transliteration": "wa-ammā"
+          },
+          {
+            "position": 2,
+            "text_code": "مَنْ",
+            "audio_url": "wbw/084_010_002.mp3",
+            "translation": {
+              "text": "siapa/orang",
+              "language": "id"
+            },
+            "transliteration": "man"
+          },
+          {
+            "position": 3,
+            "text_code": "أُوتِىَ",
+            "audio_url": "wbw/084_010_003.mp3",
+            "translation": {
+              "text": "diberikan",
+              "language": "id"
+            },
+            "transliteration": "ūtiya"
+          },
+          {
+            "position": 4,
+            "text_code": "كِتَـٰبَهُۥ",
+            "audio_url": "wbw/084_010_004.mp3",
+            "translation": {
+              "text": "kitabnya",
+              "language": "id"
+            },
+            "transliteration": "kitābahu"
+          },
+          {
+            "position": 5,
+            "text_code": "وَرَآءَ",
+            "audio_url": "wbw/084_010_005.mp3",
+            "translation": {
+              "text": "belakang",
+              "language": "id"
+            },
+            "transliteration": "warāa"
+          },
+          {
+            "position": 6,
+            "text_code": "ظَهْرِهِۦ",
+            "audio_url": "wbw/084_010_006.mp3",
+            "translation": {
+              "text": "punggungnya",
+              "language": "id"
+            },
+            "transliteration": "ẓahrihi"
+          }
+        ]
+      },
+      "translations": {
+        "en": "But as for he who is given his record behind his back,",
+        "id": "Dan adapun orang yang catatannya diberikan dari arah belakang,"
+      }
+    },
+    {
+      "id": 5895,
+      "verse_number": 11,
+      "verse_key": "84:11",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "فَسَوْفَ يَدْعُو ثُبُورًا",
+      "text_arabic_uthmani": "فَسَوْفَ يَدْعُوا۟ ثُبُورًا",
+      "text_arabic_tajweed": "فَسَوْفَ يَ<tajweed class=qalaqah>دْ</tajweed>عُو<tajweed class=slnt>اْ</tajweed> ثُبُورًا <span class=end>١١</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "فَسَوْفَ",
+            "audio_url": "wbw/084_011_001.mp3",
+            "translation": {
+              "text": "Then soon",
+              "language": "en"
+            },
+            "transliteration": "fasawfa"
+          },
+          {
+            "position": 2,
+            "text_code": "يَدْعُوا۟",
+            "audio_url": "wbw/084_011_002.mp3",
+            "translation": {
+              "text": "he will call",
+              "language": "en"
+            },
+            "transliteration": "yadʿū"
+          },
+          {
+            "position": 3,
+            "text_code": "ثُبُورًۭا",
+            "audio_url": "wbw/084_011_003.mp3",
+            "translation": {
+              "text": "(for) destruction",
+              "language": "en"
+            },
+            "transliteration": "thubūran"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "فَسَوْفَ",
+            "audio_url": "wbw/084_011_001.mp3",
+            "translation": {
+              "text": "maka nanti",
+              "language": "id"
+            },
+            "transliteration": "fasawfa"
+          },
+          {
+            "position": 2,
+            "text_code": "يَدْعُوا۟",
+            "audio_url": "wbw/084_011_002.mp3",
+            "translation": {
+              "text": "mereka berseru/berteriak",
+              "language": "id"
+            },
+            "transliteration": "yadʿū"
+          },
+          {
+            "position": 3,
+            "text_code": "ثُبُورًۭا",
+            "audio_url": "wbw/084_011_003.mp3",
+            "translation": {
+              "text": "kebinasaan/kecelakaan",
+              "language": "id"
+            },
+            "transliteration": "thubūran"
+          }
+        ]
+      },
+      "translations": {
+        "en": "He will cry out for destruction",
+        "id": "maka dia akan berteriak, \"Celakalah aku!\""
+      }
+    },
+    {
+      "id": 5896,
+      "verse_number": 12,
+      "verse_key": "84:12",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَيَصْلَىٰ سَعِيرًا",
+      "text_arabic_uthmani": "وَيَصْلَىٰ سَعِيرًا",
+      "text_arabic_tajweed": "وَيَصْلَىٰ سَعِيرًا <span class=end>١٢</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَيَصْلَىٰ",
+            "audio_url": "wbw/084_012_001.mp3",
+            "translation": {
+              "text": "And he will burn",
+              "language": "en"
+            },
+            "transliteration": "wayaṣlā"
+          },
+          {
+            "position": 2,
+            "text_code": "سَعِيرًا",
+            "audio_url": "wbw/084_012_002.mp3",
+            "translation": {
+              "text": "(in) a Blaze",
+              "language": "en"
+            },
+            "transliteration": "saʿīran"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَيَصْلَىٰ",
+            "audio_url": "wbw/084_012_001.mp3",
+            "translation": {
+              "text": "dan dia akan masuk",
+              "language": "id"
+            },
+            "transliteration": "wayaṣlā"
+          },
+          {
+            "position": 2,
+            "text_code": "سَعِيرًا",
+            "audio_url": "wbw/084_012_002.mp3",
+            "translation": {
+              "text": "api yang menyala-nyala",
+              "language": "id"
+            },
+            "transliteration": "saʿīran"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And [enter to] burn in a Blaze.",
+        "id": "Dan dia akan masuk ke dalam api yang menyala-nyala (neraka)."
+      }
+    },
+    {
+      "id": 5897,
+      "verse_number": 13,
+      "verse_key": "84:13",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا",
+      "text_arabic_uthmani": "إِنَّهُۥ كَانَ فِىٓ أَهْلِهِۦ مَسْرُورًا",
+      "text_arabic_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> كَانَ ف<tajweed class=madda_obligatory>ِىٓ</tajweed> أَهْلِه<tajweed class=madda_normal>ِۦ</tajweed> مَسْرُورًا <span class=end>١٣</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "إِنَّهُۥ",
+            "audio_url": "wbw/084_013_001.mp3",
+            "translation": {
+              "text": "Indeed, he",
+              "language": "en"
+            },
+            "transliteration": "innahu"
+          },
+          {
+            "position": 2,
+            "text_code": "كَانَ",
+            "audio_url": "wbw/084_013_002.mp3",
+            "translation": {
+              "text": "had been",
+              "language": "en"
+            },
+            "transliteration": "kāna"
+          },
+          {
+            "position": 3,
+            "text_code": "فِىٓ",
+            "audio_url": "wbw/084_013_003.mp3",
+            "translation": {
+              "text": "among",
+              "language": "en"
+            },
+            "transliteration": "fī"
+          },
+          {
+            "position": 4,
+            "text_code": "أَهْلِهِۦ",
+            "audio_url": "wbw/084_013_004.mp3",
+            "translation": {
+              "text": "his people",
+              "language": "en"
+            },
+            "transliteration": "ahlihi"
+          },
+          {
+            "position": 5,
+            "text_code": "مَسْرُورًا",
+            "audio_url": "wbw/084_013_005.mp3",
+            "translation": {
+              "text": "happy",
+              "language": "en"
+            },
+            "transliteration": "masrūran"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "إِنَّهُۥ",
+            "audio_url": "wbw/084_013_001.mp3",
+            "translation": {
+              "text": "sesungguhnya dia",
+              "language": "id"
+            },
+            "transliteration": "innahu"
+          },
+          {
+            "position": 2,
+            "text_code": "كَانَ",
+            "audio_url": "wbw/084_013_002.mp3",
+            "translation": {
+              "text": "adalah",
+              "language": "id"
+            },
+            "transliteration": "kāna"
+          },
+          {
+            "position": 3,
+            "text_code": "فِىٓ",
+            "audio_url": "wbw/084_013_003.mp3",
+            "translation": {
+              "text": "dalam",
+              "language": "id"
+            },
+            "transliteration": "fī"
+          },
+          {
+            "position": 4,
+            "text_code": "أَهْلِهِۦ",
+            "audio_url": "wbw/084_013_004.mp3",
+            "translation": {
+              "text": "keluarganya",
+              "language": "id"
+            },
+            "transliteration": "ahlihi"
+          },
+          {
+            "position": 5,
+            "text_code": "مَسْرُورًا",
+            "audio_url": "wbw/084_013_005.mp3",
+            "translation": {
+              "text": "bergembira",
+              "language": "id"
+            },
+            "transliteration": "masrūran"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Indeed, he had [once] been among his people in happiness;",
+        "id": "Sungguh, dia dahulu (di dunia) bergembira di kalangan keluarganya (yang sama-sama kafir)."
+      }
+    },
+    {
+      "id": 5898,
+      "verse_number": 14,
+      "verse_key": "84:14",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "إِنَّهُ ظَنَّ أَن لَّن يَحُورَ",
+      "text_arabic_uthmani": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ",
+      "text_arabic_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> ظَ<tajweed class=ghunnah>نّ</tajweed>َ أ<tajweed class=idgham_wo_ghunnah>َن ل</tajweed>ّ<tajweed class=idgham_ghunnah>َن ي</tajweed>َح<tajweed class=madda_permissible>ُو</tajweed>رَ <span class=end>١٤</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "إِنَّهُۥ",
+            "audio_url": "wbw/084_014_001.mp3",
+            "translation": {
+              "text": "Indeed, he",
+              "language": "en"
+            },
+            "transliteration": "innahu"
+          },
+          {
+            "position": 2,
+            "text_code": "ظَنَّ",
+            "audio_url": "wbw/084_014_002.mp3",
+            "translation": {
+              "text": "(had) thought",
+              "language": "en"
+            },
+            "transliteration": "ẓanna"
+          },
+          {
+            "position": 3,
+            "text_code": "أَن",
+            "audio_url": "wbw/084_014_003.mp3",
+            "translation": {
+              "text": "that",
+              "language": "en"
+            },
+            "transliteration": "an"
+          },
+          {
+            "position": 4,
+            "text_code": "لَّن",
+            "audio_url": "wbw/084_014_004.mp3",
+            "translation": {
+              "text": "never",
+              "language": "en"
+            },
+            "transliteration": "lan"
+          },
+          {
+            "position": 5,
+            "text_code": "يَحُورَ",
+            "audio_url": "wbw/084_014_005.mp3",
+            "translation": {
+              "text": "he would return",
+              "language": "en"
+            },
+            "transliteration": "yaḥūra"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "إِنَّهُۥ",
+            "audio_url": "wbw/084_014_001.mp3",
+            "translation": {
+              "text": "sesungguhnya",
+              "language": "id"
+            },
+            "transliteration": "innahu"
+          },
+          {
+            "position": 2,
+            "text_code": "ظَنَّ",
+            "audio_url": "wbw/084_014_002.mp3",
+            "translation": {
+              "text": "dia menyangka",
+              "language": "id"
+            },
+            "transliteration": "ẓanna"
+          },
+          {
+            "position": 3,
+            "text_code": "أَن",
+            "audio_url": "wbw/084_014_003.mp3",
+            "translation": {
+              "text": "bahwa",
+              "language": "id"
+            },
+            "transliteration": "an"
+          },
+          {
+            "position": 4,
+            "text_code": "لَّن",
+            "audio_url": "wbw/084_014_004.mp3",
+            "translation": {
+              "text": "tidak",
+              "language": "id"
+            },
+            "transliteration": "lan"
+          },
+          {
+            "position": 5,
+            "text_code": "يَحُورَ",
+            "audio_url": "wbw/084_014_005.mp3",
+            "translation": {
+              "text": "dia akan kembali",
+              "language": "id"
+            },
+            "transliteration": "yaḥūra"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Indeed, he had thought he would never return [to Allāh].",
+        "id": "Sesungguhnya dia mengira bahwa dia tidak akan kembali (kepada Tuhannya)."
+      }
+    },
+    {
+      "id": 5899,
+      "verse_number": 15,
+      "verse_key": "84:15",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "بَلَىٰ إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا",
+      "text_arabic_uthmani": "بَلَىٰٓ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرًا",
+      "text_arabic_tajweed": "بَلَ<tajweed class=madda_obligatory>ىٰٓ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّهُ<tajweed class=madda_normal>ۥ</tajweed> كَانَ بِه<tajweed class=madda_normal>ِۦ</tajweed> بَصِيرًا <span class=end>١٥</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "بَلَىٰٓ",
+            "audio_url": "wbw/084_015_001.mp3",
+            "translation": {
+              "text": "Yes",
+              "language": "en"
+            },
+            "transliteration": "balā"
+          },
+          {
+            "position": 2,
+            "text_code": "إِنَّ",
+            "audio_url": "wbw/084_015_002.mp3",
+            "translation": {
+              "text": "Indeed",
+              "language": "en"
+            },
+            "transliteration": "inna"
+          },
+          {
+            "position": 3,
+            "text_code": "رَبَّهُۥ",
+            "audio_url": "wbw/084_015_003.mp3",
+            "translation": {
+              "text": "his Lord",
+              "language": "en"
+            },
+            "transliteration": "rabbahu"
+          },
+          {
+            "position": 4,
+            "text_code": "كَانَ",
+            "audio_url": "wbw/084_015_004.mp3",
+            "translation": {
+              "text": "was",
+              "language": "en"
+            },
+            "transliteration": "kāna"
+          },
+          {
+            "position": 5,
+            "text_code": "بِهِۦ",
+            "audio_url": "wbw/084_015_005.mp3",
+            "translation": {
+              "text": "of him",
+              "language": "en"
+            },
+            "transliteration": "bihi"
+          },
+          {
+            "position": 6,
+            "text_code": "بَصِيرًۭا",
+            "audio_url": "wbw/084_015_006.mp3",
+            "translation": {
+              "text": "All-Seer",
+              "language": "en"
+            },
+            "transliteration": "baṣīran"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "بَلَىٰٓ",
+            "audio_url": "wbw/084_015_001.mp3",
+            "translation": {
+              "text": "yang benar",
+              "language": "id"
+            },
+            "transliteration": "balā"
+          },
+          {
+            "position": 2,
+            "text_code": "إِنَّ",
+            "audio_url": "wbw/084_015_002.mp3",
+            "translation": {
+              "text": "sesungguhnya",
+              "language": "id"
+            },
+            "transliteration": "inna"
+          },
+          {
+            "position": 3,
+            "text_code": "رَبَّهُۥ",
+            "audio_url": "wbw/084_015_003.mp3",
+            "translation": {
+              "text": "Tuhannya",
+              "language": "id"
+            },
+            "transliteration": "rabbahu"
+          },
+          {
+            "position": 4,
+            "text_code": "كَانَ",
+            "audio_url": "wbw/084_015_004.mp3",
+            "translation": {
+              "text": "adalah",
+              "language": "id"
+            },
+            "transliteration": "kāna"
+          },
+          {
+            "position": 5,
+            "text_code": "بِهِۦ",
+            "audio_url": "wbw/084_015_005.mp3",
+            "translation": {
+              "text": "kepadanya",
+              "language": "id"
+            },
+            "transliteration": "bihi"
+          },
+          {
+            "position": 6,
+            "text_code": "بَصِيرًۭا",
+            "audio_url": "wbw/084_015_006.mp3",
+            "translation": {
+              "text": "melihat",
+              "language": "id"
+            },
+            "transliteration": "baṣīran"
+          }
+        ]
+      },
+      "translations": {
+        "en": "But yes! Indeed, his Lord was ever, of him, Seeing.",
+        "id": "Tidak demikian, sesungguhnya Tuhannya selalu melihatnya."
+      }
+    },
+    {
+      "id": 5900,
+      "verse_number": 16,
+      "verse_key": "84:16",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "فَلَا أُقْسِمُ بِالشَّفَقِ",
+      "text_arabic_uthmani": "فَلَآ أُقْسِمُ بِٱلشَّفَقِ",
+      "text_arabic_tajweed": "فَل<tajweed class=madda_obligatory>َآ</tajweed> أُ<tajweed class=qalaqah>قْ</tajweed>سِمُ بِ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>شَّفَ<tajweed class=qalaqah>ق</tajweed>ِ <span class=end>١٦</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "فَلَآ",
+            "audio_url": "wbw/084_016_001.mp3",
+            "translation": {
+              "text": "But nay",
+              "language": "en"
+            },
+            "transliteration": "falā"
+          },
+          {
+            "position": 2,
+            "text_code": "أُقْسِمُ",
+            "audio_url": "wbw/084_016_002.mp3",
+            "translation": {
+              "text": "I swear",
+              "language": "en"
+            },
+            "transliteration": "uq'simu"
+          },
+          {
+            "position": 3,
+            "text_code": "بِٱلشَّفَقِ",
+            "audio_url": "wbw/084_016_003.mp3",
+            "translation": {
+              "text": "by the twilight glow",
+              "language": "en"
+            },
+            "transliteration": "bil-shafaqi"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "فَلَآ",
+            "audio_url": "wbw/084_016_001.mp3",
+            "translation": {
+              "text": "maka",
+              "language": "id"
+            },
+            "transliteration": "falā"
+          },
+          {
+            "position": 2,
+            "text_code": "أُقْسِمُ",
+            "audio_url": "wbw/084_016_002.mp3",
+            "translation": {
+              "text": "Aku bersumpah",
+              "language": "id"
+            },
+            "transliteration": "uq'simu"
+          },
+          {
+            "position": 3,
+            "text_code": "بِٱلشَّفَقِ",
+            "audio_url": "wbw/084_016_003.mp3",
+            "translation": {
+              "text": "dengan cahaya merah di waktu senja",
+              "language": "id"
+            },
+            "transliteration": "bil-shafaqi"
+          }
+        ]
+      },
+      "translations": {
+        "en": "So I swear by the twilight glow",
+        "id": "Maka Aku bersumpah demi cahaya merah pada waktu senja,"
+      }
+    },
+    {
+      "id": 5901,
+      "verse_number": 17,
+      "verse_key": "84:17",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَاللَّيْلِ وَمَا وَسَقَ",
+      "text_arabic_uthmani": "وَٱلَّيْلِ وَمَا وَسَقَ",
+      "text_arabic_tajweed": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لَّيْلِ وَمَا وَسَ<tajweed class=qalaqah>ق</tajweed>َ <span class=end>١٧</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَٱلَّيْلِ",
+            "audio_url": "wbw/084_017_001.mp3",
+            "translation": {
+              "text": "And the night",
+              "language": "en"
+            },
+            "transliteration": "wa-al-layli"
+          },
+          {
+            "position": 2,
+            "text_code": "وَمَا",
+            "audio_url": "wbw/084_017_002.mp3",
+            "translation": {
+              "text": "and what",
+              "language": "en"
+            },
+            "transliteration": "wamā"
+          },
+          {
+            "position": 3,
+            "text_code": "وَسَقَ",
+            "audio_url": "wbw/084_017_003.mp3",
+            "translation": {
+              "text": "it envelops",
+              "language": "en"
+            },
+            "transliteration": "wasaqa"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَٱلَّيْلِ",
+            "audio_url": "wbw/084_017_001.mp3",
+            "translation": {
+              "text": "dan malam",
+              "language": "id"
+            },
+            "transliteration": "wa-al-layli"
+          },
+          {
+            "position": 2,
+            "text_code": "وَمَا",
+            "audio_url": "wbw/084_017_002.mp3",
+            "translation": {
+              "text": "dan apa",
+              "language": "id"
+            },
+            "transliteration": "wamā"
+          },
+          {
+            "position": 3,
+            "text_code": "وَسَقَ",
+            "audio_url": "wbw/084_017_003.mp3",
+            "translation": {
+              "text": "menyelubungi",
+              "language": "id"
+            },
+            "transliteration": "wasaqa"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And [by] the night and what it envelops",
+        "id": "demi malam dan apa yang diselubunginya,"
+      }
+    },
+    {
+      "id": 5902,
+      "verse_number": 18,
+      "verse_key": "84:18",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَالْقَمَرِ إِذَا اتَّسَقَ",
+      "text_arabic_uthmani": "وَٱلْقَمَرِ إِذَا ٱتَّسَقَ",
+      "text_arabic_tajweed": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لْقَمَرِ إِذَا <tajweed class=ham_wasl>ٱ</tajweed>تَّسَ<tajweed class=qalaqah>ق</tajweed>َ <span class=end>١٨</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَٱلْقَمَرِ",
+            "audio_url": "wbw/084_018_001.mp3",
+            "translation": {
+              "text": "And the moon",
+              "language": "en"
+            },
+            "transliteration": "wal-qamari"
+          },
+          {
+            "position": 2,
+            "text_code": "إِذَا",
+            "audio_url": "wbw/084_018_002.mp3",
+            "translation": {
+              "text": "when",
+              "language": "en"
+            },
+            "transliteration": "idhā"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱتَّسَقَ",
+            "audio_url": "wbw/084_018_003.mp3",
+            "translation": {
+              "text": "it becomes full",
+              "language": "en"
+            },
+            "transliteration": "ittasaqa"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَٱلْقَمَرِ",
+            "audio_url": "wbw/084_018_001.mp3",
+            "translation": {
+              "text": "dan bulan",
+              "language": "id"
+            },
+            "transliteration": "wal-qamari"
+          },
+          {
+            "position": 2,
+            "text_code": "إِذَا",
+            "audio_url": "wbw/084_018_002.mp3",
+            "translation": {
+              "text": "apabila",
+              "language": "id"
+            },
+            "transliteration": "idhā"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱتَّسَقَ",
+            "audio_url": "wbw/084_018_003.mp3",
+            "translation": {
+              "text": "sempurna terang",
+              "language": "id"
+            },
+            "transliteration": "ittasaqa"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And [by] the moon when it becomes full",
+        "id": "demi bulan apabila jadi purnama,"
+      }
+    },
+    {
+      "id": 5903,
+      "verse_number": 19,
+      "verse_key": "84:19",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ",
+      "text_arabic_uthmani": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ",
+      "text_arabic_tajweed": "لَتَرْكَبُ<tajweed class=ghunnah>نّ</tajweed>َ طَبَقًا عَ<tajweed class=ikhafa>ن ط</tajweed>َبَ<tajweed class=qalaqah>ق</tajweed>ٍ <span class=end>١٩</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "لَتَرْكَبُنَّ",
+            "audio_url": "wbw/084_019_001.mp3",
+            "translation": {
+              "text": "You will surely embark",
+              "language": "en"
+            },
+            "transliteration": "latarkabunna"
+          },
+          {
+            "position": 2,
+            "text_code": "طَبَقًا",
+            "audio_url": "wbw/084_019_002.mp3",
+            "translation": {
+              "text": "(to) stage",
+              "language": "en"
+            },
+            "transliteration": "ṭabaqan"
+          },
+          {
+            "position": 3,
+            "text_code": "عَن",
+            "audio_url": "wbw/084_019_003.mp3",
+            "translation": {
+              "text": "from",
+              "language": "en"
+            },
+            "transliteration": "ʿan"
+          },
+          {
+            "position": 4,
+            "text_code": "طَبَقٍۢ",
+            "audio_url": "wbw/084_019_004.mp3",
+            "translation": {
+              "text": "stage",
+              "language": "en"
+            },
+            "transliteration": "ṭabaqin"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "لَتَرْكَبُنَّ",
+            "audio_url": "wbw/084_019_001.mp3",
+            "translation": {
+              "text": "sesungguhnya kamu akan naik/melalui",
+              "language": "id"
+            },
+            "transliteration": "latarkabunna"
+          },
+          {
+            "position": 2,
+            "text_code": "طَبَقًا",
+            "audio_url": "wbw/084_019_002.mp3",
+            "translation": {
+              "text": "setingkat",
+              "language": "id"
+            },
+            "transliteration": "ṭabaqan"
+          },
+          {
+            "position": 3,
+            "text_code": "عَن",
+            "audio_url": "wbw/084_019_003.mp3",
+            "translation": {
+              "text": "dari/demi",
+              "language": "id"
+            },
+            "transliteration": "ʿan"
+          },
+          {
+            "position": 4,
+            "text_code": "طَبَقٍۢ",
+            "audio_url": "wbw/084_019_004.mp3",
+            "translation": {
+              "text": "setingkat",
+              "language": "id"
+            },
+            "transliteration": "ṭabaqin"
+          }
+        ]
+      },
+      "translations": {
+        "en": "[That] you will surely embark upon [i.e., experience] state after state.<sup foot_note=197739>1</sup>",
+        "id": "sungguh, akan kamu jalani tingkat demi tingkat (dalam kehidupan).<sup foot_note=135855>1</sup>"
+      }
+    },
+    {
+      "id": 5904,
+      "verse_number": 20,
+      "verse_key": "84:20",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+      "text_arabic_uthmani": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+      "text_arabic_tajweed": "فَمَا لَهُمْ لَا يُؤْمِن<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٠</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "فَمَا",
+            "audio_url": "wbw/084_020_001.mp3",
+            "translation": {
+              "text": "So what",
+              "language": "en"
+            },
+            "transliteration": "famā"
+          },
+          {
+            "position": 2,
+            "text_code": "لَهُمْ",
+            "audio_url": "wbw/084_020_002.mp3",
+            "translation": {
+              "text": "(is) for them",
+              "language": "en"
+            },
+            "transliteration": "lahum"
+          },
+          {
+            "position": 3,
+            "text_code": "لَا",
+            "audio_url": "wbw/084_020_003.mp3",
+            "translation": {
+              "text": "not",
+              "language": "en"
+            },
+            "transliteration": "lā"
+          },
+          {
+            "position": 4,
+            "text_code": "يُؤْمِنُونَ",
+            "audio_url": "wbw/084_020_004.mp3",
+            "translation": {
+              "text": "they believe",
+              "language": "en"
+            },
+            "transliteration": "yu'minūna"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "فَمَا",
+            "audio_url": "wbw/084_020_001.mp3",
+            "translation": {
+              "text": "maka mengapa",
+              "language": "id"
+            },
+            "transliteration": "famā"
+          },
+          {
+            "position": 2,
+            "text_code": "لَهُمْ",
+            "audio_url": "wbw/084_020_002.mp3",
+            "translation": {
+              "text": "bagi mereka",
+              "language": "id"
+            },
+            "transliteration": "lahum"
+          },
+          {
+            "position": 3,
+            "text_code": "لَا",
+            "audio_url": "wbw/084_020_003.mp3",
+            "translation": {
+              "text": "tidak",
+              "language": "id"
+            },
+            "transliteration": "lā"
+          },
+          {
+            "position": 4,
+            "text_code": "يُؤْمِنُونَ",
+            "audio_url": "wbw/084_020_004.mp3",
+            "translation": {
+              "text": "mereka beriman",
+              "language": "id"
+            },
+            "transliteration": "yu'minūna"
+          }
+        ]
+      },
+      "translations": {
+        "en": "So what is [the matter] with them [that] they do not believe,",
+        "id": "Maka mengapa mereka tidak mau beriman?"
+      }
+    },
+    {
+      "id": 5905,
+      "verse_number": 21,
+      "verse_key": "84:21",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": 13,
+      "text_arabic_simple": "وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ",
+      "text_arabic_uthmani": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩",
+      "text_arabic_tajweed": "وَإِذَا قُرِئَ عَلَيْهِمُ <tajweed class=ham_wasl>ٱ</tajweed>لْقُرْءَانُ لَا يَسْجُدُ<tajweed class=madda_permissible>و</tajweed>نَ ۩ <span class=end>٢١</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَإِذَا",
+            "audio_url": "wbw/084_021_001.mp3",
+            "translation": {
+              "text": "And when",
+              "language": "en"
+            },
+            "transliteration": "wa-idhā"
+          },
+          {
+            "position": 2,
+            "text_code": "قُرِئَ",
+            "audio_url": "wbw/084_021_002.mp3",
+            "translation": {
+              "text": "is recited",
+              "language": "en"
+            },
+            "transliteration": "quri-a"
+          },
+          {
+            "position": 3,
+            "text_code": "عَلَيْهِمُ",
+            "audio_url": "wbw/084_021_003.mp3",
+            "translation": {
+              "text": "to them",
+              "language": "en"
+            },
+            "transliteration": "ʿalayhimu"
+          },
+          {
+            "position": 4,
+            "text_code": "ٱلْقُرْءَانُ",
+            "audio_url": "wbw/084_021_004.mp3",
+            "translation": {
+              "text": "the Quran",
+              "language": "en"
+            },
+            "transliteration": "l-qur'ānu"
+          },
+          {
+            "position": 5,
+            "text_code": "لَا",
+            "audio_url": "wbw/084_021_005.mp3",
+            "translation": {
+              "text": "not",
+              "language": "en"
+            },
+            "transliteration": "lā"
+          },
+          {
+            "position": 6,
+            "text_code": "يَسْجُدُونَ ۩",
+            "audio_url": "wbw/084_021_006.mp3",
+            "translation": {
+              "text": "they prostrate",
+              "language": "en"
+            },
+            "transliteration": "yasjudūna"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَإِذَا",
+            "audio_url": "wbw/084_021_001.mp3",
+            "translation": {
+              "text": "dan apabila",
+              "language": "id"
+            },
+            "transliteration": "wa-idhā"
+          },
+          {
+            "position": 2,
+            "text_code": "قُرِئَ",
+            "audio_url": "wbw/084_021_002.mp3",
+            "translation": {
+              "text": "dibacakan",
+              "language": "id"
+            },
+            "transliteration": "quri-a"
+          },
+          {
+            "position": 3,
+            "text_code": "عَلَيْهِمُ",
+            "audio_url": "wbw/084_021_003.mp3",
+            "translation": {
+              "text": "atas mereka",
+              "language": "id"
+            },
+            "transliteration": "ʿalayhimu"
+          },
+          {
+            "position": 4,
+            "text_code": "ٱلْقُرْءَانُ",
+            "audio_url": "wbw/084_021_004.mp3",
+            "translation": {
+              "text": "Al Qur'an",
+              "language": "id"
+            },
+            "transliteration": "l-qur'ānu"
+          },
+          {
+            "position": 5,
+            "text_code": "لَا",
+            "audio_url": "wbw/084_021_005.mp3",
+            "translation": {
+              "text": "tidak",
+              "language": "id"
+            },
+            "transliteration": "lā"
+          },
+          {
+            "position": 6,
+            "text_code": "يَسْجُدُونَ ۩",
+            "audio_url": "wbw/084_021_006.mp3",
+            "translation": {
+              "text": "sujud",
+              "language": "id"
+            },
+            "transliteration": "yasjudūna"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And when the Qur’ān is recited to them, they do not prostrate [to Allāh]?",
+        "id": "Dan apabila Alquran dibacakan kepada mereka, mereka tidak (mau) bersujud,"
+      }
+    },
+    {
+      "id": 5906,
+      "verse_number": 22,
+      "verse_key": "84:22",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ",
+      "text_arabic_uthmani": "بَلِ ٱلَّذِينَ كَفَرُوا۟ يُكَذِّبُونَ",
+      "text_arabic_tajweed": "بَلِ <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ كَفَرُو<tajweed class=slnt>اْ</tajweed> يُكَذِّب<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٢</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "بَلِ",
+            "audio_url": "wbw/084_022_001.mp3",
+            "translation": {
+              "text": "Nay",
+              "language": "en"
+            },
+            "transliteration": "bali"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلَّذِينَ",
+            "audio_url": "wbw/084_022_002.mp3",
+            "translation": {
+              "text": "Those who",
+              "language": "en"
+            },
+            "transliteration": "alladhīna"
+          },
+          {
+            "position": 3,
+            "text_code": "كَفَرُوا۟",
+            "audio_url": "wbw/084_022_003.mp3",
+            "translation": {
+              "text": "disbelieved",
+              "language": "en"
+            },
+            "transliteration": "kafarū"
+          },
+          {
+            "position": 4,
+            "text_code": "يُكَذِّبُونَ",
+            "audio_url": "wbw/084_022_004.mp3",
+            "translation": {
+              "text": "deny",
+              "language": "en"
+            },
+            "transliteration": "yukadhibūna"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "بَلِ",
+            "audio_url": "wbw/084_022_001.mp3",
+            "translation": {
+              "text": "tetapi/bahkan",
+              "language": "id"
+            },
+            "transliteration": "bali"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلَّذِينَ",
+            "audio_url": "wbw/084_022_002.mp3",
+            "translation": {
+              "text": "orang-orang yang",
+              "language": "id"
+            },
+            "transliteration": "alladhīna"
+          },
+          {
+            "position": 3,
+            "text_code": "كَفَرُوا۟",
+            "audio_url": "wbw/084_022_003.mp3",
+            "translation": {
+              "text": "kafir/ingkar",
+              "language": "id"
+            },
+            "transliteration": "kafarū"
+          },
+          {
+            "position": 4,
+            "text_code": "يُكَذِّبُونَ",
+            "audio_url": "wbw/084_022_004.mp3",
+            "translation": {
+              "text": "mereka mendustakan",
+              "language": "id"
+            },
+            "transliteration": "yukadhibūna"
+          }
+        ]
+      },
+      "translations": {
+        "en": "But those who have disbelieved deny,",
+        "id": "bahkan orang-orang kafir itu mendustakan-(nya)."
+      }
+    },
+    {
+      "id": 5907,
+      "verse_number": 23,
+      "verse_key": "84:23",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+      "text_arabic_uthmani": "وَٱللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+      "text_arabic_tajweed": "وَ<tajweed class=ham_wasl>ٱ</tajweed>للَّهُ أَعْلَمُ بِمَا يُوع<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٣</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَٱللَّهُ",
+            "audio_url": "wbw/084_023_001.mp3",
+            "translation": {
+              "text": "And Allah",
+              "language": "en"
+            },
+            "transliteration": "wal-lahu"
+          },
+          {
+            "position": 2,
+            "text_code": "أَعْلَمُ",
+            "audio_url": "wbw/084_023_002.mp3",
+            "translation": {
+              "text": "(is) most knowing",
+              "language": "en"
+            },
+            "transliteration": "aʿlamu"
+          },
+          {
+            "position": 3,
+            "text_code": "بِمَا",
+            "audio_url": "wbw/084_023_003.mp3",
+            "translation": {
+              "text": "of what",
+              "language": "en"
+            },
+            "transliteration": "bimā"
+          },
+          {
+            "position": 4,
+            "text_code": "يُوعُونَ",
+            "audio_url": "wbw/084_023_004.mp3",
+            "translation": {
+              "text": "they keep within themselves",
+              "language": "en"
+            },
+            "transliteration": "yūʿūna"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَٱللَّهُ",
+            "audio_url": "wbw/084_023_001.mp3",
+            "translation": {
+              "text": "dan Allah",
+              "language": "id"
+            },
+            "transliteration": "wal-lahu"
+          },
+          {
+            "position": 2,
+            "text_code": "أَعْلَمُ",
+            "audio_url": "wbw/084_023_002.mp3",
+            "translation": {
+              "text": "lebih mengetahui",
+              "language": "id"
+            },
+            "transliteration": "aʿlamu"
+          },
+          {
+            "position": 3,
+            "text_code": "بِمَا",
+            "audio_url": "wbw/084_023_003.mp3",
+            "translation": {
+              "text": "terhadap apa",
+              "language": "id"
+            },
+            "transliteration": "bimā"
+          },
+          {
+            "position": 4,
+            "text_code": "يُوعُونَ",
+            "audio_url": "wbw/084_023_004.mp3",
+            "translation": {
+              "text": "mereka kumpulkan/simpan",
+              "language": "id"
+            },
+            "transliteration": "yūʿūna"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And Allāh is most knowing of what they keep within themselves.",
+        "id": "Dan Allah lebih mengetahui apa yang mereka sembunyikan (dalam hati mereka)."
+      }
+    },
+    {
+      "id": 5908,
+      "verse_number": 24,
+      "verse_key": "84:24",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 589,
+      "sajdah_number": null,
+      "text_arabic_simple": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+      "text_arabic_uthmani": "فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+      "text_arabic_tajweed": "فَبَشِّرْه<tajweed class=ikhafa_shafawi>ُم ب</tajweed>ِعَذَابٍ أَل<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>٢٤</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "فَبَشِّرْهُم",
+            "audio_url": "wbw/084_024_001.mp3",
+            "translation": {
+              "text": "so give them tidings",
+              "language": "en"
+            },
+            "transliteration": "fabashir'hum"
+          },
+          {
+            "position": 2,
+            "text_code": "بِعَذَابٍ",
+            "audio_url": "wbw/084_024_002.mp3",
+            "translation": {
+              "text": "of a punishment",
+              "language": "en"
+            },
+            "transliteration": "biʿadhābin"
+          },
+          {
+            "position": 3,
+            "text_code": "أَلِيمٍ",
+            "audio_url": "wbw/084_024_003.mp3",
+            "translation": {
+              "text": "painful",
+              "language": "en"
+            },
+            "transliteration": "alīmin"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "فَبَشِّرْهُم",
+            "audio_url": "wbw/084_024_001.mp3",
+            "translation": {
+              "text": "maka beri kabar gembira mereka",
+              "language": "id"
+            },
+            "transliteration": "fabashir'hum"
+          },
+          {
+            "position": 2,
+            "text_code": "بِعَذَابٍ",
+            "audio_url": "wbw/084_024_002.mp3",
+            "translation": {
+              "text": "dengan azab",
+              "language": "id"
+            },
+            "transliteration": "biʿadhābin"
+          },
+          {
+            "position": 3,
+            "text_code": "أَلِيمٍ",
+            "audio_url": "wbw/084_024_003.mp3",
+            "translation": {
+              "text": "pedih",
+              "language": "id"
+            },
+            "transliteration": "alīmin"
+          }
+        ]
+      },
+      "translations": {
+        "en": "So give them tidings of a painful punishment,",
+        "id": "Maka sampaikanlah kepada mereka (ancaman) azab yang pedih,"
+      }
+    },
+    {
+      "id": 5909,
+      "verse_number": 25,
+      "verse_key": "84:25",
+      "juz_number": 30,
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "manzil_number": 7,
+      "ruku_number": 528,
+      "page_number": 590,
+      "sajdah_number": null,
+      "text_arabic_simple": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "text_arabic_uthmani": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۭ",
+      "text_arabic_tajweed": "إِلَّا <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ ءَامَنُو<tajweed class=slnt>اْ</tajweed> وَعَمِلُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّ<tajweed class=madda_normal>ـٰ</tajweed>لِحَ<tajweed class=madda_normal>ـٰ</tajweed>تِ لَهُمْ أَ<tajweed class=qalaqah>جْ</tajweed>رٌ غَيْرُ مَمْن<tajweed class=madda_permissible>ُو</tajweed>نِۭ <span class=end>٢٥</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "إِلَّا",
+            "audio_url": "wbw/084_025_001.mp3",
+            "translation": {
+              "text": "Except",
+              "language": "en"
+            },
+            "transliteration": "illā"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلَّذِينَ",
+            "audio_url": "wbw/084_025_002.mp3",
+            "translation": {
+              "text": "those who",
+              "language": "en"
+            },
+            "transliteration": "alladhīna"
+          },
+          {
+            "position": 3,
+            "text_code": "ءَامَنُوا۟",
+            "audio_url": "wbw/084_025_003.mp3",
+            "translation": {
+              "text": "believe",
+              "language": "en"
+            },
+            "transliteration": "āmanū"
+          },
+          {
+            "position": 4,
+            "text_code": "وَعَمِلُوا۟",
+            "audio_url": "wbw/084_025_004.mp3",
+            "translation": {
+              "text": "and do",
+              "language": "en"
+            },
+            "transliteration": "waʿamilū"
+          },
+          {
+            "position": 5,
+            "text_code": "ٱلصَّـٰلِحَـٰتِ",
+            "audio_url": "wbw/084_025_005.mp3",
+            "translation": {
+              "text": "righteous deeds",
+              "language": "en"
+            },
+            "transliteration": "l-ṣāliḥāti"
+          },
+          {
+            "position": 6,
+            "text_code": "لَهُمْ",
+            "audio_url": "wbw/084_025_006.mp3",
+            "translation": {
+              "text": "For them",
+              "language": "en"
+            },
+            "transliteration": "lahum"
+          },
+          {
+            "position": 7,
+            "text_code": "أَجْرٌ",
+            "audio_url": "wbw/084_025_007.mp3",
+            "translation": {
+              "text": "(is) a reward",
+              "language": "en"
+            },
+            "transliteration": "ajrun"
+          },
+          {
+            "position": 8,
+            "text_code": "غَيْرُ",
+            "audio_url": "wbw/084_025_008.mp3",
+            "translation": {
+              "text": "never",
+              "language": "en"
+            },
+            "transliteration": "ghayru"
+          },
+          {
+            "position": 9,
+            "text_code": "مَمْنُونٍۭ",
+            "audio_url": "wbw/084_025_009.mp3",
+            "translation": {
+              "text": "ending",
+              "language": "en"
+            },
+            "transliteration": "mamnūnin"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "إِلَّا",
+            "audio_url": "wbw/084_025_001.mp3",
+            "translation": {
+              "text": "kecuali",
+              "language": "id"
+            },
+            "transliteration": "illā"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلَّذِينَ",
+            "audio_url": "wbw/084_025_002.mp3",
+            "translation": {
+              "text": "orang-orang yang",
+              "language": "id"
+            },
+            "transliteration": "alladhīna"
+          },
+          {
+            "position": 3,
+            "text_code": "ءَامَنُوا۟",
+            "audio_url": "wbw/084_025_003.mp3",
+            "translation": {
+              "text": "beriman",
+              "language": "id"
+            },
+            "transliteration": "āmanū"
+          },
+          {
+            "position": 4,
+            "text_code": "وَعَمِلُوا۟",
+            "audio_url": "wbw/084_025_004.mp3",
+            "translation": {
+              "text": "dan mereka berbuat/beramal",
+              "language": "id"
+            },
+            "transliteration": "waʿamilū"
+          },
+          {
+            "position": 5,
+            "text_code": "ٱلصَّـٰلِحَـٰتِ",
+            "audio_url": "wbw/084_025_005.mp3",
+            "translation": {
+              "text": "kebajikan/saleh",
+              "language": "id"
+            },
+            "transliteration": "l-ṣāliḥāti"
+          },
+          {
+            "position": 6,
+            "text_code": "لَهُمْ",
+            "audio_url": "wbw/084_025_006.mp3",
+            "translation": {
+              "text": "bagi mereka",
+              "language": "id"
+            },
+            "transliteration": "lahum"
+          },
+          {
+            "position": 7,
+            "text_code": "أَجْرٌ",
+            "audio_url": "wbw/084_025_007.mp3",
+            "translation": {
+              "text": "pahala",
+              "language": "id"
+            },
+            "transliteration": "ajrun"
+          },
+          {
+            "position": 8,
+            "text_code": "غَيْرُ",
+            "audio_url": "wbw/084_025_008.mp3",
+            "translation": {
+              "text": "lain/tidak",
+              "language": "id"
+            },
+            "transliteration": "ghayru"
+          },
+          {
+            "position": 9,
+            "text_code": "مَمْنُونٍۭ",
+            "audio_url": "wbw/084_025_009.mp3",
+            "translation": {
+              "text": "terputus-putus",
+              "language": "id"
+            },
+            "transliteration": "mamnūnin"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Except for those who believe and do righteous deeds. For them is a reward uninterrupted.",
+        "id": "kecuali orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat pahala yang tidak putus-putusnya."
+      }
+    }
+  ],
+  "stats": {
+    "total_ayahs": 25,
+    "total_words_en": 107,
+    "total_words_id": 107
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "meta": {
+    "source": "Quran.com API v4",
+    "base_url": "https://api.quran.com/api/v4",
+    "downloaded_at": "2025-12-09T04:54:07.215Z",
+    "translation_ids": {
+      "indonesian": 33,
+      "english": 20
+    }
+  },
+  "surah": {
+    "id": 112,
+    "name_simple": "Al-Ikhlas",
+    "name_complex": "Al-'Ikhlāş",
+    "name_arabic": "الإخلاص",
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Sincerity"
+    },
+    "revelation_place": "makkah",
+    "revelation_order": 22,
+    "bismillah_pre": true,
+    "verses_count": 4,
+    "pages": [
+      604,
+      604
+    ]
+  },
+  "ayahs": [
+    {
+      "id": 6222,
+      "verse_number": 1,
+      "verse_key": "112:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 556,
+      "page_number": 604,
+      "sajdah_number": null,
+      "text_arabic_simple": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "text_arabic_uthmani": " قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+      "text_arabic_tajweed": "قُلْ هُوَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ أَحَ<tajweed class=qalaqah>د</tajweed>ٌ <span class=end>١</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "قُلْ",
+            "audio_url": "wbw/112_001_001.mp3",
+            "translation": {
+              "text": "Say",
+              "language": "en"
+            },
+            "transliteration": "qul"
+          },
+          {
+            "position": 2,
+            "text_code": "هُوَ",
+            "audio_url": "wbw/112_001_002.mp3",
+            "translation": {
+              "text": "He",
+              "language": "en"
+            },
+            "transliteration": "huwa"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱللَّهُ",
+            "audio_url": "wbw/112_001_003.mp3",
+            "translation": {
+              "text": "(is) Allah",
+              "language": "en"
+            },
+            "transliteration": "l-lahu"
+          },
+          {
+            "position": 4,
+            "text_code": "أَحَدٌ",
+            "audio_url": "wbw/112_001_004.mp3",
+            "translation": {
+              "text": "the One",
+              "language": "en"
+            },
+            "transliteration": "aḥadun"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "قُلْ",
+            "audio_url": "wbw/112_001_001.mp3",
+            "translation": {
+              "text": "katakanlah",
+              "language": "id"
+            },
+            "transliteration": "qul"
+          },
+          {
+            "position": 2,
+            "text_code": "هُوَ",
+            "audio_url": "wbw/112_001_002.mp3",
+            "translation": {
+              "text": "Dia",
+              "language": "id"
+            },
+            "transliteration": "huwa"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱللَّهُ",
+            "audio_url": "wbw/112_001_003.mp3",
+            "translation": {
+              "text": "Allah",
+              "language": "id"
+            },
+            "transliteration": "l-lahu"
+          },
+          {
+            "position": 4,
+            "text_code": "أَحَدٌ",
+            "audio_url": "wbw/112_001_004.mp3",
+            "translation": {
+              "text": "Esa",
+              "language": "id"
+            },
+            "transliteration": "aḥadun"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Say, \"He is Allāh, [who is] One,<sup foot_note=197829>1</sup>",
+        "id": "Katakanlah (Muhammad), \"Dialah Allah, Yang Maha Esa."
+      }
+    },
+    {
+      "id": 6223,
+      "verse_number": 2,
+      "verse_key": "112:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 556,
+      "page_number": 604,
+      "sajdah_number": null,
+      "text_arabic_simple": "اللَّهُ الصَّمَدُ",
+      "text_arabic_uthmani": "ٱللَّهُ ٱلصَّمَدُ",
+      "text_arabic_tajweed": "ٱللَّهُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّمَ<tajweed class=qalaqah>د</tajweed>ُ <span class=end>٢</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "ٱللَّهُ",
+            "audio_url": "wbw/112_002_001.mp3",
+            "translation": {
+              "text": "Allah",
+              "language": "en"
+            },
+            "transliteration": "al-lahu"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلصَّمَدُ",
+            "audio_url": "wbw/112_002_002.mp3",
+            "translation": {
+              "text": "the Eternal, the Absolute",
+              "language": "en"
+            },
+            "transliteration": "l-ṣamadu"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "ٱللَّهُ",
+            "audio_url": "wbw/112_002_001.mp3",
+            "translation": {
+              "text": "Allah",
+              "language": "id"
+            },
+            "transliteration": "al-lahu"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلصَّمَدُ",
+            "audio_url": "wbw/112_002_002.mp3",
+            "translation": {
+              "text": "tempat bergantung",
+              "language": "id"
+            },
+            "transliteration": "l-ṣamadu"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Allāh, the Eternal Refuge.<sup foot_note=197830>1</sup>",
+        "id": "Allah tempat meminta segala sesuatu."
+      }
+    },
+    {
+      "id": 6224,
+      "verse_number": 3,
+      "verse_key": "112:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 556,
+      "page_number": 604,
+      "sajdah_number": null,
+      "text_arabic_simple": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "text_arabic_uthmani": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "text_arabic_tajweed": "لَمْ يَلِ<tajweed class=qalaqah>دْ</tajweed> وَلَمْ يُولَ<tajweed class=qalaqah>دْ</tajweed> <span class=end>٣</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "لَمْ",
+            "audio_url": "wbw/112_003_001.mp3",
+            "translation": {
+              "text": "Not",
+              "language": "en"
+            },
+            "transliteration": "lam"
+          },
+          {
+            "position": 2,
+            "text_code": "يَلِدْ",
+            "audio_url": "wbw/112_003_002.mp3",
+            "translation": {
+              "text": "He begets",
+              "language": "en"
+            },
+            "transliteration": "yalid"
+          },
+          {
+            "position": 3,
+            "text_code": "وَلَمْ",
+            "audio_url": "wbw/112_003_003.mp3",
+            "translation": {
+              "text": "and not",
+              "language": "en"
+            },
+            "transliteration": "walam"
+          },
+          {
+            "position": 4,
+            "text_code": "يُولَدْ",
+            "audio_url": "wbw/112_003_004.mp3",
+            "translation": {
+              "text": "He is begotten",
+              "language": "en"
+            },
+            "transliteration": "yūlad"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "لَمْ",
+            "audio_url": "wbw/112_003_001.mp3",
+            "translation": {
+              "text": "tidak",
+              "language": "id"
+            },
+            "transliteration": "lam"
+          },
+          {
+            "position": 2,
+            "text_code": "يَلِدْ",
+            "audio_url": "wbw/112_003_002.mp3",
+            "translation": {
+              "text": "beranak",
+              "language": "id"
+            },
+            "transliteration": "yalid"
+          },
+          {
+            "position": 3,
+            "text_code": "وَلَمْ",
+            "audio_url": "wbw/112_003_003.mp3",
+            "translation": {
+              "text": "dan tidak",
+              "language": "id"
+            },
+            "transliteration": "walam"
+          },
+          {
+            "position": 4,
+            "text_code": "يُولَدْ",
+            "audio_url": "wbw/112_003_004.mp3",
+            "translation": {
+              "text": "diperanakkan",
+              "language": "id"
+            },
+            "transliteration": "yūlad"
+          }
+        ]
+      },
+      "translations": {
+        "en": "He neither begets nor is born,",
+        "id": "(Allah) tidak beranak dan tidak pula diperanakkan."
+      }
+    },
+    {
+      "id": 6225,
+      "verse_number": 4,
+      "verse_key": "112:4",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 556,
+      "page_number": 604,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+      "text_arabic_uthmani": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "text_arabic_tajweed": "وَلَمْ يَك<tajweed class=idgham_wo_ghunnah>ُن ل</tajweed>َّهُ<tajweed class=madda_normal>ۥ</tajweed> كُفُوًا أَحَ<tajweed class=qalaqah>د</tajweed>ُۢ <span class=end>٤</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَلَمْ",
+            "audio_url": "wbw/112_004_001.mp3",
+            "translation": {
+              "text": "And not",
+              "language": "en"
+            },
+            "transliteration": "walam"
+          },
+          {
+            "position": 2,
+            "text_code": "يَكُن",
+            "audio_url": "wbw/112_004_002.mp3",
+            "translation": {
+              "text": "is",
+              "language": "en"
+            },
+            "transliteration": "yakun"
+          },
+          {
+            "position": 3,
+            "text_code": "لَّهُۥ",
+            "audio_url": "wbw/112_004_003.mp3",
+            "translation": {
+              "text": "for Him",
+              "language": "en"
+            },
+            "transliteration": "lahu"
+          },
+          {
+            "position": 4,
+            "text_code": "كُفُوًا",
+            "audio_url": "wbw/112_004_004.mp3",
+            "translation": {
+              "text": "equivalent",
+              "language": "en"
+            },
+            "transliteration": "kufuwan"
+          },
+          {
+            "position": 5,
+            "text_code": "أَحَدٌۢ",
+            "audio_url": "wbw/112_004_005.mp3",
+            "translation": {
+              "text": "any [one]",
+              "language": "en"
+            },
+            "transliteration": "aḥadun"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَلَمْ",
+            "audio_url": "wbw/112_004_001.mp3",
+            "translation": {
+              "text": "dan tidak",
+              "language": "id"
+            },
+            "transliteration": "walam"
+          },
+          {
+            "position": 2,
+            "text_code": "يَكُن",
+            "audio_url": "wbw/112_004_002.mp3",
+            "translation": {
+              "text": "ada",
+              "language": "id"
+            },
+            "transliteration": "yakun"
+          },
+          {
+            "position": 3,
+            "text_code": "لَّهُۥ",
+            "audio_url": "wbw/112_004_003.mp3",
+            "translation": {
+              "text": "baginya",
+              "language": "id"
+            },
+            "transliteration": "lahu"
+          },
+          {
+            "position": 4,
+            "text_code": "كُفُوًا",
+            "audio_url": "wbw/112_004_004.mp3",
+            "translation": {
+              "text": "menyamai/setara",
+              "language": "id"
+            },
+            "transliteration": "kufuwan"
+          },
+          {
+            "position": 5,
+            "text_code": "أَحَدٌۢ",
+            "audio_url": "wbw/112_004_005.mp3",
+            "translation": {
+              "text": "seorang",
+              "language": "id"
+            },
+            "transliteration": "aḥadun"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Nor is there to Him any equivalent.\"",
+        "id": "Dan tidak ada sesuatu yang setara dengan Dia.\""
+      }
+    }
+  ],
+  "stats": {
+    "total_ayahs": 4,
+    "total_words_en": 15,
+    "total_words_id": 15
+  }
+}

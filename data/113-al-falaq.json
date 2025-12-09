@@ -1,0 +1,621 @@
+{
+  "meta": {
+    "source": "Quran.com API v4",
+    "base_url": "https://api.quran.com/api/v4",
+    "downloaded_at": "2025-12-09T04:54:09.741Z",
+    "translation_ids": {
+      "indonesian": 33,
+      "english": 20
+    }
+  },
+  "surah": {
+    "id": 113,
+    "name_simple": "Al-Falaq",
+    "name_complex": "Al-Falaq",
+    "name_arabic": "الفلق",
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Daybreak"
+    },
+    "revelation_place": "makkah",
+    "revelation_order": 20,
+    "bismillah_pre": true,
+    "verses_count": 5,
+    "pages": [
+      604,
+      604
+    ]
+  },
+  "ayahs": [
+    {
+      "id": 6226,
+      "verse_number": 1,
+      "verse_key": "113:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 557,
+      "page_number": 604,
+      "sajdah_number": null,
+      "text_arabic_simple": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+      "text_arabic_uthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "text_arabic_tajweed": "قُلْ أَعُوذُ بِرَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْفَلَ<tajweed class=qalaqah>ق</tajweed>ِ <span class=end>١</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "قُلْ",
+            "audio_url": "wbw/113_001_001.mp3",
+            "translation": {
+              "text": "Say",
+              "language": "en"
+            },
+            "transliteration": "qul"
+          },
+          {
+            "position": 2,
+            "text_code": "أَعُوذُ",
+            "audio_url": "wbw/113_001_002.mp3",
+            "translation": {
+              "text": "I seek refuge",
+              "language": "en"
+            },
+            "transliteration": "aʿūdhu"
+          },
+          {
+            "position": 3,
+            "text_code": "بِرَبِّ",
+            "audio_url": "wbw/113_001_003.mp3",
+            "translation": {
+              "text": "in (the) Lord",
+              "language": "en"
+            },
+            "transliteration": "birabbi"
+          },
+          {
+            "position": 4,
+            "text_code": "ٱلْفَلَقِ",
+            "audio_url": "wbw/113_001_004.mp3",
+            "translation": {
+              "text": "(of) the dawn",
+              "language": "en"
+            },
+            "transliteration": "l-falaqi"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "قُلْ",
+            "audio_url": "wbw/113_001_001.mp3",
+            "translation": {
+              "text": "katakanlah",
+              "language": "id"
+            },
+            "transliteration": "qul"
+          },
+          {
+            "position": 2,
+            "text_code": "أَعُوذُ",
+            "audio_url": "wbw/113_001_002.mp3",
+            "translation": {
+              "text": "aku berlindung",
+              "language": "id"
+            },
+            "transliteration": "aʿūdhu"
+          },
+          {
+            "position": 3,
+            "text_code": "بِرَبِّ",
+            "audio_url": "wbw/113_001_003.mp3",
+            "translation": {
+              "text": "Tuhan/Pemelihara",
+              "language": "id"
+            },
+            "transliteration": "birabbi"
+          },
+          {
+            "position": 4,
+            "text_code": "ٱلْفَلَقِ",
+            "audio_url": "wbw/113_001_004.mp3",
+            "translation": {
+              "text": "subuh",
+              "language": "id"
+            },
+            "transliteration": "l-falaqi"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Say, \"I seek refuge in the Lord of daybreak",
+        "id": "Katakanlah, \"Aku berlindung kepada Tuhan yang menguasai subuh (fajar),"
+      }
+    },
+    {
+      "id": 6227,
+      "verse_number": 2,
+      "verse_key": "113:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 557,
+      "page_number": 604,
+      "sajdah_number": null,
+      "text_arabic_simple": "مِن شَرِّ مَا خَلَقَ",
+      "text_arabic_uthmani": "مِن شَرِّ مَا خَلَقَ",
+      "text_arabic_tajweed": "مِ<tajweed class=ikhafa>ن ش</tajweed>َرِّ مَا خَلَ<tajweed class=qalaqah>ق</tajweed>َ <span class=end>٢</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "مِن",
+            "audio_url": "wbw/113_002_001.mp3",
+            "translation": {
+              "text": "From",
+              "language": "en"
+            },
+            "transliteration": "min"
+          },
+          {
+            "position": 2,
+            "text_code": "شَرِّ",
+            "audio_url": "wbw/113_002_002.mp3",
+            "translation": {
+              "text": "(the) evil",
+              "language": "en"
+            },
+            "transliteration": "sharri"
+          },
+          {
+            "position": 3,
+            "text_code": "مَا",
+            "audio_url": "wbw/113_002_003.mp3",
+            "translation": {
+              "text": "(of) what",
+              "language": "en"
+            },
+            "transliteration": "mā"
+          },
+          {
+            "position": 4,
+            "text_code": "خَلَقَ",
+            "audio_url": "wbw/113_002_004.mp3",
+            "translation": {
+              "text": "He created",
+              "language": "en"
+            },
+            "transliteration": "khalaqa"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "مِن",
+            "audio_url": "wbw/113_002_001.mp3",
+            "translation": {
+              "text": "dari",
+              "language": "id"
+            },
+            "transliteration": "min"
+          },
+          {
+            "position": 2,
+            "text_code": "شَرِّ",
+            "audio_url": "wbw/113_002_002.mp3",
+            "translation": {
+              "text": "kejahatan",
+              "language": "id"
+            },
+            "transliteration": "sharri"
+          },
+          {
+            "position": 3,
+            "text_code": "مَا",
+            "audio_url": "wbw/113_002_003.mp3",
+            "translation": {
+              "text": "apa",
+              "language": "id"
+            },
+            "transliteration": "mā"
+          },
+          {
+            "position": 4,
+            "text_code": "خَلَقَ",
+            "audio_url": "wbw/113_002_004.mp3",
+            "translation": {
+              "text": "Dia ciptakan",
+              "language": "id"
+            },
+            "transliteration": "khalaqa"
+          }
+        ]
+      },
+      "translations": {
+        "en": "From the evil of that which He created",
+        "id": "dari kejahatan (makhluk yang) Dia ciptakan,"
+      }
+    },
+    {
+      "id": 6228,
+      "verse_number": 3,
+      "verse_key": "113:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 557,
+      "page_number": 604,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "text_arabic_uthmani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "text_arabic_tajweed": "وَمِ<tajweed class=ikhafa>ن ش</tajweed>َرِّ غَاسِقٍ إِذَا وَقَ<tajweed class=qalaqah>ب</tajweed>َ <span class=end>٣</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَمِن",
+            "audio_url": "wbw/113_003_001.mp3",
+            "translation": {
+              "text": "And from",
+              "language": "en"
+            },
+            "transliteration": "wamin"
+          },
+          {
+            "position": 2,
+            "text_code": "شَرِّ",
+            "audio_url": "wbw/113_003_002.mp3",
+            "translation": {
+              "text": "(the) evil",
+              "language": "en"
+            },
+            "transliteration": "sharri"
+          },
+          {
+            "position": 3,
+            "text_code": "غَاسِقٍ",
+            "audio_url": "wbw/113_003_003.mp3",
+            "translation": {
+              "text": "(of) darkness",
+              "language": "en"
+            },
+            "transliteration": "ghāsiqin"
+          },
+          {
+            "position": 4,
+            "text_code": "إِذَا",
+            "audio_url": "wbw/113_003_004.mp3",
+            "translation": {
+              "text": "when",
+              "language": "en"
+            },
+            "transliteration": "idhā"
+          },
+          {
+            "position": 5,
+            "text_code": "وَقَبَ",
+            "audio_url": "wbw/113_003_005.mp3",
+            "translation": {
+              "text": "it spreads",
+              "language": "en"
+            },
+            "transliteration": "waqaba"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَمِن",
+            "audio_url": "wbw/113_003_001.mp3",
+            "translation": {
+              "text": "dan dari",
+              "language": "id"
+            },
+            "transliteration": "wamin"
+          },
+          {
+            "position": 2,
+            "text_code": "شَرِّ",
+            "audio_url": "wbw/113_003_002.mp3",
+            "translation": {
+              "text": "kejahatan",
+              "language": "id"
+            },
+            "transliteration": "sharri"
+          },
+          {
+            "position": 3,
+            "text_code": "غَاسِقٍ",
+            "audio_url": "wbw/113_003_003.mp3",
+            "translation": {
+              "text": "malam yang gelap",
+              "language": "id"
+            },
+            "transliteration": "ghāsiqin"
+          },
+          {
+            "position": 4,
+            "text_code": "إِذَا",
+            "audio_url": "wbw/113_003_004.mp3",
+            "translation": {
+              "text": "apabila",
+              "language": "id"
+            },
+            "transliteration": "idhā"
+          },
+          {
+            "position": 5,
+            "text_code": "وَقَبَ",
+            "audio_url": "wbw/113_003_005.mp3",
+            "translation": {
+              "text": "telah gelap/kelam",
+              "language": "id"
+            },
+            "transliteration": "waqaba"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And from the evil of darkness when it settles",
+        "id": "dan dari kejahatan malam apabila telah gelap gulita,"
+      }
+    },
+    {
+      "id": 6229,
+      "verse_number": 4,
+      "verse_key": "113:4",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 557,
+      "page_number": 604,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+      "text_arabic_uthmani": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+      "text_arabic_tajweed": "وَمِ<tajweed class=ikhafa>ن ش</tajweed>َرِّ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َفَّ<tajweed class=madda_normal>ـٰ</tajweed>ثَ<tajweed class=madda_normal>ـٰ</tajweed>تِ فِى <tajweed class=ham_wasl>ٱ</tajweed>لْعُقَ<tajweed class=qalaqah>د</tajweed>ِ <span class=end>٤</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَمِن",
+            "audio_url": "wbw/113_004_001.mp3",
+            "translation": {
+              "text": "And from",
+              "language": "en"
+            },
+            "transliteration": "wamin"
+          },
+          {
+            "position": 2,
+            "text_code": "شَرِّ",
+            "audio_url": "wbw/113_004_002.mp3",
+            "translation": {
+              "text": "(the) evil",
+              "language": "en"
+            },
+            "transliteration": "sharri"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلنَّفَّـٰثَـٰتِ",
+            "audio_url": "wbw/113_004_003.mp3",
+            "translation": {
+              "text": "(of) the blowers",
+              "language": "en"
+            },
+            "transliteration": "l-nafāthāti"
+          },
+          {
+            "position": 4,
+            "text_code": "فِى",
+            "audio_url": "wbw/113_004_004.mp3",
+            "translation": {
+              "text": "in",
+              "language": "en"
+            },
+            "transliteration": "fī"
+          },
+          {
+            "position": 5,
+            "text_code": "ٱلْعُقَدِ",
+            "audio_url": "wbw/113_004_005.mp3",
+            "translation": {
+              "text": "the knots",
+              "language": "en"
+            },
+            "transliteration": "l-ʿuqadi"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَمِن",
+            "audio_url": "wbw/113_004_001.mp3",
+            "translation": {
+              "text": "dan dari",
+              "language": "id"
+            },
+            "transliteration": "wamin"
+          },
+          {
+            "position": 2,
+            "text_code": "شَرِّ",
+            "audio_url": "wbw/113_004_002.mp3",
+            "translation": {
+              "text": "kejahatan",
+              "language": "id"
+            },
+            "transliteration": "sharri"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلنَّفَّـٰثَـٰتِ",
+            "audio_url": "wbw/113_004_003.mp3",
+            "translation": {
+              "text": "orang yang meniup-niup",
+              "language": "id"
+            },
+            "transliteration": "l-nafāthāti"
+          },
+          {
+            "position": 4,
+            "text_code": "فِى",
+            "audio_url": "wbw/113_004_004.mp3",
+            "translation": {
+              "text": "dalam",
+              "language": "id"
+            },
+            "transliteration": "fī"
+          },
+          {
+            "position": 5,
+            "text_code": "ٱلْعُقَدِ",
+            "audio_url": "wbw/113_004_005.mp3",
+            "translation": {
+              "text": "ikatan/simpul",
+              "language": "id"
+            },
+            "transliteration": "l-ʿuqadi"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And from the evil of the blowers in knots<sup foot_note=197831>1</sup>",
+        "id": "dan dari kejahatan (perempuan-perempuan) penyihir yang meniup pada buhul-buhul (talinya),"
+      }
+    },
+    {
+      "id": 6230,
+      "verse_number": 5,
+      "verse_key": "113:5",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 557,
+      "page_number": 604,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "text_arabic_uthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "text_arabic_tajweed": "وَمِ<tajweed class=ikhafa>ن ش</tajweed>َرِّ حَاسِدٍ إِذَا حَسَ<tajweed class=qalaqah>د</tajweed>َ <span class=end>٥</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَمِن",
+            "audio_url": "wbw/113_005_001.mp3",
+            "translation": {
+              "text": "And from",
+              "language": "en"
+            },
+            "transliteration": "wamin"
+          },
+          {
+            "position": 2,
+            "text_code": "شَرِّ",
+            "audio_url": "wbw/113_005_002.mp3",
+            "translation": {
+              "text": "(the) evil",
+              "language": "en"
+            },
+            "transliteration": "sharri"
+          },
+          {
+            "position": 3,
+            "text_code": "حَاسِدٍ",
+            "audio_url": "wbw/113_005_003.mp3",
+            "translation": {
+              "text": "(of) an envier",
+              "language": "en"
+            },
+            "transliteration": "ḥāsidin"
+          },
+          {
+            "position": 4,
+            "text_code": "إِذَا",
+            "audio_url": "wbw/113_005_004.mp3",
+            "translation": {
+              "text": "when",
+              "language": "en"
+            },
+            "transliteration": "idhā"
+          },
+          {
+            "position": 5,
+            "text_code": "حَسَدَ",
+            "audio_url": "wbw/113_005_005.mp3",
+            "translation": {
+              "text": "he envies",
+              "language": "en"
+            },
+            "transliteration": "ḥasada"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَمِن",
+            "audio_url": "wbw/113_005_001.mp3",
+            "translation": {
+              "text": "dan dari",
+              "language": "id"
+            },
+            "transliteration": "wamin"
+          },
+          {
+            "position": 2,
+            "text_code": "شَرِّ",
+            "audio_url": "wbw/113_005_002.mp3",
+            "translation": {
+              "text": "kejahatan",
+              "language": "id"
+            },
+            "transliteration": "sharri"
+          },
+          {
+            "position": 3,
+            "text_code": "حَاسِدٍ",
+            "audio_url": "wbw/113_005_003.mp3",
+            "translation": {
+              "text": "orang yang dengki",
+              "language": "id"
+            },
+            "transliteration": "ḥāsidin"
+          },
+          {
+            "position": 4,
+            "text_code": "إِذَا",
+            "audio_url": "wbw/113_005_004.mp3",
+            "translation": {
+              "text": "apabila",
+              "language": "id"
+            },
+            "transliteration": "idhā"
+          },
+          {
+            "position": 5,
+            "text_code": "حَسَدَ",
+            "audio_url": "wbw/113_005_005.mp3",
+            "translation": {
+              "text": "ia dengki",
+              "language": "id"
+            },
+            "transliteration": "ḥasada"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And from the evil of an envier when he envies.\"",
+        "id": "dan dari kejahatan orang yang dengki apabila dia dengki.\""
+      }
+    }
+  ],
+  "stats": {
+    "total_ayahs": 5,
+    "total_words_en": 23,
+    "total_words_id": 23
+  }
+}

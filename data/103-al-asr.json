@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "source": "Quran.com API v4",
+    "base_url": "https://api.quran.com/api/v4",
+    "downloaded_at": "2025-12-09T04:53:44.426Z",
+    "translation_ids": {
+      "indonesian": 33,
+      "english": 20
+    }
+  },
+  "surah": {
+    "id": 103,
+    "name_simple": "Al-'Asr",
+    "name_complex": "Al-`Aşr",
+    "name_arabic": "العصر",
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Declining Day"
+    },
+    "revelation_place": "makkah",
+    "revelation_order": 13,
+    "bismillah_pre": true,
+    "verses_count": 3,
+    "pages": [
+      601,
+      601
+    ]
+  },
+  "ayahs": [
+    {
+      "id": 6177,
+      "verse_number": 1,
+      "verse_key": "103:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 547,
+      "page_number": 601,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَالْعَصْرِ",
+      "text_arabic_uthmani": " وَٱلْعَصْرِ",
+      "text_arabic_tajweed": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لْعَصْرِ <span class=end>١</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَٱلْعَصْرِ",
+            "audio_url": "wbw/103_001_001.mp3",
+            "translation": {
+              "text": "By the time",
+              "language": "en"
+            },
+            "transliteration": "wal-ʿaṣri"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَٱلْعَصْرِ",
+            "audio_url": "wbw/103_001_001.mp3",
+            "translation": {
+              "text": "demi waktu",
+              "language": "id"
+            },
+            "transliteration": "wal-ʿaṣri"
+          }
+        ]
+      },
+      "translations": {
+        "en": "By time,<sup foot_note=197812>1</sup>",
+        "id": "Demi masa."
+      }
+    },
+    {
+      "id": 6178,
+      "verse_number": 2,
+      "verse_key": "103:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 547,
+      "page_number": 601,
+      "sajdah_number": null,
+      "text_arabic_simple": "إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
+      "text_arabic_uthmani": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+      "text_arabic_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>لْإِ<tajweed class=ikhafa>نس</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>نَ لَفِى خُسْرٍ <span class=end>٢</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "إِنَّ",
+            "audio_url": "wbw/103_002_001.mp3",
+            "translation": {
+              "text": "Indeed",
+              "language": "en"
+            },
+            "transliteration": "inna"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلْإِنسَـٰنَ",
+            "audio_url": "wbw/103_002_002.mp3",
+            "translation": {
+              "text": "mankind",
+              "language": "en"
+            },
+            "transliteration": "l-insāna"
+          },
+          {
+            "position": 3,
+            "text_code": "لَفِى",
+            "audio_url": "wbw/103_002_003.mp3",
+            "translation": {
+              "text": "(is) surely, in",
+              "language": "en"
+            },
+            "transliteration": "lafī"
+          },
+          {
+            "position": 4,
+            "text_code": "خُسْرٍ",
+            "audio_url": "wbw/103_002_004.mp3",
+            "translation": {
+              "text": "loss",
+              "language": "en"
+            },
+            "transliteration": "khus'rin"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "إِنَّ",
+            "audio_url": "wbw/103_002_001.mp3",
+            "translation": {
+              "text": "sesungguhnya",
+              "language": "id"
+            },
+            "transliteration": "inna"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلْإِنسَـٰنَ",
+            "audio_url": "wbw/103_002_002.mp3",
+            "translation": {
+              "text": "manusia",
+              "language": "id"
+            },
+            "transliteration": "l-insāna"
+          },
+          {
+            "position": 3,
+            "text_code": "لَفِى",
+            "audio_url": "wbw/103_002_003.mp3",
+            "translation": {
+              "text": "benar-benar dalam",
+              "language": "id"
+            },
+            "transliteration": "lafī"
+          },
+          {
+            "position": 4,
+            "text_code": "خُسْرٍ",
+            "audio_url": "wbw/103_002_004.mp3",
+            "translation": {
+              "text": "kerugian",
+              "language": "id"
+            },
+            "transliteration": "khus'rin"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Indeed, mankind is in loss,",
+        "id": "Sungguh, manusia berada dalam kerugian,"
+      }
+    },
+    {
+      "id": 6179,
+      "verse_number": 3,
+      "verse_key": "103:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 547,
+      "page_number": 601,
+      "sajdah_number": null,
+      "text_arabic_simple": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+      "text_arabic_uthmani": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "text_arabic_tajweed": "إِلَّا <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ ءَامَنُو<tajweed class=slnt>اْ</tajweed> وَعَمِلُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّ<tajweed class=madda_normal>ـٰ</tajweed>لِحَ<tajweed class=madda_normal>ـٰ</tajweed>تِ وَتَوَاصَوْ<tajweed class=slnt>اْ</tajweed> بِ<tajweed class=ham_wasl>ٱ</tajweed>لْحَقِّ وَتَوَاصَوْ<tajweed class=slnt>اْ</tajweed> بِ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّ<tajweed class=qalaqah>بْ</tajweed>رِ <span class=end>٣</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "إِلَّا",
+            "audio_url": "wbw/103_003_001.mp3",
+            "translation": {
+              "text": "Except",
+              "language": "en"
+            },
+            "transliteration": "illā"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلَّذِينَ",
+            "audio_url": "wbw/103_003_002.mp3",
+            "translation": {
+              "text": "those who",
+              "language": "en"
+            },
+            "transliteration": "alladhīna"
+          },
+          {
+            "position": 3,
+            "text_code": "ءَامَنُوا۟",
+            "audio_url": "wbw/103_003_003.mp3",
+            "translation": {
+              "text": "believe",
+              "language": "en"
+            },
+            "transliteration": "āmanū"
+          },
+          {
+            "position": 4,
+            "text_code": "وَعَمِلُوا۟",
+            "audio_url": "wbw/103_003_004.mp3",
+            "translation": {
+              "text": "and do",
+              "language": "en"
+            },
+            "transliteration": "waʿamilū"
+          },
+          {
+            "position": 5,
+            "text_code": "ٱلصَّـٰلِحَـٰتِ",
+            "audio_url": "wbw/103_003_005.mp3",
+            "translation": {
+              "text": "righteous deeds",
+              "language": "en"
+            },
+            "transliteration": "l-ṣāliḥāti"
+          },
+          {
+            "position": 6,
+            "text_code": "وَتَوَاصَوْا۟",
+            "audio_url": "wbw/103_003_006.mp3",
+            "translation": {
+              "text": "and enjoin (each other)",
+              "language": "en"
+            },
+            "transliteration": "watawāṣaw"
+          },
+          {
+            "position": 7,
+            "text_code": "بِٱلْحَقِّ",
+            "audio_url": "wbw/103_003_007.mp3",
+            "translation": {
+              "text": "to the truth",
+              "language": "en"
+            },
+            "transliteration": "bil-ḥaqi"
+          },
+          {
+            "position": 8,
+            "text_code": "وَتَوَاصَوْا۟",
+            "audio_url": "wbw/103_003_008.mp3",
+            "translation": {
+              "text": "and enjoin (each other)",
+              "language": "en"
+            },
+            "transliteration": "watawāṣaw"
+          },
+          {
+            "position": 9,
+            "text_code": "بِٱلصَّبْرِ",
+            "audio_url": "wbw/103_003_009.mp3",
+            "translation": {
+              "text": "to [the] patience",
+              "language": "en"
+            },
+            "transliteration": "bil-ṣabri"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "إِلَّا",
+            "audio_url": "wbw/103_003_001.mp3",
+            "translation": {
+              "text": "kecuali",
+              "language": "id"
+            },
+            "transliteration": "illā"
+          },
+          {
+            "position": 2,
+            "text_code": "ٱلَّذِينَ",
+            "audio_url": "wbw/103_003_002.mp3",
+            "translation": {
+              "text": "orang-orang yang",
+              "language": "id"
+            },
+            "transliteration": "alladhīna"
+          },
+          {
+            "position": 3,
+            "text_code": "ءَامَنُوا۟",
+            "audio_url": "wbw/103_003_003.mp3",
+            "translation": {
+              "text": "beriman",
+              "language": "id"
+            },
+            "transliteration": "āmanū"
+          },
+          {
+            "position": 4,
+            "text_code": "وَعَمِلُوا۟",
+            "audio_url": "wbw/103_003_004.mp3",
+            "translation": {
+              "text": "dan mereka berbuat/beramal",
+              "language": "id"
+            },
+            "transliteration": "waʿamilū"
+          },
+          {
+            "position": 5,
+            "text_code": "ٱلصَّـٰلِحَـٰتِ",
+            "audio_url": "wbw/103_003_005.mp3",
+            "translation": {
+              "text": "kebajikan/sholeh",
+              "language": "id"
+            },
+            "transliteration": "l-ṣāliḥāti"
+          },
+          {
+            "position": 6,
+            "text_code": "وَتَوَاصَوْا۟",
+            "audio_url": "wbw/103_003_006.mp3",
+            "translation": {
+              "text": "dan mereka saling berwasiat/menasehati",
+              "language": "id"
+            },
+            "transliteration": "watawāṣaw"
+          },
+          {
+            "position": 7,
+            "text_code": "بِٱلْحَقِّ",
+            "audio_url": "wbw/103_003_007.mp3",
+            "translation": {
+              "text": "dengan kebenaran",
+              "language": "id"
+            },
+            "transliteration": "bil-ḥaqi"
+          },
+          {
+            "position": 8,
+            "text_code": "وَتَوَاصَوْا۟",
+            "audio_url": "wbw/103_003_008.mp3",
+            "translation": {
+              "text": "dan mereka saling berwasiat/menasehati",
+              "language": "id"
+            },
+            "transliteration": "watawāṣaw"
+          },
+          {
+            "position": 9,
+            "text_code": "بِٱلصَّبْرِ",
+            "audio_url": "wbw/103_003_009.mp3",
+            "translation": {
+              "text": "dengan kesabaran",
+              "language": "id"
+            },
+            "transliteration": "bil-ṣabri"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+        "id": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."
+      }
+    }
+  ],
+  "stats": {
+    "total_ayahs": 3,
+    "total_words_en": 14,
+    "total_words_id": 14
+  }
+}

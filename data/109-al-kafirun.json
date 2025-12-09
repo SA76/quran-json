@@ -1,0 +1,706 @@
+{
+  "meta": {
+    "source": "Quran.com API v4",
+    "base_url": "https://api.quran.com/api/v4",
+    "downloaded_at": "2025-12-09T04:53:59.402Z",
+    "translation_ids": {
+      "indonesian": 33,
+      "english": 20
+    }
+  },
+  "surah": {
+    "id": 109,
+    "name_simple": "Al-Kafirun",
+    "name_complex": "Al-Kāfirūn",
+    "name_arabic": "الكافرون",
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Disbelievers"
+    },
+    "revelation_place": "makkah",
+    "revelation_order": 18,
+    "bismillah_pre": true,
+    "verses_count": 6,
+    "pages": [
+      603,
+      603
+    ]
+  },
+  "ayahs": [
+    {
+      "id": 6208,
+      "verse_number": 1,
+      "verse_key": "109:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 553,
+      "page_number": 603,
+      "sajdah_number": null,
+      "text_arabic_simple": "قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+      "text_arabic_uthmani": " قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+      "text_arabic_tajweed": "قُلْ يَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>أَيُّهَا <tajweed class=ham_wasl>ٱ</tajweed>لْكَ<tajweed class=madda_normal>ـٰ</tajweed>فِر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "قُلْ",
+            "audio_url": "wbw/109_001_001.mp3",
+            "translation": {
+              "text": "Say",
+              "language": "en"
+            },
+            "transliteration": "qul"
+          },
+          {
+            "position": 2,
+            "text_code": "يَـٰٓأَيُّهَا",
+            "audio_url": "wbw/109_001_002.mp3",
+            "translation": {
+              "text": "O",
+              "language": "en"
+            },
+            "transliteration": "yāayyuhā"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلْكَـٰفِرُونَ",
+            "audio_url": "wbw/109_001_003.mp3",
+            "translation": {
+              "text": "disbelievers",
+              "language": "en"
+            },
+            "transliteration": "l-kāfirūna"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "قُلْ",
+            "audio_url": "wbw/109_001_001.mp3",
+            "translation": {
+              "text": "katakanlah",
+              "language": "id"
+            },
+            "transliteration": "qul"
+          },
+          {
+            "position": 2,
+            "text_code": "يَـٰٓأَيُّهَا",
+            "audio_url": "wbw/109_001_002.mp3",
+            "translation": {
+              "text": "wahai",
+              "language": "id"
+            },
+            "transliteration": "yāayyuhā"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلْكَـٰفِرُونَ",
+            "audio_url": "wbw/109_001_003.mp3",
+            "translation": {
+              "text": "orang-orang kafir",
+              "language": "id"
+            },
+            "transliteration": "l-kāfirūna"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Say, \"O disbelievers,",
+        "id": "Katakanlah (Muhammad), \"Wahai orang-orang kafir!"
+      }
+    },
+    {
+      "id": 6209,
+      "verse_number": 2,
+      "verse_key": "109:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 553,
+      "page_number": 603,
+      "sajdah_number": null,
+      "text_arabic_simple": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+      "text_arabic_uthmani": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "text_arabic_tajweed": "ل<tajweed class=madda_obligatory>َآ</tajweed> أَعْبُدُ مَا تَعْبُد<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "لَآ",
+            "audio_url": "wbw/109_002_001.mp3",
+            "translation": {
+              "text": "Not",
+              "language": "en"
+            },
+            "transliteration": "lā"
+          },
+          {
+            "position": 2,
+            "text_code": "أَعْبُدُ",
+            "audio_url": "wbw/109_002_002.mp3",
+            "translation": {
+              "text": "I worship",
+              "language": "en"
+            },
+            "transliteration": "aʿbudu"
+          },
+          {
+            "position": 3,
+            "text_code": "مَا",
+            "audio_url": "wbw/109_002_003.mp3",
+            "translation": {
+              "text": "what",
+              "language": "en"
+            },
+            "transliteration": "mā"
+          },
+          {
+            "position": 4,
+            "text_code": "تَعْبُدُونَ",
+            "audio_url": "wbw/109_002_004.mp3",
+            "translation": {
+              "text": "you worship",
+              "language": "en"
+            },
+            "transliteration": "taʿbudūna"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "لَآ",
+            "audio_url": "wbw/109_002_001.mp3",
+            "translation": {
+              "text": "tidak",
+              "language": "id"
+            },
+            "transliteration": "lā"
+          },
+          {
+            "position": 2,
+            "text_code": "أَعْبُدُ",
+            "audio_url": "wbw/109_002_002.mp3",
+            "translation": {
+              "text": "aku menyembah",
+              "language": "id"
+            },
+            "transliteration": "aʿbudu"
+          },
+          {
+            "position": 3,
+            "text_code": "مَا",
+            "audio_url": "wbw/109_002_003.mp3",
+            "translation": {
+              "text": "apa",
+              "language": "id"
+            },
+            "transliteration": "mā"
+          },
+          {
+            "position": 4,
+            "text_code": "تَعْبُدُونَ",
+            "audio_url": "wbw/109_002_004.mp3",
+            "translation": {
+              "text": "kamu sembah",
+              "language": "id"
+            },
+            "transliteration": "taʿbudūna"
+          }
+        ]
+      },
+      "translations": {
+        "en": "I do not worship what you worship.",
+        "id": "aku tidak akan menyembah apa yang kamu sembah,"
+      }
+    },
+    {
+      "id": 6210,
+      "verse_number": 3,
+      "verse_key": "109:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 553,
+      "page_number": 603,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "text_arabic_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "text_arabic_tajweed": "وَل<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed>ُمْ عَ<tajweed class=madda_normal>ـٰ</tajweed>بِدُونَ م<tajweed class=madda_obligatory>َآ</tajweed> أَعْبُ<tajweed class=qalaqah>د</tajweed>ُ <span class=end>٣</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَلَآ",
+            "audio_url": "wbw/109_003_001.mp3",
+            "translation": {
+              "text": "And not",
+              "language": "en"
+            },
+            "transliteration": "walā"
+          },
+          {
+            "position": 2,
+            "text_code": "أَنتُمْ",
+            "audio_url": "wbw/109_003_002.mp3",
+            "translation": {
+              "text": "you",
+              "language": "en"
+            },
+            "transliteration": "antum"
+          },
+          {
+            "position": 3,
+            "text_code": "عَـٰبِدُونَ",
+            "audio_url": "wbw/109_003_003.mp3",
+            "translation": {
+              "text": "(are) worshippers",
+              "language": "en"
+            },
+            "transliteration": "ʿābidūna"
+          },
+          {
+            "position": 4,
+            "text_code": "مَآ",
+            "audio_url": "wbw/109_003_004.mp3",
+            "translation": {
+              "text": "(of) what",
+              "language": "en"
+            },
+            "transliteration": "mā"
+          },
+          {
+            "position": 5,
+            "text_code": "أَعْبُدُ",
+            "audio_url": "wbw/109_003_005.mp3",
+            "translation": {
+              "text": "I worship",
+              "language": "en"
+            },
+            "transliteration": "aʿbudu"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَلَآ",
+            "audio_url": "wbw/109_003_001.mp3",
+            "translation": {
+              "text": "dan tidak",
+              "language": "id"
+            },
+            "transliteration": "walā"
+          },
+          {
+            "position": 2,
+            "text_code": "أَنتُمْ",
+            "audio_url": "wbw/109_003_002.mp3",
+            "translation": {
+              "text": "kamu",
+              "language": "id"
+            },
+            "transliteration": "antum"
+          },
+          {
+            "position": 3,
+            "text_code": "عَـٰبِدُونَ",
+            "audio_url": "wbw/109_003_003.mp3",
+            "translation": {
+              "text": "menyembah",
+              "language": "id"
+            },
+            "transliteration": "ʿābidūna"
+          },
+          {
+            "position": 4,
+            "text_code": "مَآ",
+            "audio_url": "wbw/109_003_004.mp3",
+            "translation": {
+              "text": "apa",
+              "language": "id"
+            },
+            "transliteration": "mā"
+          },
+          {
+            "position": 5,
+            "text_code": "أَعْبُدُ",
+            "audio_url": "wbw/109_003_005.mp3",
+            "translation": {
+              "text": "aku sembah",
+              "language": "id"
+            },
+            "transliteration": "aʿbudu"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Nor are you worshippers of what I worship.",
+        "id": "dan kamu bukan penyembah apa yang aku sembah,"
+      }
+    },
+    {
+      "id": 6211,
+      "verse_number": 4,
+      "verse_key": "109:4",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 553,
+      "page_number": 603,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ",
+      "text_arabic_uthmani": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+      "text_arabic_tajweed": "وَل<tajweed class=madda_obligatory>َآ</tajweed> أَنَا۟ عَابِ<tajweed class=idgham_ghunnah>دٌ م</tajweed>َّا عَبَ<tajweed class=idgham_mutajanisayn>د</tajweed>تُّمْ <span class=end>٤</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَلَآ",
+            "audio_url": "wbw/109_004_001.mp3",
+            "translation": {
+              "text": "And not",
+              "language": "en"
+            },
+            "transliteration": "walā"
+          },
+          {
+            "position": 2,
+            "text_code": "أَنَا۠",
+            "audio_url": "wbw/109_004_002.mp3",
+            "translation": {
+              "text": "I am",
+              "language": "en"
+            },
+            "transliteration": "anā"
+          },
+          {
+            "position": 3,
+            "text_code": "عَابِدٌۭ",
+            "audio_url": "wbw/109_004_003.mp3",
+            "translation": {
+              "text": "a worshipper",
+              "language": "en"
+            },
+            "transliteration": "ʿābidun"
+          },
+          {
+            "position": 4,
+            "text_code": "مَّا",
+            "audio_url": "wbw/109_004_004.mp3",
+            "translation": {
+              "text": "(of) what",
+              "language": "en"
+            },
+            "transliteration": "mā"
+          },
+          {
+            "position": 5,
+            "text_code": "عَبَدتُّمْ",
+            "audio_url": "wbw/109_004_005.mp3",
+            "translation": {
+              "text": "you worship",
+              "language": "en"
+            },
+            "transliteration": "ʿabadttum"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَلَآ",
+            "audio_url": "wbw/109_004_001.mp3",
+            "translation": {
+              "text": "dan bukanlah",
+              "language": "id"
+            },
+            "transliteration": "walā"
+          },
+          {
+            "position": 2,
+            "text_code": "أَنَا۠",
+            "audio_url": "wbw/109_004_002.mp3",
+            "translation": {
+              "text": "aku",
+              "language": "id"
+            },
+            "transliteration": "anā"
+          },
+          {
+            "position": 3,
+            "text_code": "عَابِدٌۭ",
+            "audio_url": "wbw/109_004_003.mp3",
+            "translation": {
+              "text": "menjadi penyembah",
+              "language": "id"
+            },
+            "transliteration": "ʿābidun"
+          },
+          {
+            "position": 4,
+            "text_code": "مَّا",
+            "audio_url": "wbw/109_004_004.mp3",
+            "translation": {
+              "text": "apa",
+              "language": "id"
+            },
+            "transliteration": "mā"
+          },
+          {
+            "position": 5,
+            "text_code": "عَبَدتُّمْ",
+            "audio_url": "wbw/109_004_005.mp3",
+            "translation": {
+              "text": "kamu sembah",
+              "language": "id"
+            },
+            "transliteration": "ʿabadttum"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Nor will I be a worshipper of what you worship.",
+        "id": "dan aku tidak pernah menjadi penyembah apa yang kamu sembah,"
+      }
+    },
+    {
+      "id": 6212,
+      "verse_number": 5,
+      "verse_key": "109:5",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 553,
+      "page_number": 603,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "text_arabic_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "text_arabic_tajweed": "وَل<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed>ُمْ عَ<tajweed class=madda_normal>ـٰ</tajweed>بِدُونَ م<tajweed class=madda_obligatory>َآ</tajweed> أَعْبُ<tajweed class=qalaqah>د</tajweed>ُ <span class=end>٥</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَلَآ",
+            "audio_url": "wbw/109_005_001.mp3",
+            "translation": {
+              "text": "And not",
+              "language": "en"
+            },
+            "transliteration": "walā"
+          },
+          {
+            "position": 2,
+            "text_code": "أَنتُمْ",
+            "audio_url": "wbw/109_005_002.mp3",
+            "translation": {
+              "text": "you",
+              "language": "en"
+            },
+            "transliteration": "antum"
+          },
+          {
+            "position": 3,
+            "text_code": "عَـٰبِدُونَ",
+            "audio_url": "wbw/109_005_003.mp3",
+            "translation": {
+              "text": "(are) worshippers",
+              "language": "en"
+            },
+            "transliteration": "ʿābidūna"
+          },
+          {
+            "position": 4,
+            "text_code": "مَآ",
+            "audio_url": "wbw/109_005_004.mp3",
+            "translation": {
+              "text": "(of) what",
+              "language": "en"
+            },
+            "transliteration": "mā"
+          },
+          {
+            "position": 5,
+            "text_code": "أَعْبُدُ",
+            "audio_url": "wbw/109_005_005.mp3",
+            "translation": {
+              "text": "I worship",
+              "language": "en"
+            },
+            "transliteration": "aʿbudu"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَلَآ",
+            "audio_url": "wbw/109_005_001.mp3",
+            "translation": {
+              "text": "dan bukanlah",
+              "language": "id"
+            },
+            "transliteration": "walā"
+          },
+          {
+            "position": 2,
+            "text_code": "أَنتُمْ",
+            "audio_url": "wbw/109_005_002.mp3",
+            "translation": {
+              "text": "kamu",
+              "language": "id"
+            },
+            "transliteration": "antum"
+          },
+          {
+            "position": 3,
+            "text_code": "عَـٰبِدُونَ",
+            "audio_url": "wbw/109_005_003.mp3",
+            "translation": {
+              "text": "menyembah",
+              "language": "id"
+            },
+            "transliteration": "ʿābidūna"
+          },
+          {
+            "position": 4,
+            "text_code": "مَآ",
+            "audio_url": "wbw/109_005_004.mp3",
+            "translation": {
+              "text": "apa",
+              "language": "id"
+            },
+            "transliteration": "mā"
+          },
+          {
+            "position": 5,
+            "text_code": "أَعْبُدُ",
+            "audio_url": "wbw/109_005_005.mp3",
+            "translation": {
+              "text": "aku sembah",
+              "language": "id"
+            },
+            "transliteration": "aʿbudu"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Nor will you be worshippers of what I worship.",
+        "id": "dan kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah."
+      }
+    },
+    {
+      "id": 6213,
+      "verse_number": 6,
+      "verse_key": "109:6",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 553,
+      "page_number": 603,
+      "sajdah_number": null,
+      "text_arabic_simple": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+      "text_arabic_uthmani": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "text_arabic_tajweed": "لَكُمْ دِينُكُمْ وَلِىَ د<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٦</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "لَكُمْ",
+            "audio_url": "wbw/109_006_001.mp3",
+            "translation": {
+              "text": "For you",
+              "language": "en"
+            },
+            "transliteration": "lakum"
+          },
+          {
+            "position": 2,
+            "text_code": "دِينُكُمْ",
+            "audio_url": "wbw/109_006_002.mp3",
+            "translation": {
+              "text": "(is) your religion",
+              "language": "en"
+            },
+            "transliteration": "dīnukum"
+          },
+          {
+            "position": 3,
+            "text_code": "وَلِىَ",
+            "audio_url": "wbw/109_006_003.mp3",
+            "translation": {
+              "text": "and for me",
+              "language": "en"
+            },
+            "transliteration": "waliya"
+          },
+          {
+            "position": 4,
+            "text_code": "دِينِ",
+            "audio_url": "wbw/109_006_004.mp3",
+            "translation": {
+              "text": "(is) my religion",
+              "language": "en"
+            },
+            "transliteration": "dīni"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "لَكُمْ",
+            "audio_url": "wbw/109_006_001.mp3",
+            "translation": {
+              "text": "bagi kalian",
+              "language": "id"
+            },
+            "transliteration": "lakum"
+          },
+          {
+            "position": 2,
+            "text_code": "دِينُكُمْ",
+            "audio_url": "wbw/109_006_002.mp3",
+            "translation": {
+              "text": "agamamu",
+              "language": "id"
+            },
+            "transliteration": "dīnukum"
+          },
+          {
+            "position": 3,
+            "text_code": "وَلِىَ",
+            "audio_url": "wbw/109_006_003.mp3",
+            "translation": {
+              "text": "bagiku",
+              "language": "id"
+            },
+            "transliteration": "waliya"
+          },
+          {
+            "position": 4,
+            "text_code": "دِينِ",
+            "audio_url": "wbw/109_006_004.mp3",
+            "translation": {
+              "text": "agamaku",
+              "language": "id"
+            },
+            "transliteration": "dīni"
+          }
+        ]
+      },
+      "translations": {
+        "en": "For you is your religion, and for me is my religion.\"",
+        "id": "Untukmu agamamu, dan untukku agamaku.\""
+      }
+    }
+  ],
+  "stats": {
+    "total_ayahs": 6,
+    "total_words_en": 26,
+    "total_words_id": 26
+  }
+}

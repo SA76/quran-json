@@ -1,0 +1,621 @@
+{
+  "meta": {
+    "source": "Quran.com API v4",
+    "base_url": "https://api.quran.com/api/v4",
+    "downloaded_at": "2025-12-09T04:53:49.342Z",
+    "translation_ids": {
+      "indonesian": 33,
+      "english": 20
+    }
+  },
+  "surah": {
+    "id": 105,
+    "name_simple": "Al-Fil",
+    "name_complex": "Al-Fīl",
+    "name_arabic": "الفيل",
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Elephant"
+    },
+    "revelation_place": "makkah",
+    "revelation_order": 19,
+    "bismillah_pre": true,
+    "verses_count": 5,
+    "pages": [
+      601,
+      601
+    ]
+  },
+  "ayahs": [
+    {
+      "id": 6189,
+      "verse_number": 1,
+      "verse_key": "105:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 549,
+      "page_number": 601,
+      "sajdah_number": null,
+      "text_arabic_simple": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+      "text_arabic_uthmani": " أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+      "text_arabic_tajweed": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَ<tajweed class=madda_normal>ـٰ</tajweed>بِ <tajweed class=ham_wasl>ٱ</tajweed>لْف<tajweed class=madda_permissible>ِي</tajweed>لِ <span class=end>١</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "أَلَمْ",
+            "audio_url": "wbw/105_001_001.mp3",
+            "translation": {
+              "text": "Have not",
+              "language": "en"
+            },
+            "transliteration": "alam"
+          },
+          {
+            "position": 2,
+            "text_code": "تَرَ",
+            "audio_url": "wbw/105_001_002.mp3",
+            "translation": {
+              "text": "you seen",
+              "language": "en"
+            },
+            "transliteration": "tara"
+          },
+          {
+            "position": 3,
+            "text_code": "كَيْفَ",
+            "audio_url": "wbw/105_001_003.mp3",
+            "translation": {
+              "text": "how",
+              "language": "en"
+            },
+            "transliteration": "kayfa"
+          },
+          {
+            "position": 4,
+            "text_code": "فَعَلَ",
+            "audio_url": "wbw/105_001_004.mp3",
+            "translation": {
+              "text": "dealt",
+              "language": "en"
+            },
+            "transliteration": "faʿala"
+          },
+          {
+            "position": 5,
+            "text_code": "رَبُّكَ",
+            "audio_url": "wbw/105_001_005.mp3",
+            "translation": {
+              "text": "your Lord",
+              "language": "en"
+            },
+            "transliteration": "rabbuka"
+          },
+          {
+            "position": 6,
+            "text_code": "بِأَصْحَـٰبِ",
+            "audio_url": "wbw/105_001_006.mp3",
+            "translation": {
+              "text": "with (the) Companions",
+              "language": "en"
+            },
+            "transliteration": "bi-aṣḥābi"
+          },
+          {
+            "position": 7,
+            "text_code": "ٱلْفِيلِ",
+            "audio_url": "wbw/105_001_007.mp3",
+            "translation": {
+              "text": "(of the) Elephant",
+              "language": "en"
+            },
+            "transliteration": "l-fīli"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "أَلَمْ",
+            "audio_url": "wbw/105_001_001.mp3",
+            "translation": {
+              "text": "apakah tidak",
+              "language": "id"
+            },
+            "transliteration": "alam"
+          },
+          {
+            "position": 2,
+            "text_code": "تَرَ",
+            "audio_url": "wbw/105_001_002.mp3",
+            "translation": {
+              "text": "kamu perhatikan",
+              "language": "id"
+            },
+            "transliteration": "tara"
+          },
+          {
+            "position": 3,
+            "text_code": "كَيْفَ",
+            "audio_url": "wbw/105_001_003.mp3",
+            "translation": {
+              "text": "bagaimana",
+              "language": "id"
+            },
+            "transliteration": "kayfa"
+          },
+          {
+            "position": 4,
+            "text_code": "فَعَلَ",
+            "audio_url": "wbw/105_001_004.mp3",
+            "translation": {
+              "text": "berbuat/bertindak",
+              "language": "id"
+            },
+            "transliteration": "faʿala"
+          },
+          {
+            "position": 5,
+            "text_code": "رَبُّكَ",
+            "audio_url": "wbw/105_001_005.mp3",
+            "translation": {
+              "text": "Tuhanmu",
+              "language": "id"
+            },
+            "transliteration": "rabbuka"
+          },
+          {
+            "position": 6,
+            "text_code": "بِأَصْحَـٰبِ",
+            "audio_url": "wbw/105_001_006.mp3",
+            "translation": {
+              "text": "terhadap golongan (tentara)",
+              "language": "id"
+            },
+            "transliteration": "bi-aṣḥābi"
+          },
+          {
+            "position": 7,
+            "text_code": "ٱلْفِيلِ",
+            "audio_url": "wbw/105_001_007.mp3",
+            "translation": {
+              "text": "gajah",
+              "language": "id"
+            },
+            "transliteration": "l-fīli"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant?<sup foot_note=197817>1</sup>",
+        "id": "Tidakkah engkau (Muhammad) perhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah?<sup foot_note=135876>1</sup>"
+      }
+    },
+    {
+      "id": 6190,
+      "verse_number": 2,
+      "verse_key": "105:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 549,
+      "page_number": 601,
+      "sajdah_number": null,
+      "text_arabic_simple": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+      "text_arabic_uthmani": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+      "text_arabic_tajweed": "أَلَمْ يَ<tajweed class=qalaqah>جْ</tajweed>عَلْ كَيْدَهُمْ فِى تَضْل<tajweed class=madda_permissible>ِي</tajweed>لٍ <span class=end>٢</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "أَلَمْ",
+            "audio_url": "wbw/105_002_001.mp3",
+            "translation": {
+              "text": "Did not",
+              "language": "en"
+            },
+            "transliteration": "alam"
+          },
+          {
+            "position": 2,
+            "text_code": "يَجْعَلْ",
+            "audio_url": "wbw/105_002_002.mp3",
+            "translation": {
+              "text": "He make",
+              "language": "en"
+            },
+            "transliteration": "yajʿal"
+          },
+          {
+            "position": 3,
+            "text_code": "كَيْدَهُمْ",
+            "audio_url": "wbw/105_002_003.mp3",
+            "translation": {
+              "text": "their plan",
+              "language": "en"
+            },
+            "transliteration": "kaydahum"
+          },
+          {
+            "position": 4,
+            "text_code": "فِى",
+            "audio_url": "wbw/105_002_004.mp3",
+            "translation": {
+              "text": "go",
+              "language": "en"
+            },
+            "transliteration": "fī"
+          },
+          {
+            "position": 5,
+            "text_code": "تَضْلِيلٍۢ",
+            "audio_url": "wbw/105_002_005.mp3",
+            "translation": {
+              "text": "astray",
+              "language": "en"
+            },
+            "transliteration": "taḍlīlin"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "أَلَمْ",
+            "audio_url": "wbw/105_002_001.mp3",
+            "translation": {
+              "text": "apakah tidak",
+              "language": "id"
+            },
+            "transliteration": "alam"
+          },
+          {
+            "position": 2,
+            "text_code": "يَجْعَلْ",
+            "audio_url": "wbw/105_002_002.mp3",
+            "translation": {
+              "text": "Dia jadikan",
+              "language": "id"
+            },
+            "transliteration": "yajʿal"
+          },
+          {
+            "position": 3,
+            "text_code": "كَيْدَهُمْ",
+            "audio_url": "wbw/105_002_003.mp3",
+            "translation": {
+              "text": "tipu daya mereka",
+              "language": "id"
+            },
+            "transliteration": "kaydahum"
+          },
+          {
+            "position": 4,
+            "text_code": "فِى",
+            "audio_url": "wbw/105_002_004.mp3",
+            "translation": {
+              "text": "dalam",
+              "language": "id"
+            },
+            "transliteration": "fī"
+          },
+          {
+            "position": 5,
+            "text_code": "تَضْلِيلٍۢ",
+            "audio_url": "wbw/105_002_005.mp3",
+            "translation": {
+              "text": "kesesatan/sia-sia",
+              "language": "id"
+            },
+            "transliteration": "taḍlīlin"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Did He not make their plan into misguidance?<sup foot_note=197818>1</sup>",
+        "id": "Bukankah Dia telah menjadikan tipu daya mereka itu sia-sia?"
+      }
+    },
+    {
+      "id": 6191,
+      "verse_number": 3,
+      "verse_key": "105:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 549,
+      "page_number": 601,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "text_arabic_uthmani": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "text_arabic_tajweed": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَاب<tajweed class=madda_permissible>ِي</tajweed>لَ <span class=end>٣</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَأَرْسَلَ",
+            "audio_url": "wbw/105_003_001.mp3",
+            "translation": {
+              "text": "And He sent",
+              "language": "en"
+            },
+            "transliteration": "wa-arsala"
+          },
+          {
+            "position": 2,
+            "text_code": "عَلَيْهِمْ",
+            "audio_url": "wbw/105_003_002.mp3",
+            "translation": {
+              "text": "against them",
+              "language": "en"
+            },
+            "transliteration": "ʿalayhim"
+          },
+          {
+            "position": 3,
+            "text_code": "طَيْرًا",
+            "audio_url": "wbw/105_003_003.mp3",
+            "translation": {
+              "text": "birds",
+              "language": "en"
+            },
+            "transliteration": "ṭayran"
+          },
+          {
+            "position": 4,
+            "text_code": "أَبَابِيلَ",
+            "audio_url": "wbw/105_003_004.mp3",
+            "translation": {
+              "text": "(in) flocks",
+              "language": "en"
+            },
+            "transliteration": "abābīla"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَأَرْسَلَ",
+            "audio_url": "wbw/105_003_001.mp3",
+            "translation": {
+              "text": "dan Dia mengirimkan",
+              "language": "id"
+            },
+            "transliteration": "wa-arsala"
+          },
+          {
+            "position": 2,
+            "text_code": "عَلَيْهِمْ",
+            "audio_url": "wbw/105_003_002.mp3",
+            "translation": {
+              "text": "kepada mereka",
+              "language": "id"
+            },
+            "transliteration": "ʿalayhim"
+          },
+          {
+            "position": 3,
+            "text_code": "طَيْرًا",
+            "audio_url": "wbw/105_003_003.mp3",
+            "translation": {
+              "text": "burung",
+              "language": "id"
+            },
+            "transliteration": "ṭayran"
+          },
+          {
+            "position": 4,
+            "text_code": "أَبَابِيلَ",
+            "audio_url": "wbw/105_003_004.mp3",
+            "translation": {
+              "text": "yang berbondong-bondong",
+              "language": "id"
+            },
+            "transliteration": "abābīla"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And He sent against them birds in flocks,",
+        "id": "dan Dia mengirimkan kepada mereka burung yang berbondong-bondong,"
+      }
+    },
+    {
+      "id": 6192,
+      "verse_number": 4,
+      "verse_key": "105:4",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 549,
+      "page_number": 601,
+      "sajdah_number": null,
+      "text_arabic_simple": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "text_arabic_uthmani": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "text_arabic_tajweed": "تَرْمِيه<tajweed class=ikhafa_shafawi>ِم ب</tajweed>ِحِجَارَ<tajweed class=idgham_ghunnah>ةٍ م</tajweed>ِّ<tajweed class=ikhafa>ن س</tajweed>ِجّ<tajweed class=madda_permissible>ِي</tajweed>لٍ <span class=end>٤</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "تَرْمِيهِم",
+            "audio_url": "wbw/105_004_001.mp3",
+            "translation": {
+              "text": "Striking them",
+              "language": "en"
+            },
+            "transliteration": "tarmīhim"
+          },
+          {
+            "position": 2,
+            "text_code": "بِحِجَارَةٍۢ",
+            "audio_url": "wbw/105_004_002.mp3",
+            "translation": {
+              "text": "with stones",
+              "language": "en"
+            },
+            "transliteration": "biḥijāratin"
+          },
+          {
+            "position": 3,
+            "text_code": "مِّن",
+            "audio_url": "wbw/105_004_003.mp3",
+            "translation": {
+              "text": "of",
+              "language": "en"
+            },
+            "transliteration": "min"
+          },
+          {
+            "position": 4,
+            "text_code": "سِجِّيلٍۢ",
+            "audio_url": "wbw/105_004_004.mp3",
+            "translation": {
+              "text": "baked clay",
+              "language": "en"
+            },
+            "transliteration": "sijjīlin"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "تَرْمِيهِم",
+            "audio_url": "wbw/105_004_001.mp3",
+            "translation": {
+              "text": "yang melempari mereka",
+              "language": "id"
+            },
+            "transliteration": "tarmīhim"
+          },
+          {
+            "position": 2,
+            "text_code": "بِحِجَارَةٍۢ",
+            "audio_url": "wbw/105_004_002.mp3",
+            "translation": {
+              "text": "dengan batu-batu",
+              "language": "id"
+            },
+            "transliteration": "biḥijāratin"
+          },
+          {
+            "position": 3,
+            "text_code": "مِّن",
+            "audio_url": "wbw/105_004_003.mp3",
+            "translation": {
+              "text": "dari",
+              "language": "id"
+            },
+            "transliteration": "min"
+          },
+          {
+            "position": 4,
+            "text_code": "سِجِّيلٍۢ",
+            "audio_url": "wbw/105_004_004.mp3",
+            "translation": {
+              "text": "tanah keras/terbakar",
+              "language": "id"
+            },
+            "transliteration": "sijjīlin"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Striking them with stones of hard clay,",
+        "id": "yang melempari mereka dengan batu dari tanah liat yang dibakar,"
+      }
+    },
+    {
+      "id": 6193,
+      "verse_number": 5,
+      "verse_key": "105:5",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 549,
+      "page_number": 601,
+      "sajdah_number": null,
+      "text_arabic_simple": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍ",
+      "text_arabic_uthmani": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+      "text_arabic_tajweed": "فَجَعَلَهُمْ كَعَصْ<tajweed class=idgham_ghunnah>فٍ م</tajweed>َّأْك<tajweed class=madda_permissible>ُو</tajweed>لِۭ <span class=end>٥</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "فَجَعَلَهُمْ",
+            "audio_url": "wbw/105_005_001.mp3",
+            "translation": {
+              "text": "Then He made them",
+              "language": "en"
+            },
+            "transliteration": "fajaʿalahum"
+          },
+          {
+            "position": 2,
+            "text_code": "كَعَصْفٍۢ",
+            "audio_url": "wbw/105_005_002.mp3",
+            "translation": {
+              "text": "like straw",
+              "language": "en"
+            },
+            "transliteration": "kaʿaṣfin"
+          },
+          {
+            "position": 3,
+            "text_code": "مَّأْكُولٍۭ",
+            "audio_url": "wbw/105_005_003.mp3",
+            "translation": {
+              "text": "eaten up",
+              "language": "en"
+            },
+            "transliteration": "makūlin"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "فَجَعَلَهُمْ",
+            "audio_url": "wbw/105_005_001.mp3",
+            "translation": {
+              "text": "lalu Dia menjadikan mereka",
+              "language": "id"
+            },
+            "transliteration": "fajaʿalahum"
+          },
+          {
+            "position": 2,
+            "text_code": "كَعَصْفٍۢ",
+            "audio_url": "wbw/105_005_002.mp3",
+            "translation": {
+              "text": "seperti daun",
+              "language": "id"
+            },
+            "transliteration": "kaʿaṣfin"
+          },
+          {
+            "position": 3,
+            "text_code": "مَّأْكُولٍۭ",
+            "audio_url": "wbw/105_005_003.mp3",
+            "translation": {
+              "text": "dimakan",
+              "language": "id"
+            },
+            "transliteration": "makūlin"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And He made them like eaten straw.<sup foot_note=197819>1</sup>",
+        "id": "sehingga mereka dijadikan-Nya seperti daun-daun yang dimakan (ulat)."
+      }
+    }
+  ],
+  "stats": {
+    "total_ayahs": 5,
+    "total_words_en": 23,
+    "total_words_id": 23
+  }
+}

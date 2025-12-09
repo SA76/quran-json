@@ -1,0 +1,776 @@
+{
+  "meta": {
+    "source": "Quran.com API v4",
+    "base_url": "https://api.quran.com/api/v4",
+    "downloaded_at": "2025-12-09T04:53:19.025Z",
+    "translation_ids": {
+      "indonesian": 33,
+      "english": 20
+    }
+  },
+  "surah": {
+    "id": 94,
+    "name_simple": "Ash-Sharh",
+    "name_complex": "Ash-Sharĥ",
+    "name_arabic": "الشرح",
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Relief"
+    },
+    "revelation_place": "makkah",
+    "revelation_order": 12,
+    "bismillah_pre": true,
+    "verses_count": 8,
+    "pages": [
+      596,
+      596
+    ]
+  },
+  "ayahs": [
+    {
+      "id": 6091,
+      "verse_number": 1,
+      "verse_key": "94:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 538,
+      "page_number": 596,
+      "sajdah_number": null,
+      "text_arabic_simple": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "text_arabic_uthmani": " أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "text_arabic_tajweed": "أَلَمْ نَشْرَحْ لَكَ صَ<tajweed class=qalaqah>دْ</tajweed>رَكَ <span class=end>١</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "أَلَمْ",
+            "audio_url": "wbw/094_001_001.mp3",
+            "translation": {
+              "text": "Have not",
+              "language": "en"
+            },
+            "transliteration": "alam"
+          },
+          {
+            "position": 2,
+            "text_code": "نَشْرَحْ",
+            "audio_url": "wbw/094_001_002.mp3",
+            "translation": {
+              "text": "We expanded",
+              "language": "en"
+            },
+            "transliteration": "nashraḥ"
+          },
+          {
+            "position": 3,
+            "text_code": "لَكَ",
+            "audio_url": "wbw/094_001_003.mp3",
+            "translation": {
+              "text": "for you",
+              "language": "en"
+            },
+            "transliteration": "laka"
+          },
+          {
+            "position": 4,
+            "text_code": "صَدْرَكَ",
+            "audio_url": "wbw/094_001_004.mp3",
+            "translation": {
+              "text": "your breast",
+              "language": "en"
+            },
+            "transliteration": "ṣadraka"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "أَلَمْ",
+            "audio_url": "wbw/094_001_001.mp3",
+            "translation": {
+              "text": "apakah tidak/bukankah",
+              "language": "id"
+            },
+            "transliteration": "alam"
+          },
+          {
+            "position": 2,
+            "text_code": "نَشْرَحْ",
+            "audio_url": "wbw/094_001_002.mp3",
+            "translation": {
+              "text": "Kami melapangkan",
+              "language": "id"
+            },
+            "transliteration": "nashraḥ"
+          },
+          {
+            "position": 3,
+            "text_code": "لَكَ",
+            "audio_url": "wbw/094_001_003.mp3",
+            "translation": {
+              "text": "bagimu",
+              "language": "id"
+            },
+            "transliteration": "laka"
+          },
+          {
+            "position": 4,
+            "text_code": "صَدْرَكَ",
+            "audio_url": "wbw/094_001_004.mp3",
+            "translation": {
+              "text": "dadamu",
+              "language": "id"
+            },
+            "transliteration": "ṣadraka"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Did We not expand for you, [O Muḥammad], your breast?<sup foot_note=197780>1</sup>",
+        "id": "Bukankah kami telah melapangkan dadamu (Muhammad)?"
+      }
+    },
+    {
+      "id": 6092,
+      "verse_number": 2,
+      "verse_key": "94:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 538,
+      "page_number": 596,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "text_arabic_uthmani": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "text_arabic_tajweed": "وَوَضَعْنَا عَ<tajweed class=ikhafa>نك</tajweed>َ وِزْرَكَ <span class=end>٢</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَوَضَعْنَا",
+            "audio_url": "wbw/094_002_001.mp3",
+            "translation": {
+              "text": "And We removed",
+              "language": "en"
+            },
+            "transliteration": "wawaḍaʿnā"
+          },
+          {
+            "position": 2,
+            "text_code": "عَنكَ",
+            "audio_url": "wbw/094_002_002.mp3",
+            "translation": {
+              "text": "from you",
+              "language": "en"
+            },
+            "transliteration": "ʿanka"
+          },
+          {
+            "position": 3,
+            "text_code": "وِزْرَكَ",
+            "audio_url": "wbw/094_002_003.mp3",
+            "translation": {
+              "text": "your burden",
+              "language": "en"
+            },
+            "transliteration": "wiz'raka"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَوَضَعْنَا",
+            "audio_url": "wbw/094_002_001.mp3",
+            "translation": {
+              "text": "dan Kami letakkan/turunkan",
+              "language": "id"
+            },
+            "transliteration": "wawaḍaʿnā"
+          },
+          {
+            "position": 2,
+            "text_code": "عَنكَ",
+            "audio_url": "wbw/094_002_002.mp3",
+            "translation": {
+              "text": "dari kamu",
+              "language": "id"
+            },
+            "transliteration": "ʿanka"
+          },
+          {
+            "position": 3,
+            "text_code": "وِزْرَكَ",
+            "audio_url": "wbw/094_002_003.mp3",
+            "translation": {
+              "text": "bebanmu",
+              "language": "id"
+            },
+            "transliteration": "wiz'raka"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And We removed from you your burden<sup foot_note=197781>1</sup>",
+        "id": "dan kami pun telah menurunkan beban darimu,<sup foot_note=135864>1</sup>"
+      }
+    },
+    {
+      "id": 6093,
+      "verse_number": 3,
+      "verse_key": "94:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 538,
+      "page_number": 597,
+      "sajdah_number": null,
+      "text_arabic_simple": "الَّذِي أَنقَضَ ظَهْرَكَ",
+      "text_arabic_uthmani": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "text_arabic_tajweed": "ٱلَّذ<tajweed class=madda_obligatory>ِىٓ</tajweed> أَ<tajweed class=ikhafa>نق</tajweed>َضَ ظَهْرَكَ <span class=end>٣</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "ٱلَّذِىٓ",
+            "audio_url": "wbw/094_003_001.mp3",
+            "translation": {
+              "text": "Which",
+              "language": "en"
+            },
+            "transliteration": "alladhī"
+          },
+          {
+            "position": 2,
+            "text_code": "أَنقَضَ",
+            "audio_url": "wbw/094_003_002.mp3",
+            "translation": {
+              "text": "weighed upon",
+              "language": "en"
+            },
+            "transliteration": "anqaḍa"
+          },
+          {
+            "position": 3,
+            "text_code": "ظَهْرَكَ",
+            "audio_url": "wbw/094_003_003.mp3",
+            "translation": {
+              "text": "your back",
+              "language": "en"
+            },
+            "transliteration": "ẓahraka"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "ٱلَّذِىٓ",
+            "audio_url": "wbw/094_003_001.mp3",
+            "translation": {
+              "text": "yang",
+              "language": "id"
+            },
+            "transliteration": "alladhī"
+          },
+          {
+            "position": 2,
+            "text_code": "أَنقَضَ",
+            "audio_url": "wbw/094_003_002.mp3",
+            "translation": {
+              "text": "memberatkan",
+              "language": "id"
+            },
+            "transliteration": "anqaḍa"
+          },
+          {
+            "position": 3,
+            "text_code": "ظَهْرَكَ",
+            "audio_url": "wbw/094_003_003.mp3",
+            "translation": {
+              "text": "punggungmu",
+              "language": "id"
+            },
+            "transliteration": "ẓahraka"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Which had weighed upon your back",
+        "id": "yang memberatkan punggungmu,"
+      }
+    },
+    {
+      "id": 6094,
+      "verse_number": 4,
+      "verse_key": "94:4",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 538,
+      "page_number": 597,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "text_arabic_uthmani": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "text_arabic_tajweed": "وَرَفَعْنَا لَكَ ذِكْرَكَ <span class=end>٤</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَرَفَعْنَا",
+            "audio_url": "wbw/094_004_001.mp3",
+            "translation": {
+              "text": "And We raised high",
+              "language": "en"
+            },
+            "transliteration": "warafaʿnā"
+          },
+          {
+            "position": 2,
+            "text_code": "لَكَ",
+            "audio_url": "wbw/094_004_002.mp3",
+            "translation": {
+              "text": "for you",
+              "language": "en"
+            },
+            "transliteration": "laka"
+          },
+          {
+            "position": 3,
+            "text_code": "ذِكْرَكَ",
+            "audio_url": "wbw/094_004_003.mp3",
+            "translation": {
+              "text": "your reputation",
+              "language": "en"
+            },
+            "transliteration": "dhik'raka"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَرَفَعْنَا",
+            "audio_url": "wbw/094_004_001.mp3",
+            "translation": {
+              "text": "dan Kami tinggikan",
+              "language": "id"
+            },
+            "transliteration": "warafaʿnā"
+          },
+          {
+            "position": 2,
+            "text_code": "لَكَ",
+            "audio_url": "wbw/094_004_002.mp3",
+            "translation": {
+              "text": "bagimu",
+              "language": "id"
+            },
+            "transliteration": "laka"
+          },
+          {
+            "position": 3,
+            "text_code": "ذِكْرَكَ",
+            "audio_url": "wbw/094_004_003.mp3",
+            "translation": {
+              "text": "sebutanmu",
+              "language": "id"
+            },
+            "transliteration": "dhik'raka"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And raised high for you your repute.",
+        "id": "dan kami tinggikan sebutan (nama)mu<sup foot_note=135865>1</sup> bagimu."
+      }
+    },
+    {
+      "id": 6095,
+      "verse_number": 5,
+      "verse_key": "94:5",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 538,
+      "page_number": 597,
+      "sajdah_number": null,
+      "text_arabic_simple": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "text_arabic_uthmani": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "text_arabic_tajweed": "فَإِ<tajweed class=ghunnah>نّ</tajweed>َ مَعَ <tajweed class=ham_wasl>ٱ</tajweed>لْعُسْرِ يُسْرًا <span class=end>٥</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "فَإِنَّ",
+            "audio_url": "wbw/094_005_001.mp3",
+            "translation": {
+              "text": "So indeed",
+              "language": "en"
+            },
+            "transliteration": "fa-inna"
+          },
+          {
+            "position": 2,
+            "text_code": "مَعَ",
+            "audio_url": "wbw/094_005_002.mp3",
+            "translation": {
+              "text": "with",
+              "language": "en"
+            },
+            "transliteration": "maʿa"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلْعُسْرِ",
+            "audio_url": "wbw/094_005_003.mp3",
+            "translation": {
+              "text": "the hardship",
+              "language": "en"
+            },
+            "transliteration": "l-ʿus'ri"
+          },
+          {
+            "position": 4,
+            "text_code": "يُسْرًا",
+            "audio_url": "wbw/094_005_004.mp3",
+            "translation": {
+              "text": "(is) ease",
+              "language": "en"
+            },
+            "transliteration": "yus'ran"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "فَإِنَّ",
+            "audio_url": "wbw/094_005_001.mp3",
+            "translation": {
+              "text": "maka sesungguhnya",
+              "language": "id"
+            },
+            "transliteration": "fa-inna"
+          },
+          {
+            "position": 2,
+            "text_code": "مَعَ",
+            "audio_url": "wbw/094_005_002.mp3",
+            "translation": {
+              "text": "beserta",
+              "language": "id"
+            },
+            "transliteration": "maʿa"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلْعُسْرِ",
+            "audio_url": "wbw/094_005_003.mp3",
+            "translation": {
+              "text": "kesulitan",
+              "language": "id"
+            },
+            "transliteration": "l-ʿus'ri"
+          },
+          {
+            "position": 4,
+            "text_code": "يُسْرًا",
+            "audio_url": "wbw/094_005_004.mp3",
+            "translation": {
+              "text": "kemudahan",
+              "language": "id"
+            },
+            "transliteration": "yus'ran"
+          }
+        ]
+      },
+      "translations": {
+        "en": "For indeed, with hardship [will be] ease [i.e., relief].",
+        "id": "Maka sesungguhnya bersama kesulitan ada kemudahan,"
+      }
+    },
+    {
+      "id": 6096,
+      "verse_number": 6,
+      "verse_key": "94:6",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 538,
+      "page_number": 597,
+      "sajdah_number": null,
+      "text_arabic_simple": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "text_arabic_uthmani": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "text_arabic_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed>َ مَعَ <tajweed class=ham_wasl>ٱ</tajweed>لْعُسْرِ يُسْرًا <span class=end>٦</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "إِنَّ",
+            "audio_url": "wbw/094_006_001.mp3",
+            "translation": {
+              "text": "Indeed",
+              "language": "en"
+            },
+            "transliteration": "inna"
+          },
+          {
+            "position": 2,
+            "text_code": "مَعَ",
+            "audio_url": "wbw/094_006_002.mp3",
+            "translation": {
+              "text": "with",
+              "language": "en"
+            },
+            "transliteration": "maʿa"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلْعُسْرِ",
+            "audio_url": "wbw/094_006_003.mp3",
+            "translation": {
+              "text": "the hardship",
+              "language": "en"
+            },
+            "transliteration": "l-ʿus'ri"
+          },
+          {
+            "position": 4,
+            "text_code": "يُسْرًۭا",
+            "audio_url": "wbw/094_006_004.mp3",
+            "translation": {
+              "text": "(is) ease",
+              "language": "en"
+            },
+            "transliteration": "yus'ran"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "إِنَّ",
+            "audio_url": "wbw/094_006_001.mp3",
+            "translation": {
+              "text": "sesungguhnya",
+              "language": "id"
+            },
+            "transliteration": "inna"
+          },
+          {
+            "position": 2,
+            "text_code": "مَعَ",
+            "audio_url": "wbw/094_006_002.mp3",
+            "translation": {
+              "text": "beserta",
+              "language": "id"
+            },
+            "transliteration": "maʿa"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلْعُسْرِ",
+            "audio_url": "wbw/094_006_003.mp3",
+            "translation": {
+              "text": "kesulitan",
+              "language": "id"
+            },
+            "transliteration": "l-ʿus'ri"
+          },
+          {
+            "position": 4,
+            "text_code": "يُسْرًۭا",
+            "audio_url": "wbw/094_006_004.mp3",
+            "translation": {
+              "text": "kemudahan",
+              "language": "id"
+            },
+            "transliteration": "yus'ran"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Indeed, with hardship [will be] ease.",
+        "id": "sesungguhnya bersama kesulitan ada kemudahan."
+      }
+    },
+    {
+      "id": 6097,
+      "verse_number": 7,
+      "verse_key": "94:7",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 538,
+      "page_number": 597,
+      "sajdah_number": null,
+      "text_arabic_simple": "فَإِذَا فَرَغْتَ فَانصَبْ",
+      "text_arabic_uthmani": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "text_arabic_tajweed": "فَإِذَا فَرَغْتَ فَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=ikhafa>نص</tajweed>َ<tajweed class=qalaqah>بْ</tajweed> <span class=end>٧</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "فَإِذَا",
+            "audio_url": "wbw/094_007_001.mp3",
+            "translation": {
+              "text": "So when",
+              "language": "en"
+            },
+            "transliteration": "fa-idhā"
+          },
+          {
+            "position": 2,
+            "text_code": "فَرَغْتَ",
+            "audio_url": "wbw/094_007_002.mp3",
+            "translation": {
+              "text": "you have finished",
+              "language": "en"
+            },
+            "transliteration": "faraghta"
+          },
+          {
+            "position": 3,
+            "text_code": "فَٱنصَبْ",
+            "audio_url": "wbw/094_007_003.mp3",
+            "translation": {
+              "text": "then labor hard",
+              "language": "en"
+            },
+            "transliteration": "fa-inṣab"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "فَإِذَا",
+            "audio_url": "wbw/094_007_001.mp3",
+            "translation": {
+              "text": "maka apabila",
+              "language": "id"
+            },
+            "transliteration": "fa-idhā"
+          },
+          {
+            "position": 2,
+            "text_code": "فَرَغْتَ",
+            "audio_url": "wbw/094_007_002.mp3",
+            "translation": {
+              "text": "kamu telah selesai",
+              "language": "id"
+            },
+            "transliteration": "faraghta"
+          },
+          {
+            "position": 3,
+            "text_code": "فَٱنصَبْ",
+            "audio_url": "wbw/094_007_003.mp3",
+            "translation": {
+              "text": "maka kerja keraslah kamu",
+              "language": "id"
+            },
+            "transliteration": "fa-inṣab"
+          }
+        ]
+      },
+      "translations": {
+        "en": "So when you have finished [your duties], then stand up [for worship].",
+        "id": "Maka apabila engkau telah selesai (dari suatu urusan), tetaplah bekerja keras (untuk urusan yang lain),<sup foot_note=135866>1</sup>"
+      }
+    },
+    {
+      "id": 6098,
+      "verse_number": 8,
+      "verse_key": "94:8",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "manzil_number": 7,
+      "ruku_number": 538,
+      "page_number": 597,
+      "sajdah_number": null,
+      "text_arabic_simple": "وَإِلَىٰ رَبِّكَ فَارْغَب",
+      "text_arabic_uthmani": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "text_arabic_tajweed": "وَإِلَىٰ رَبِّكَ فَ<tajweed class=ham_wasl>ٱ</tajweed>رْغَ<tajweed class=qalaqah>ب</tajweed> <span class=end>٨</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "وَإِلَىٰ",
+            "audio_url": "wbw/094_008_001.mp3",
+            "translation": {
+              "text": "And to",
+              "language": "en"
+            },
+            "transliteration": "wa-ilā"
+          },
+          {
+            "position": 2,
+            "text_code": "رَبِّكَ",
+            "audio_url": "wbw/094_008_002.mp3",
+            "translation": {
+              "text": "your Lord",
+              "language": "en"
+            },
+            "transliteration": "rabbika"
+          },
+          {
+            "position": 3,
+            "text_code": "فَٱرْغَب",
+            "audio_url": "wbw/094_008_003.mp3",
+            "translation": {
+              "text": "turn your attention",
+              "language": "en"
+            },
+            "transliteration": "fa-ir'ghab"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "وَإِلَىٰ",
+            "audio_url": "wbw/094_008_001.mp3",
+            "translation": {
+              "text": "dan hanya",
+              "language": "id"
+            },
+            "transliteration": "wa-ilā"
+          },
+          {
+            "position": 2,
+            "text_code": "رَبِّكَ",
+            "audio_url": "wbw/094_008_002.mp3",
+            "translation": {
+              "text": "Tuhanmu",
+              "language": "id"
+            },
+            "transliteration": "rabbika"
+          },
+          {
+            "position": 3,
+            "text_code": "فَٱرْغَب",
+            "audio_url": "wbw/094_008_003.mp3",
+            "translation": {
+              "text": "maka kamu berharap",
+              "language": "id"
+            },
+            "transliteration": "fa-ir'ghab"
+          }
+        ]
+      },
+      "translations": {
+        "en": "And to your Lord direct [your] longing.",
+        "id": "dan hanya kepada Tuhanmulah engkau berharap."
+      }
+    }
+  ],
+  "stats": {
+    "total_ayahs": 8,
+    "total_words_en": 27,
+    "total_words_id": 27
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "source": "Quran.com API v4",
+    "base_url": "https://api.quran.com/api/v4",
+    "downloaded_at": "2025-12-09T04:53:56.757Z",
+    "translation_ids": {
+      "indonesian": 33,
+      "english": 20
+    }
+  },
+  "surah": {
+    "id": 108,
+    "name_simple": "Al-Kawthar",
+    "name_complex": "Al-Kawthar",
+    "name_arabic": "الكوثر",
+    "translated_name": {
+      "language_name": "english",
+      "name": "The Abundance"
+    },
+    "revelation_place": "makkah",
+    "revelation_order": 15,
+    "bismillah_pre": true,
+    "verses_count": 3,
+    "pages": [
+      602,
+      602
+    ]
+  },
+  "ayahs": [
+    {
+      "id": 6205,
+      "verse_number": 1,
+      "verse_key": "108:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 552,
+      "page_number": 602,
+      "sajdah_number": null,
+      "text_arabic_simple": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+      "text_arabic_uthmani": " إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+      "text_arabic_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_obligatory>َآ</tajweed> أَعْطَيْنَ<tajweed class=madda_normal>ـٰ</tajweed>كَ <tajweed class=ham_wasl>ٱ</tajweed>لْكَوْثَرَ <span class=end>١</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "إِنَّآ",
+            "audio_url": "wbw/108_001_001.mp3",
+            "translation": {
+              "text": "Indeed, We",
+              "language": "en"
+            },
+            "transliteration": "innā"
+          },
+          {
+            "position": 2,
+            "text_code": "أَعْطَيْنَـٰكَ",
+            "audio_url": "wbw/108_001_002.mp3",
+            "translation": {
+              "text": "We have given you",
+              "language": "en"
+            },
+            "transliteration": "aʿṭaynāka"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلْكَوْثَرَ",
+            "audio_url": "wbw/108_001_003.mp3",
+            "translation": {
+              "text": "Al-Kauthar",
+              "language": "en"
+            },
+            "transliteration": "l-kawthara"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "إِنَّآ",
+            "audio_url": "wbw/108_001_001.mp3",
+            "translation": {
+              "text": "sesungguhnya",
+              "language": "id"
+            },
+            "transliteration": "innā"
+          },
+          {
+            "position": 2,
+            "text_code": "أَعْطَيْنَـٰكَ",
+            "audio_url": "wbw/108_001_002.mp3",
+            "translation": {
+              "text": "Aku telah memberikan",
+              "language": "id"
+            },
+            "transliteration": "aʿṭaynāka"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلْكَوْثَرَ",
+            "audio_url": "wbw/108_001_003.mp3",
+            "translation": {
+              "text": "nikmat yang banyak",
+              "language": "id"
+            },
+            "transliteration": "l-kawthara"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Indeed, We have granted you, [O Muḥammad], al-Kawthar.",
+        "id": "Sungguh, Kami telah memberimu (Muhammad) nikmat yang banyak."
+      }
+    },
+    {
+      "id": 6206,
+      "verse_number": 2,
+      "verse_key": "108:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 552,
+      "page_number": 602,
+      "sajdah_number": null,
+      "text_arabic_simple": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+      "text_arabic_uthmani": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "text_arabic_tajweed": "فَصَلِّ لِرَبِّكَ وَ<tajweed class=ham_wasl>ٱ</tajweed>نْحَرْ <span class=end>٢</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "فَصَلِّ",
+            "audio_url": "wbw/108_002_001.mp3",
+            "translation": {
+              "text": "So pray",
+              "language": "en"
+            },
+            "transliteration": "faṣalli"
+          },
+          {
+            "position": 2,
+            "text_code": "لِرَبِّكَ",
+            "audio_url": "wbw/108_002_002.mp3",
+            "translation": {
+              "text": "to your Lord",
+              "language": "en"
+            },
+            "transliteration": "lirabbika"
+          },
+          {
+            "position": 3,
+            "text_code": "وَٱنْحَرْ",
+            "audio_url": "wbw/108_002_003.mp3",
+            "translation": {
+              "text": "and sacrifice",
+              "language": "en"
+            },
+            "transliteration": "wa-in'ḥar"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "فَصَلِّ",
+            "audio_url": "wbw/108_002_001.mp3",
+            "translation": {
+              "text": "maka dirikanlah sholat",
+              "language": "id"
+            },
+            "transliteration": "faṣalli"
+          },
+          {
+            "position": 2,
+            "text_code": "لِرَبِّكَ",
+            "audio_url": "wbw/108_002_002.mp3",
+            "translation": {
+              "text": "karena Tuhanmu",
+              "language": "id"
+            },
+            "transliteration": "lirabbika"
+          },
+          {
+            "position": 3,
+            "text_code": "وَٱنْحَرْ",
+            "audio_url": "wbw/108_002_003.mp3",
+            "translation": {
+              "text": "dan berkurbanlah",
+              "language": "id"
+            },
+            "transliteration": "wa-in'ḥar"
+          }
+        ]
+      },
+      "translations": {
+        "en": "So pray to your Lord and offer sacrifice [to Him alone].",
+        "id": "Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah)."
+      }
+    },
+    {
+      "id": 6207,
+      "verse_number": 3,
+      "verse_key": "108:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 552,
+      "page_number": 602,
+      "sajdah_number": null,
+      "text_arabic_simple": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+      "text_arabic_uthmani": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "text_arabic_tajweed": "إِ<tajweed class=ghunnah>نّ</tajweed>َ شَانِئَكَ هُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْأَ<tajweed class=qalaqah>بْ</tajweed>تَرُ <span class=end>٣</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "إِنَّ",
+            "audio_url": "wbw/108_003_001.mp3",
+            "translation": {
+              "text": "Indeed",
+              "language": "en"
+            },
+            "transliteration": "inna"
+          },
+          {
+            "position": 2,
+            "text_code": "شَانِئَكَ",
+            "audio_url": "wbw/108_003_002.mp3",
+            "translation": {
+              "text": "your enemy ",
+              "language": "en"
+            },
+            "transliteration": "shāni-aka"
+          },
+          {
+            "position": 3,
+            "text_code": "هُوَ",
+            "audio_url": "wbw/108_003_003.mp3",
+            "translation": {
+              "text": "he (is)",
+              "language": "en"
+            },
+            "transliteration": "huwa"
+          },
+          {
+            "position": 4,
+            "text_code": "ٱلْأَبْتَرُ",
+            "audio_url": "wbw/108_003_004.mp3",
+            "translation": {
+              "text": "the one cut off",
+              "language": "en"
+            },
+            "transliteration": "l-abtaru"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "إِنَّ",
+            "audio_url": "wbw/108_003_001.mp3",
+            "translation": {
+              "text": "sesungguhnya",
+              "language": "id"
+            },
+            "transliteration": "inna"
+          },
+          {
+            "position": 2,
+            "text_code": "شَانِئَكَ",
+            "audio_url": "wbw/108_003_002.mp3",
+            "translation": {
+              "text": "orang yang membencimu",
+              "language": "id"
+            },
+            "transliteration": "shāni-aka"
+          },
+          {
+            "position": 3,
+            "text_code": "هُوَ",
+            "audio_url": "wbw/108_003_003.mp3",
+            "translation": {
+              "text": "dia",
+              "language": "id"
+            },
+            "transliteration": "huwa"
+          },
+          {
+            "position": 4,
+            "text_code": "ٱلْأَبْتَرُ",
+            "audio_url": "wbw/108_003_004.mp3",
+            "translation": {
+              "text": "terputus",
+              "language": "id"
+            },
+            "transliteration": "l-abtaru"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Indeed, your enemy is the one cut off.<sup foot_note=197824>1</sup>",
+        "id": "Sungguh, orang-orang yang membencimu dialah yang terputus (dari rahmat Allah)."
+      }
+    }
+  ],
+  "stats": {
+    "total_ayahs": 3,
+    "total_words_en": 10,
+    "total_words_id": 10
+  }
+}

@@ -1,0 +1,476 @@
+{
+  "meta": {
+    "source": "Quran.com API v4",
+    "base_url": "https://api.quran.com/api/v4",
+    "downloaded_at": "2025-12-09T04:53:51.735Z",
+    "translation_ids": {
+      "indonesian": 33,
+      "english": 20
+    }
+  },
+  "surah": {
+    "id": 106,
+    "name_simple": "Quraysh",
+    "name_complex": "Quraysh",
+    "name_arabic": "قريش",
+    "translated_name": {
+      "language_name": "english",
+      "name": "Quraysh"
+    },
+    "revelation_place": "makkah",
+    "revelation_order": 29,
+    "bismillah_pre": true,
+    "verses_count": 4,
+    "pages": [
+      602,
+      602
+    ]
+  },
+  "ayahs": [
+    {
+      "id": 6194,
+      "verse_number": 1,
+      "verse_key": "106:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 550,
+      "page_number": 602,
+      "sajdah_number": null,
+      "text_arabic_simple": "لِإِيلَافِ قُرَيْشٍ",
+      "text_arabic_uthmani": " لِإِيلَـٰفِ قُرَيْشٍ",
+      "text_arabic_tajweed": "لِإِيلَ<tajweed class=madda_normal>ـٰ</tajweed>فِ قُر<tajweed class=madda_permissible>َي</tajweed>ْشٍ <span class=end>١</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "لِإِيلَـٰفِ",
+            "audio_url": "wbw/106_001_001.mp3",
+            "translation": {
+              "text": "For (the) familiarity",
+              "language": "en"
+            },
+            "transliteration": "liīlāfi"
+          },
+          {
+            "position": 2,
+            "text_code": "قُرَيْشٍ",
+            "audio_url": "wbw/106_001_002.mp3",
+            "translation": {
+              "text": "(of the) Quraish",
+              "language": "en"
+            },
+            "transliteration": "qurayshin"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "لِإِيلَـٰفِ",
+            "audio_url": "wbw/106_001_001.mp3",
+            "translation": {
+              "text": "karena kebiasaan",
+              "language": "id"
+            },
+            "transliteration": "liīlāfi"
+          },
+          {
+            "position": 2,
+            "text_code": "قُرَيْشٍ",
+            "audio_url": "wbw/106_001_002.mp3",
+            "translation": {
+              "text": "orang-orang Qurais",
+              "language": "id"
+            },
+            "transliteration": "qurayshin"
+          }
+        ]
+      },
+      "translations": {
+        "en": "For the accustomed security of the Quraysh<sup foot_note=197820>1</sup> -",
+        "id": "Karena kebiasaan orang-orang Quraisy,"
+      }
+    },
+    {
+      "id": 6195,
+      "verse_number": 2,
+      "verse_key": "106:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 550,
+      "page_number": 602,
+      "sajdah_number": null,
+      "text_arabic_simple": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
+      "text_arabic_uthmani": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+      "text_arabic_tajweed": "إ<tajweed class=madda_normal>ِۦ</tajweed>لَ<tajweed class=madda_normal>ـٰ</tajweed>فِهِمْ رِحْلَةَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>شِّت<tajweed class=madda_obligatory>َا</tajweed>ٓءِ وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صّ<tajweed class=madda_permissible>َي</tajweed>ْفِ <span class=end>٢</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "إِۦلَـٰفِهِمْ",
+            "audio_url": "wbw/106_002_001.mp3",
+            "translation": {
+              "text": "Their familiarity",
+              "language": "en"
+            },
+            "transliteration": "īlāfihim"
+          },
+          {
+            "position": 2,
+            "text_code": "رِحْلَةَ",
+            "audio_url": "wbw/106_002_002.mp3",
+            "translation": {
+              "text": "(with the) journey",
+              "language": "en"
+            },
+            "transliteration": "riḥ'lata"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلشِّتَآءِ",
+            "audio_url": "wbw/106_002_003.mp3",
+            "translation": {
+              "text": "(of) winter",
+              "language": "en"
+            },
+            "transliteration": "l-shitāi"
+          },
+          {
+            "position": 4,
+            "text_code": "وَٱلصَّيْفِ",
+            "audio_url": "wbw/106_002_004.mp3",
+            "translation": {
+              "text": "and summer",
+              "language": "en"
+            },
+            "transliteration": "wal-ṣayfi"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "إِۦلَـٰفِهِمْ",
+            "audio_url": "wbw/106_002_001.mp3",
+            "translation": {
+              "text": "kebiasaan mereka",
+              "language": "id"
+            },
+            "transliteration": "īlāfihim"
+          },
+          {
+            "position": 2,
+            "text_code": "رِحْلَةَ",
+            "audio_url": "wbw/106_002_002.mp3",
+            "translation": {
+              "text": "perjalanan/bepergian",
+              "language": "id"
+            },
+            "transliteration": "riḥ'lata"
+          },
+          {
+            "position": 3,
+            "text_code": "ٱلشِّتَآءِ",
+            "audio_url": "wbw/106_002_003.mp3",
+            "translation": {
+              "text": "dimusim dingin",
+              "language": "id"
+            },
+            "transliteration": "l-shitāi"
+          },
+          {
+            "position": 4,
+            "text_code": "وَٱلصَّيْفِ",
+            "audio_url": "wbw/106_002_004.mp3",
+            "translation": {
+              "text": "dan musim panas",
+              "language": "id"
+            },
+            "transliteration": "wal-ṣayfi"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Their accustomed security [in] the caravan of winter and summer<sup foot_note=197821>1</sup> -",
+        "id": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas.<sup foot_note=135877>1</sup>"
+      }
+    },
+    {
+      "id": 6196,
+      "verse_number": 3,
+      "verse_key": "106:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 550,
+      "page_number": 602,
+      "sajdah_number": null,
+      "text_arabic_simple": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ",
+      "text_arabic_uthmani": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+      "text_arabic_tajweed": "فَلْيَعْبُدُو<tajweed class=slnt>اْ</tajweed> رَبَّ هَ<tajweed class=madda_normal>ـٰ</tajweed>ذَا <tajweed class=ham_wasl>ٱ</tajweed>لْب<tajweed class=madda_permissible>َي</tajweed>ْتِ <span class=end>٣</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "فَلْيَعْبُدُوا۟",
+            "audio_url": "wbw/106_003_001.mp3",
+            "translation": {
+              "text": "So let them worship",
+              "language": "en"
+            },
+            "transliteration": "falyaʿbudū"
+          },
+          {
+            "position": 2,
+            "text_code": "رَبَّ",
+            "audio_url": "wbw/106_003_002.mp3",
+            "translation": {
+              "text": "(the) Lord",
+              "language": "en"
+            },
+            "transliteration": "rabba"
+          },
+          {
+            "position": 3,
+            "text_code": "هَـٰذَا",
+            "audio_url": "wbw/106_003_003.mp3",
+            "translation": {
+              "text": "(of) this",
+              "language": "en"
+            },
+            "transliteration": "hādhā"
+          },
+          {
+            "position": 4,
+            "text_code": "ٱلْبَيْتِ",
+            "audio_url": "wbw/106_003_004.mp3",
+            "translation": {
+              "text": "House",
+              "language": "en"
+            },
+            "transliteration": "l-bayti"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "فَلْيَعْبُدُوا۟",
+            "audio_url": "wbw/106_003_001.mp3",
+            "translation": {
+              "text": "maka hendaklah mereka menyembah",
+              "language": "id"
+            },
+            "transliteration": "falyaʿbudū"
+          },
+          {
+            "position": 2,
+            "text_code": "رَبَّ",
+            "audio_url": "wbw/106_003_002.mp3",
+            "translation": {
+              "text": "Tuhan",
+              "language": "id"
+            },
+            "transliteration": "rabba"
+          },
+          {
+            "position": 3,
+            "text_code": "هَـٰذَا",
+            "audio_url": "wbw/106_003_003.mp3",
+            "translation": {
+              "text": "ini",
+              "language": "id"
+            },
+            "transliteration": "hādhā"
+          },
+          {
+            "position": 4,
+            "text_code": "ٱلْبَيْتِ",
+            "audio_url": "wbw/106_003_004.mp3",
+            "translation": {
+              "text": "rumah",
+              "language": "id"
+            },
+            "transliteration": "l-bayti"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Let them worship the Lord of this House,<sup foot_note=197822>1</sup>",
+        "id": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka'bah),"
+      }
+    },
+    {
+      "id": 6197,
+      "verse_number": 4,
+      "verse_key": "106:4",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "manzil_number": 7,
+      "ruku_number": 550,
+      "page_number": 602,
+      "sajdah_number": null,
+      "text_arabic_simple": "الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ",
+      "text_arabic_uthmani": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+      "text_arabic_tajweed": "ٱلَّذ<tajweed class=madda_obligatory>ِىٓ</tajweed> أَ<tajweed class=qalaqah>طْ</tajweed>عَمَه<tajweed class=idgham_shafawi>ُم م</tajweed>ِّ<tajweed class=ikhafa>ن ج</tajweed>ُو<tajweed class=idgham_ghunnah>عٍ و</tajweed>َءَامَنَه<tajweed class=idgham_shafawi>ُم م</tajweed>ِّنْ خ<tajweed class=madda_permissible>َو</tajweed>ْفِۭ <span class=end>٤</span>",
+      "words": {
+        "en": [
+          {
+            "position": 1,
+            "text_code": "ٱلَّذِىٓ",
+            "audio_url": "wbw/106_004_001.mp3",
+            "translation": {
+              "text": "The One Who",
+              "language": "en"
+            },
+            "transliteration": "alladhī"
+          },
+          {
+            "position": 2,
+            "text_code": "أَطْعَمَهُم",
+            "audio_url": "wbw/106_004_002.mp3",
+            "translation": {
+              "text": "feeds them",
+              "language": "en"
+            },
+            "transliteration": "aṭʿamahum"
+          },
+          {
+            "position": 3,
+            "text_code": "مِّن",
+            "audio_url": "wbw/106_004_003.mp3",
+            "translation": {
+              "text": "[from]",
+              "language": "en"
+            },
+            "transliteration": "min"
+          },
+          {
+            "position": 4,
+            "text_code": "جُوعٍۢ",
+            "audio_url": "wbw/106_004_004.mp3",
+            "translation": {
+              "text": "(against) hunger",
+              "language": "en"
+            },
+            "transliteration": "jūʿin"
+          },
+          {
+            "position": 5,
+            "text_code": "وَءَامَنَهُم",
+            "audio_url": "wbw/106_004_005.mp3",
+            "translation": {
+              "text": "and gives them security",
+              "language": "en"
+            },
+            "transliteration": "waāmanahum"
+          },
+          {
+            "position": 6,
+            "text_code": "مِّنْ",
+            "audio_url": "wbw/106_004_006.mp3",
+            "translation": {
+              "text": "from",
+              "language": "en"
+            },
+            "transliteration": "min"
+          },
+          {
+            "position": 7,
+            "text_code": "خَوْفٍۭ",
+            "audio_url": "wbw/106_004_007.mp3",
+            "translation": {
+              "text": "fear",
+              "language": "en"
+            },
+            "transliteration": "khawfin"
+          }
+        ],
+        "id": [
+          {
+            "position": 1,
+            "text_code": "ٱلَّذِىٓ",
+            "audio_url": "wbw/106_004_001.mp3",
+            "translation": {
+              "text": "yang",
+              "language": "id"
+            },
+            "transliteration": "alladhī"
+          },
+          {
+            "position": 2,
+            "text_code": "أَطْعَمَهُم",
+            "audio_url": "wbw/106_004_002.mp3",
+            "translation": {
+              "text": "Dia memberi makan mereka",
+              "language": "id"
+            },
+            "transliteration": "aṭʿamahum"
+          },
+          {
+            "position": 3,
+            "text_code": "مِّن",
+            "audio_url": "wbw/106_004_003.mp3",
+            "translation": {
+              "text": "dari",
+              "language": "id"
+            },
+            "transliteration": "min"
+          },
+          {
+            "position": 4,
+            "text_code": "جُوعٍۢ",
+            "audio_url": "wbw/106_004_004.mp3",
+            "translation": {
+              "text": "kelaparan",
+              "language": "id"
+            },
+            "transliteration": "jūʿin"
+          },
+          {
+            "position": 5,
+            "text_code": "وَءَامَنَهُم",
+            "audio_url": "wbw/106_004_005.mp3",
+            "translation": {
+              "text": "dan Dia memberikan keamanan mereka",
+              "language": "id"
+            },
+            "transliteration": "waāmanahum"
+          },
+          {
+            "position": 6,
+            "text_code": "مِّنْ",
+            "audio_url": "wbw/106_004_006.mp3",
+            "translation": {
+              "text": "dari",
+              "language": "id"
+            },
+            "transliteration": "min"
+          },
+          {
+            "position": 7,
+            "text_code": "خَوْفٍۭ",
+            "audio_url": "wbw/106_004_007.mp3",
+            "translation": {
+              "text": "ketakutan",
+              "language": "id"
+            },
+            "transliteration": "khawfin"
+          }
+        ]
+      },
+      "translations": {
+        "en": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.",
+        "id": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan."
+      }
+    }
+  ],
+  "stats": {
+    "total_ayahs": 4,
+    "total_words_en": 17,
+    "total_words_id": 17
+  }
+}
