@@ -49,14 +49,13 @@ Each surah file (e.g., `001-al-fatihah.json`) contains:
 Access files directly via **jsDelivr CDN**:
 
 ```
-https://cdn.jsdelivr.net/gh/YOUR_USERNAME/quran-json@main/data/001-al-fatihah.json
+https://cdn.jsdelivr.net/gh/SA76/quran-json@main/data/001-al-fatihah.json
 ```
 
 ### JavaScript Example
 
 ```javascript
-const CDN_BASE =
-  "https://cdn.jsdelivr.net/gh/YOUR_USERNAME/quran-json@main/data";
+const CDN_BASE = "https://cdn.jsdelivr.net/gh/SA76/quran-json@main/data";
 
 async function getSurah(surahId) {
   const paddedId = String(surahId).padStart(3, "0");
